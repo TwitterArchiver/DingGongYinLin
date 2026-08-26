@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2068062808252780992",
+    "created_at": "2026-06-19T20:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068062808252780992"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068062808252780992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于害怕的事物\n害怕的事情当属突然响起来的敲门声和突然出现在枕边的纸条。父母的敲门声总是急促的，连续不断的敲击，即使我没有任何回应也会持续1～2分钟。突然出现的纸条就意味着属于我的空间被入侵了，在我无意识的情况下。无论纸条上的内容多么温馨，但我还是会感到不寒而栗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2068062808252780992",
+        "created_at": "2026-06-19T20:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068062808252780992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068062808252780992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于害怕的事物\n害怕的事情当属突然响起来的敲门声和突然出现在枕边的纸条。父母的敲门声总是急促的，连续不断的敲击，即使我没有任何回应也会持续1～2分钟。突然出现的纸条就意味着属于我的空间被入侵了，在我无意识的情况下。无论纸条上的内容多么温馨，但我还是会感到不寒而栗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 245,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

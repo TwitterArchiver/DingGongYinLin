@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2069745166152499331",
+    "created_at": "2026-06-24T15:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069810636020994482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069810636020994482",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069745166152499331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 不会被晶喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2069744970379165696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk2FacaAAAn7xE.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2069745166152499331",
+        "created_at": "2026-06-24T15:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069810636020994482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069810636020994482",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069745166152499331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 不会被晶喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069744970379165696"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069745166152499331",
+        "created_at": "2026-06-24T11:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069745166152499331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yT06Yk0AUt",
+              "end": 44,
+              "expanded_url": "https://x.com/mihuanhuanhuan/status/2069745166152499331/photo/1",
+              "media_key": "3_2069744970379165696",
+              "start": 21,
+              "url": "https://t.co/yT06Yk0AUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069745166152499331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这小子又在搞国内大案了\n\n………………… https://t.co/yT06Yk0AUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 247,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "………………………………………………",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 508,
+          "like_count": 3567,
+          "listed_count": 2,
+          "media_count": 479,
+          "tweet_count": 3769
+        },
+        "url": "",
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}
