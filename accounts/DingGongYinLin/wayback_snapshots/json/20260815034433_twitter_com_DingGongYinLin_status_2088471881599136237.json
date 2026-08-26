@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2088465939788611936",
+    "created_at": "2026-08-15T03:44:33.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088471881599136237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1448670268398968832",
+          "start": 0,
+          "username": "Mibai141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088471881599136237",
+    "in_reply_to_user_id": "1448670268398968832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088465939788611936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mibai141 好好好喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5633,
+        "height": 720,
+        "media_key": "13_2088465918196350976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088465918196350976/img/ffwWamkijVWbMfvf.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088465918196350976/vid/avc1/318x270/L24A0nu70eXGRTsO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088465918196350976/vid/avc1/424x360/oC394TimqDtpX3L-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088465918196350976/vid/avc1/850x720/c_Me2nfp3em32rRH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088465918196350976/pl/i_R8ov6rNyZBQI8a.m3u8"
+          }
+        ],
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2088465939788611936",
+        "created_at": "2026-08-15T03:44:33.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088471881599136237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1448670268398968832",
+              "start": 0,
+              "username": "Mibai141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088471881599136237",
+        "in_reply_to_user_id": "1448670268398968832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088465939788611936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mibai141 好好好喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088465918196350976"
+          ]
+        },
+        "author_id": "1448670268398968832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2088465939788611936",
+        "created_at": "2026-08-15T03:20:56.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088465939788611936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "魔女兵器"
+            }
+          ],
+          "urls": [
+            {
+              "description": "已获得樱姐许可，可以拿小怜形象做live2d（脑子一热就想来这么一出，看情况会不会用这个播，不过别想听到美少女的声音，三百斤纯爷们）不知道为什么用直播姬录制的素材有点糊，就将就的随便剪了一下视频：工具人小怜立绘：@塞克 模型：@希尔shea, 视频播放量 1621、弹幕量 0、点赞数 182、投硬币枚数 77、收藏人数 122、转发人数 8, 视频作者 工具人小怜, 作者简介 想到什么发什么，唉嘿！就是摸鱼_(:з」∠)【魔女兵器讨论群：562754582】，相关视频：【魔女兵器】(公益版)无限内购+内置GM后台菜单,任你爽,无偿免费分享速拿~，【魔女兵器】小怜跳蕾塞舞【seedance2.0】，感觉男主越来越奇怪，魔女兵器OP《末世乐园》完整版，魔女兵器补完计划之—《伪物散》歌词版，为什么我攻略的角色好感度上不去？，“你也是梦境多周目无敌特工？”，【魔女兵器】超燃OP《末世乐园》，是新玩具呢～（闪灵名场面），财富自由的小怜",
+              "display_url": "b23.tv/tMf11cj",
+              "end": 75,
+              "expanded_url": "https://b23.tv/tMf11cj",
+              "start": 52,
+              "status": 200,
+              "title": "【魔女兵器 小怜live2D模型展示】为了零花钱堂堂出道吧！_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1thgN6XEpZ/?buvid=awg_DTRWZVFlUGFYJFgkinfoc&from_spmid=default-value&is_story_h5=false&mid=elbPbb1s0y5RDoeYixDLCg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=bce6cfe2-5586-4423-aa4c-b65af97c39f6&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1786763878&unique_k=tMf11cj&up_id=34282178",
+              "url": "https://t.co/Acdi86D2ma"
+            },
+            {
+              "display_url": "pic.x.com/YdbmxifsJf",
+              "end": 99,
+              "expanded_url": "https://x.com/Mibai141/status/2088465939788611936/video/1",
+              "media_key": "13_2088465918196350976",
+              "start": 76,
+              "url": "https://t.co/YdbmxifsJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088465939788611936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088465918196350976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女兵器\n得到许可了！\n【【魔女兵器  小怜live2D模型展示】为了零花钱堂堂出道吧！-哔哩哔哩】 https://t.co/Acdi86D2ma https://t.co/YdbmxifsJf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088471881599136237",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 313,
+          "like_count": 16027,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3939
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-14T15:21:29.000Z",
+        "description": "don't mind\n\nhttps://t.co/kMxDBW0BnZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/27677902",
+                "end": 35,
+                "expanded_url": "https://www.pixiv.net/users/27677902",
+                "start": 12,
+                "url": "https://t.co/kMxDBW0BnZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1hh411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1hh41197iN/",
+                "start": 0,
+                "url": "https://t.co/254t8J9I1B"
+              }
+            ]
+          }
+        },
+        "id": "1448670268398968832",
+        "is_identity_verified": false,
+        "location": "West New York, NJ",
+        "most_recent_tweet_id": "2088465939788611936",
+        "name": "工具人小怜",
+        "pinned_tweet_id": "1963409100580294837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448670268398968832/1713324384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009292224983351296/0poYEOqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 35,
+          "like_count": 11482,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 6020
+        },
+        "url": "https://t.co/254t8J9I1B",
+        "username": "Mibai141",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

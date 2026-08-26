@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2083400873921880428",
+    "created_at": "2026-08-01T08:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083469605398565359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807453154369474560",
+          "start": 0,
+          "username": "KuaiWo34671"
+        },
+        {
+          "end": 24,
+          "id": "1843350227245510656",
+          "start": 13,
+          "username": "houhuilema"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083469605398565359",
+    "in_reply_to_user_id": "1807453154369474560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083454501588267313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuaiWo34671 @houhuilema 一几一几喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2083400873921880428",
+        "created_at": "2026-08-01T08:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083469605398565359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807453154369474560",
+              "start": 0,
+              "username": "KuaiWo34671"
+            },
+            {
+              "end": 24,
+              "id": "1843350227245510656",
+              "start": 13,
+              "username": "houhuilema"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469605398565359",
+        "in_reply_to_user_id": "1807453154369474560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083454501588267313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuaiWo34671 @houhuilema 一几一几喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807453154369474560",
+        "conversation_id": "2083400873921880428",
+        "created_at": "2026-08-01T07:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083454501588267313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843350227245510656",
+              "start": 0,
+              "username": "houhuilema"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083454501588267313",
+        "in_reply_to_user_id": "1843350227245510656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083442908598763548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houhuilema 我也是蛆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 305,
+          "like_count": 11878,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-30T16:36:39.000Z",
+        "description": "并非女孩，并非正常人，并非同性恋\n那么我的幸福在哪里",
+        "id": "1807453154369474560",
+        "location": "❤️",
+        "name": "快點上菜我又餓了",
+        "pinned_tweet_id": "2025880511806341496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816903884901863426/5tlbhJgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 85,
+          "like_count": 1301,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 2715
+        },
+        "url": "",
+        "username": "KuaiWo34671",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T17:58:52.000Z",
+        "description": "想去月球",
+        "id": "1843350227245510656",
+        "location": "人间",
+        "name": "Player",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079265758195122176/Bf6IKd6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 142,
+          "like_count": 9727,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 3215
+        },
+        "url": "",
+        "username": "houhuilema",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2067869962304360904",
+    "created_at": "2026-06-19T07:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067871596346556830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067871596346556830",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067869962304360904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 还是必背篇目喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1971,
+        "media_key": "3_2067861489911054336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKFEa7bwAAKObP.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2067869962304360904",
+        "created_at": "2026-06-19T07:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067871596346556830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067871596346556830",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067869962304360904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 还是必背篇目喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067861489911054336"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2067869962304360904",
+        "created_at": "2026-06-19T07:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067869962304360904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3X09CeOC1G",
+              "end": 164,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2067869962304360904/photo/1",
+              "media_key": "3_2067861489911054336",
+              "start": 141,
+              "url": "https://t.co/3X09CeOC1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067869962304360904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "反跨工作者一定要有文化，文章至少要找个读过高中的来写……😅\n\n《离骚》描写香草、兰芷、美人等等，并不代表屈原真的喜欢把花别在身上，也不代表屈原真的跨性别想当美人。这些只是楚辞中常用的意象，比如「美人」象征「君主或理想政治」，「香草」象征「高洁品德」，「装饰自身」象征「修养德行」。\n\n《离骚》之所以有这些女性化的描写，也是因为楚辞的风格就是如此。而且女性化的描写不等于作者现实生活中就是女性化人格：李白的作诗风格像仙人，就代表李白就是仙人吗？\n\n另外，文中引用的「既替余以蕙纕兮，又申之以揽茞」的意思显然不是文中所称的「连朝臣都看不惯……」。「朝臣」在这句诗并没有体现其意义的地方，实际上是无中生有。\n\n反跨工作者给屈原扣上跨性别的帽子，再对其批驳，以达到其反跨的目的，实在令人忍俊不禁。環状線读完这篇文章，不免要怀疑：作者真的上过高中吗？《离骚》是高中语文必讲课文吧？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反跨工作者一定要有文化，文章至少要找个读过高中的来写……😅\n\n《离骚》描写香草、兰芷、美人等等，并不代表屈原真的喜欢把花别在身上，也不代表屈原真的跨性别想当美人。这些只是楚辞中常用的意象，比如「美人」象征「君主或理想政治」，「香草」象征「高洁品德」，「装饰自身」象征「修养德行」。 https://t.co/3X09CeOC1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 246,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7147,
+          "following_count": 870,
+          "like_count": 26952,
+          "listed_count": 12,
+          "media_count": 1576,
+          "tweet_count": 8398
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2077205382100062537",
+    "created_at": "2026-07-15T02:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077213578244092255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077213578244092255",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077205382100062537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 早安喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077205368065892352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNO3RtkaIAA6V_k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2077205382100062537",
+        "created_at": "2026-07-15T02:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077213578244092255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077213578244092255",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077205382100062537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 早安喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077205368065892352"
+          ]
+        },
+        "author_id": "1684489356931629059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077205382100062537",
+        "created_at": "2026-07-15T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077205382100062537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCAoP1VIC1",
+              "end": 23,
+              "expanded_url": "https://x.com/jom123ab/status/2077205382100062537/photo/1",
+              "media_key": "3_2077205368065892352",
+              "start": 0,
+              "url": "https://t.co/CCAoP1VIC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077205382100062537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CCAoP1VIC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 278,
+          "like_count": 3992,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "id": "1684489356931629059",
+        "location": "一本回忆录里",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 2232,
+          "like_count": 8526,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1275
+        },
+        "url": "",
+        "username": "jom123ab",
+        "verified": false
+      }
+    ]
+  }
+}

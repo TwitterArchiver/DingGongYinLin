@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2078922338360586571",
+    "created_at": "2026-07-19T19:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078922338360586571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078922338360586571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当锋利的刀片划过它的脖子，血液喷涌而出。手中紧紧握着的翅膀能感受到它在奋力挣扎，感觉要拿不住了。然后，需要放手。但此时它越是挣扎，越会加速它的死亡。它的结局已经不会改变了，随着血液的逃离，它逐渐停止了活动。这种宰杀方式还是让它过于痛苦了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2078922338360586571",
+        "created_at": "2026-07-19T19:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078922338360586571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078922338360586571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当锋利的刀片划过它的脖子，血液喷涌而出。手中紧紧握着的翅膀能感受到它在奋力挣扎，感觉要拿不住了。然后，需要放手。但此时它越是挣扎，越会加速它的死亡。它的结局已经不会改变了，随着血液的逃离，它逐渐停止了活动。这种宰杀方式还是让它过于痛苦了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 286,
+          "like_count": 5470,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

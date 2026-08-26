@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2072225620541706468",
+    "created_at": "2026-07-01T08:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072231065553650091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1265048494852562944",
+          "start": 0,
+          "username": "cookie_maaumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072231065553650091",
+    "in_reply_to_user_id": "1265048494852562944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072225620541706468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookie_maaumu 加油喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2072225620541706468",
+        "created_at": "2026-07-01T08:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072231065553650091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1265048494852562944",
+              "start": 0,
+              "username": "cookie_maaumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072231065553650091",
+        "in_reply_to_user_id": "1265048494852562944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072225620541706468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookie_maaumu 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265048494852562944",
+        "conversation_id": "2072225620541706468",
+        "created_at": "2026-07-01T07:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072225620541706468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072225620541706468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "バイトいってきます！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 257,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 904
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-25T22:36:01.000Z",
+        "description": "しゅうすみです！お好きな呼び方でいいですよ～\nいろんなゲームをやってます\n雑多垢/鳴潮/スタレ/エンドフィールド/原神（休暇中）/VALORANT（休暇中）/マイクラ/スプラ/リズムゲーム/Steamのなんか\nタメ口でいいよ！気楽に絡も(*´˘`*)\n\nダーニャ💕︎💕︎💕💕💕💕💕💕💕💕💕💕💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8896uawqams5q8…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8896uawqams5q8k?t=dbUYED&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/B7uyBJ5Rjx"
+              }
+            ]
+          }
+        },
+        "id": "1265048494852562944",
+        "location": "ふわふわおふとん",
+        "name": "Shusumi🍪🫧",
+        "pinned_tweet_id": "2070397760034230517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057236868253745152/j3WkbK-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 722,
+          "like_count": 195507,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 9058
+        },
+        "url": "https://t.co/B7uyBJ5Rjx",
+        "username": "cookie_maaumu",
+        "verified": false
+      }
+    ]
+  }
+}

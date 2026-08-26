@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2064658549897343166",
+    "created_at": "2026-06-10T12:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064687916740468944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064687916740468944",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064658549897343166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 给了一点喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2064658535343149056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcj_7WbUAAyuQO.png",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2064658549897343166",
+        "created_at": "2026-06-10T12:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064687916740468944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064687916740468944",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064658549897343166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 给了一点喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064658535343149056"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2064658549897343166",
+        "created_at": "2026-06-10T10:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:24:41.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064654978942476740",
+          "2064656218082394129",
+          "2064656495166595545",
+          "2064658549897343166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kJH9F40ml",
+              "end": 170,
+              "expanded_url": "https://x.com/qiancongxyn/status/2064658549897343166/photo/1",
+              "media_key": "3_2064658535343149056",
+              "start": 147,
+              "url": "https://t.co/6kJH9F40ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658549897343166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "窝只能来要饭了🖐🏻️😭🖐🏻️\n我想有这样一天，没有想到来那么快\n在第一次炸柜被发现后，我买日雌又被发现了\n今天早上被查了一次手机，发现我买针的事情了，跟家庭沟通无效后惨遭打骂，二度炸柜转家暴\n\n我现在已经被迫准备出逃，家里方面掐断了我的经济来源了，现在急需吃饭钱\n今天出去还丢了400出逃费，\n不知道是不是被小偷偷了\n\n求求你们给点吧我真求求啦呜\n要是家里情况不妙我就真出逃了呜呜呜呜呜呜"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "窝只能来要饭了🖐🏻️😭🖐🏻️\n我想有这样一天，没有想到来那么快\n在第一次炸柜被发现后，我买日雌又被发现了\n今天早上被查了一次手机，发现我买针的事情了，跟家庭沟通无效后惨遭打骂，二度炸柜转家暴\n\n我现在已经被迫准备出逃，家里方面掐断了我的经济来源了，现在急需吃饭钱\n今天出去还丢了400出逃费， https://t.co/6kJH9F40ml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 230,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 210
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064658549897343166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 1018,
+          "like_count": 2352,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2091200435520676165",
+    "created_at": "2026-08-23T04:33:04.000Z",
+    "display_text_range": [
+      11,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T05:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091383194310598969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085261341577945088",
+          "start": 0,
+          "username": "Luminbkrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091383194310598969",
+    "in_reply_to_user_id": "2085261341577945088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091200435520676165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminbkrv 相遇是有意义的喵，如同平静的湖面落下一颗石子，让生活有了变化。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2091200435520676165",
+        "created_at": "2026-08-23T04:33:04.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091383194310598969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085261341577945088",
+              "start": 0,
+              "username": "Luminbkrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091383194310598969",
+        "in_reply_to_user_id": "2085261341577945088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091200435520676165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminbkrv 相遇是有意义的喵，如同平静的湖面落下一颗石子，让生活有了变化。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085261341577945088",
+        "conversation_id": "2091200435520676165",
+        "created_at": "2026-08-22T16:26:51.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091200435520676165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091200435520676165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日辩题是：\n如果注定要分别\n那相遇还有没有意义\n（我想听各位的发言）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091383194310598969",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 314,
+          "like_count": 18431,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 4388
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T07:08:49.000Z",
+        "description": "雪还会落下二代\n三代：@Aurvsnom\n问问题→ https://t.co/QzGdufRbep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Aurvsnom"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 49,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 26,
+                "url": "https://t.co/QzGdufRbep"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Luminbkrv",
+                "end": 23,
+                "expanded_url": "https://t.me/Luminbkrv",
+                "start": 0,
+                "url": "https://t.co/sp6dlxh95z"
+              }
+            ]
+          }
+        },
+        "id": "2085261341577945088",
+        "is_identity_verified": false,
+        "location": "你的心里♡ ",
+        "most_recent_tweet_id": "2091209896482185332",
+        "name": "落雪藏绪",
+        "pinned_tweet_id": "2089762280049430749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085261341577945088/1786693628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088170494424219648/BUbqSlsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 117,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/sp6dlxh95z",
+        "username": "Luminbkrv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

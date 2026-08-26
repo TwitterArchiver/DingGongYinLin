@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2081236294194135097",
+    "created_at": "2026-07-26T08:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081294278290981008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442726671841312769",
+          "start": 0,
+          "username": "eziral778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081294278290981008",
+    "in_reply_to_user_id": "1442726671841312769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081236294194135097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eziral778 加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2081236278755164160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIJXmDbgAAxIDy.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2081236294194135097",
+        "created_at": "2026-07-26T08:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081294278290981008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081294278290981008",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081236294194135097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081236278755164160"
+          ]
+        },
+        "author_id": "1442726671841312769",
+        "conversation_id": "2081236294194135097",
+        "created_at": "2026-07-26T04:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081236294194135097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OiXVwNvU8D",
+              "end": 31,
+              "expanded_url": "https://x.com/eziral778/status/2081236294194135097/photo/1",
+              "media_key": "3_2081236278755164160",
+              "start": 8,
+              "url": "https://t.co/OiXVwNvU8D"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4797714c95971ac1"
+        },
+        "id": "2081236294194135097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会好好吃饭的！ https://t.co/OiXVwNvU8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 297,
+          "like_count": 7994,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2606
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有",
+        "id": "1442726671841312769",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "念念",
+        "pinned_tweet_id": "2024363219876528515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850224171013521408/fHAVWYAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 634,
+          "like_count": 2275,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "eziral778",
+        "verified": false
+      }
+    ]
+  }
+}

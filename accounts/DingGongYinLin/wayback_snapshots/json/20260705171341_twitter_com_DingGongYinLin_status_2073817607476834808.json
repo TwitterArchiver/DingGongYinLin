@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2073806888769298510",
+    "created_at": "2026-07-05T17:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073817607476834808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073817607476834808",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073806888769298510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 可能吧喵，我现在完全不知道10后流行什么，玩什么喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2073806888769298510",
+        "created_at": "2026-07-05T17:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073817607476834808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073817607476834808",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073806888769298510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 可能吧喵，我现在完全不知道10后流行什么，玩什么喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684489356931629059",
+        "conversation_id": "2073806888769298510",
+        "created_at": "2026-07-05T16:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073806888769298510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073806888769298510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天遇到我玩光遇最难崩的事情\n遇到了一个10后小学刚上完的小朋友，我和他说我是00后的，结果他喊我叔叔😭😭\n然后还问我有没有见过慈禧😰😰\n难道00后和10后的代沟已经这么大了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 258,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1136
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jom56837",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jom56837",
+                "start": 0,
+                "url": "https://t.co/PJZZhqC100"
+              }
+            ]
+          }
+        },
+        "id": "1684489356931629059",
+        "location": "一本回忆录里",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 1980,
+          "like_count": 5673,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/PJZZhqC100",
+        "username": "jom123ab",
+        "verified": false
+      }
+    ]
+  }
+}

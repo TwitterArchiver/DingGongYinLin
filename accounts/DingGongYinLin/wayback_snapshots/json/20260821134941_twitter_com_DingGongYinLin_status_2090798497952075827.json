@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2090783593773842607",
+    "created_at": "2026-08-21T13:49:41.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090798497952075827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088902246268620800",
+          "start": 0,
+          "username": "GGQER_1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090798497952075827",
+    "in_reply_to_user_id": "2088902246268620800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090783593773842607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGQER_1102 比我小喵，嘿嘿嘿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090783578460467200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP0llBbMAAowyX.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2090783593773842607",
+        "created_at": "2026-08-21T13:49:41.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090798497952075827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088902246268620800",
+              "start": 0,
+              "username": "GGQER_1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090798497952075827",
+        "in_reply_to_user_id": "2088902246268620800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090783593773842607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGQER_1102 比我小喵，嘿嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090783578460467200"
+          ]
+        },
+        "author_id": "2088902246268620800",
+        "conversation_id": "2090783593773842607",
+        "created_at": "2026-08-21T12:50:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090783593773842607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKMlZTD4MQ",
+              "end": 36,
+              "expanded_url": "https://x.com/GGQER_1102/status/2090783593773842607/photo/1",
+              "media_key": "3_2090783578460467200",
+              "start": 13,
+              "url": "https://t.co/fKMlZTD4MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090783593773842607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090783578460467200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎大家的提问 爱你们😘 https://t.co/fKMlZTD4MQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090798497952075827",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 314,
+          "like_count": 18057,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 4286
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T08:15:42.000Z",
+        "description": "05/男/社恐/死人微活/有人和我聊就会爱上他（她）/性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/g%E2%80%86q",
+                "end": 23,
+                "expanded_url": "https://ngl.link/g%E2%80%86q",
+                "start": 0,
+                "url": "https://t.co/vfWhf7GXA3"
+              }
+            ]
+          }
+        },
+        "id": "2088902246268620800",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2090797996195897433",
+        "name": "GQ",
+        "pinned_tweet_id": "2090685338725536112",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088902629850247168/sM0edc7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/vfWhf7GXA3",
+        "username": "GGQER_1102",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2078464717035811190",
+    "created_at": "2026-07-18T13:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078468644754104649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        },
+        {
+          "end": 19,
+          "id": "112579471",
+          "start": 7,
+          "username": "Foxlink_app"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078468644754104649",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078464717035811190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb @Foxlink_app 感觉非常正常和正能量喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2078464717035811190",
+        "created_at": "2026-07-18T13:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078468644754104649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            },
+            {
+              "end": 19,
+              "id": "112579471",
+              "start": 7,
+              "username": "Foxlink_app"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078468644754104649",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078464717035811190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb @Foxlink_app 感觉非常正常和正能量喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024068861134528512",
+        "conversation_id": "2078464717035811190",
+        "created_at": "2026-07-18T12:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078464717035811190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "112579471",
+              "start": 26,
+              "username": "Foxlink_app"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078464717035811190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫪话说银狐他家发评论机器人看着怪像真人的逼片姐好多了@Foxlink_app"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 283,
+          "like_count": 5069,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1966
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 缺爱？抖m？ 🚪0r🥺一分不用\n不o不割纯发癫 我决定只发正常的东西了发疯的东西都去我草稿箱待着吧😋\n天残年龄党\n小号@ovvvvvvvvvvomtf\n出厂日期2011.8.31（开学前一天悲:(\n身高179 57.4kg\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2077300686853992684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 539,
+          "like_count": 3218,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-09T00:53:48.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/6p5LBtdnH5"
+              }
+            ]
+          }
+        },
+        "id": "112579471",
+        "name": "银狐VPN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074503342710288384/59e7IuzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10650,
+          "following_count": 4564,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/6p5LBtdnH5",
+        "username": "Foxlink_app",
+        "verified": true
+      }
+    ]
+  }
+}

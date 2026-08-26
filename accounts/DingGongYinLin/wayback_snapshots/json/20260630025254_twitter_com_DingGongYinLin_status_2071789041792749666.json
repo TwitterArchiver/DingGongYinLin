@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2071606863272001780",
+    "created_at": "2026-06-30T02:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071789041792749666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071789041792749666",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071606863272001780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 🤔😲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2071606863272001780",
+        "created_at": "2026-06-30T02:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071789041792749666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071789041792749666",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071606863272001780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 🤔😲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2071606863272001780",
+        "created_at": "2026-06-29T14:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071606863272001780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071606863272001780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《高数难》\n \n噫吁嚱，危乎崩哉！高数之难，难于上青天！\n微分与积分，刷题何茫然！\n尔来数月不温习，高数壹知识尽荒残。\n多元微分藏考点，叠加级数添险关。\n学子苦撑期末季，三更挑灯仍心寒。\n高数之难，难于上青天，闻此皆凋颜！\n \n阶导求偏，拉格朗日攀险岩。\n格林斯托克斯，曲面积分绕千弯。\n题山密密如剑列，演算稍错便全删。\n泰勒展开藏陷阱，换元积分步步艰。\n前有收敛区间之诘难，后有遗忘旧知之忧烦。\n公式繁多难熟记，一算失误泪潸潸。\n考场咫尺生死线，半步懈怠即遭难。\n \n嗟乎！期末之时，岂敢偷闲？\n积分算错，导数跑偏。\n级数判敛，思绪纷乱；旧册重翻，依稀茫然。\n昔年壹册根基处，而今提笔皆如烟。\n补偏救弊时日少，知识点堆如层峦。\n高数之难，难于上青天，使人听此摧心肝！\n \n习题册厚堆案头，每题皆是夺命筹。\n分部积分常丢项，级数交错难分辨。\n二重积分易反序，变量代换总卡关。\n五十分为斩杀线，分毫之差便留难。\n纵使昼读又夜研，易错之处仍连绵。\n老师划重点，字字皆难关。\n挂科之忧缠胸臆，不敢轻弃咬牙攀。\n \n噫吁嚱，苦哉哀哉！\n高数之难，终亦可攀！\n焚膏继晷磨题海，拾旧新知克万山。\n纵然前册皆遗忘，死磕方免补考难！\n高数虽难，终非天堑，勤勉方能渡险关！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《高数难》\n \n噫吁嚱，危乎崩哉！高数之难，难于上青天！\n微分与积分，刷题何茫然！\n尔来数月不温习，高数壹知识尽荒残。\n多元微分藏考点，叠加级数添险关。\n学子苦撑期末季，三更挑灯仍心寒。\n高数之难，难于上青天，闻此皆凋颜！\n \n阶导求偏，拉格朗日攀险岩。\n格林斯托克斯，曲面积分绕千弯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 256,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 523,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

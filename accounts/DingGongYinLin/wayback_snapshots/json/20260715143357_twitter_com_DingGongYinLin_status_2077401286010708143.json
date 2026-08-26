@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2077396315710120261",
+    "created_at": "2026-07-15T14:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077401286010708143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077401286010708143",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077396315710120261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 雑魚ニャン，雑魚ニャン"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2077396315710120261",
+        "created_at": "2026-07-15T14:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077401286010708143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077401286010708143",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077396315710120261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 雑魚ニャン，雑魚ニャン"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2077396315710120261",
+        "created_at": "2026-07-15T14:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077396315710120261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077396315710120261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大家这么关心窝当然很开森的喵～❤️\n当然，没有那么严重啊喵\n窝要是真的是那种头悬梁锥刺股的学霸早在高一就开始努力了喵\n现在毕竟还是暑假\n我只是需要一些时间和家里人规划升学\n所以不能高强度刷x了\n并不是报补习班努力去了（\n以及开学的时候也会少刷一会儿x\n但毕竟劳逸结合\n窝要真是全在枯燥地学习的话\n直接就要和房梁拔河了喵\n窝不是隐退了喵\n窝还在的喵～❤️\n😋哈哈哈哈哈哈～\n众多杂鱼们啊～❤️\n😋献上泥们的溢美之词把喵～\n😋祈求窝对你们这些臭杂鱼的回复吧喵\n杂鱼～❤️～杂鱼～喵～❤️\n看在泥门这么关心窝的份上～❤️\n窝就少说泥几句…差劲❤️～\n吧～喵～❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家这么关心窝当然很开森的喵～❤️\n当然，没有那么严重啊喵\n窝要是真的是那种头悬梁锥刺股的学霸早在高一就开始努力了喵\n现在毕竟还是暑假\n我只是需要一些时间和家里人规划升学\n所以不能高强度刷x了\n并不是报补习班努力去了（\n以及开学的时候也会少刷一会儿x\n但毕竟劳逸结合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 278,
+          "like_count": 4171,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1767
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜\n｜小号@konizazadesu免得找不到请灌注一下喵～｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2077396315710120261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 1265,
+          "like_count": 4239,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2140
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

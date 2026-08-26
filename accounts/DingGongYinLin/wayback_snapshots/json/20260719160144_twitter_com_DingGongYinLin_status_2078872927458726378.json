@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2078652626452050359",
+    "created_at": "2026-07-19T16:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078872927458726378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1391041854536179714",
+          "start": 0,
+          "username": "hitman61724875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078872927458726378",
+    "in_reply_to_user_id": "1391041854536179714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078652626452050359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hitman61724875 怒って笑ったニャー😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2078652620038893568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjbi3TacAA_Yx_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2078652620038918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjbi3Ta0AAk7Fd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2078652620097695744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjbi3hbsAAIUsr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2078652620051480577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjbi3WagAE2AZV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2078652626452050359",
+        "created_at": "2026-07-19T16:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078872927458726378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1391041854536179714",
+              "start": 0,
+              "username": "hitman61724875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078872927458726378",
+        "in_reply_to_user_id": "1391041854536179714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078652626452050359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hitman61724875 怒って笑ったニャー😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078652620038893568",
+            "3_2078652620038918144",
+            "3_2078652620097695744",
+            "3_2078652620051480577"
+          ]
+        },
+        "author_id": "1391041854536179714",
+        "conversation_id": "2078652626452050359",
+        "created_at": "2026-07-19T01:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078652626452050359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLfIii1No4",
+              "end": 30,
+              "expanded_url": "https://x.com/hitman61724875/status/2078652626452050359/photo/1",
+              "media_key": "3_2078652620038893568",
+              "start": 7,
+              "url": "https://t.co/rLfIii1No4"
+            },
+            {
+              "display_url": "pic.x.com/rLfIii1No4",
+              "end": 30,
+              "expanded_url": "https://x.com/hitman61724875/status/2078652626452050359/photo/1",
+              "media_key": "3_2078652620038918144",
+              "start": 7,
+              "url": "https://t.co/rLfIii1No4"
+            },
+            {
+              "display_url": "pic.x.com/rLfIii1No4",
+              "end": 30,
+              "expanded_url": "https://x.com/hitman61724875/status/2078652626452050359/photo/1",
+              "media_key": "3_2078652620097695744",
+              "start": 7,
+              "url": "https://t.co/rLfIii1No4"
+            },
+            {
+              "display_url": "pic.x.com/rLfIii1No4",
+              "end": 30,
+              "expanded_url": "https://x.com/hitman61724875/status/2078652626452050359/photo/1",
+              "media_key": "3_2078652620051480577",
+              "start": 7,
+              "url": "https://t.co/rLfIii1No4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078652626452050359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1382,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "シリーズモノ https://t.co/rLfIii1No4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 286,
+          "like_count": 5366,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2044
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-08T14:48:30.000Z",
+        "description": "裏世界ピクニックはいいぞ\n18↑パニグレやってる人脳死でいいねとフォローしまくります。無言フォロー失礼します=͟͟͞͞( 'ヮ' 三 'ヮ' =͟͟͞͞)",
+        "id": "1391041854536179714",
+        "location": "エデン級空中庭園　DS研　UBL研究室　未来ガジェット研究所",
+        "name": "米雨 🗝️",
+        "pinned_tweet_id": "2043423872943522201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391042708236423168/OIqg3pTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 2140,
+          "like_count": 28347,
+          "listed_count": 10,
+          "media_count": 1209,
+          "tweet_count": 13151
+        },
+        "url": "",
+        "username": "hitman61724875",
+        "verified": false
+      }
+    ]
+  }
+}

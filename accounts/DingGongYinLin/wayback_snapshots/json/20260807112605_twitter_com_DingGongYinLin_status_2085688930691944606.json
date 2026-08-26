@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085688896076341248",
+        "3_2085688916821393409"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085688930691944606",
+    "created_at": "2026-08-07T11:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085688930691944606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yZzoHOPJX2",
+          "end": 27,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2085688930691944606/photo/1",
+          "media_key": "3_2085688896076341248",
+          "start": 4,
+          "url": "https://t.co/yZzoHOPJX2"
+        },
+        {
+          "display_url": "pic.x.com/yZzoHOPJX2",
+          "end": 27,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2085688930691944606/photo/1",
+          "media_key": "3_2085688916821393409",
+          "start": 4,
+          "url": "https://t.co/yZzoHOPJX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085688930691944606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚饭喵 https://t.co/yZzoHOPJX2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2085688896076341248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHbACKbYAAPJKa.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2085688916821393409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHbBPcbwAEFym5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085688896076341248",
+            "3_2085688916821393409"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085688930691944606",
+        "created_at": "2026-08-07T11:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085688930691944606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZzoHOPJX2",
+              "end": 27,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2085688930691944606/photo/1",
+              "media_key": "3_2085688896076341248",
+              "start": 4,
+              "url": "https://t.co/yZzoHOPJX2"
+            },
+            {
+              "display_url": "pic.x.com/yZzoHOPJX2",
+              "end": 27,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2085688930691944606/photo/1",
+              "media_key": "3_2085688916821393409",
+              "start": 4,
+              "url": "https://t.co/yZzoHOPJX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085688930691944606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭喵 https://t.co/yZzoHOPJX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 311,
+          "like_count": 13979,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 3580
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

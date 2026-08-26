@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2070042967168209264",
+    "created_at": "2026-06-25T17:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070190757408022818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747688912133451776",
+          "start": 0,
+          "username": "AkimuraRogan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070190757408022818",
+    "in_reply_to_user_id": "1747688912133451776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070042967168209264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkimuraRogan /ᐠ ｡‸ ｡ᐟ\\"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2070042515458396161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpEs0PakAEPuZW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2070042967168209264",
+        "created_at": "2026-06-25T17:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070190757408022818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747688912133451776",
+              "start": 0,
+              "username": "AkimuraRogan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070190757408022818",
+        "in_reply_to_user_id": "1747688912133451776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070042967168209264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkimuraRogan /ᐠ ｡‸ ｡ᐟ\\"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070042515458396161"
+          ]
+        },
+        "author_id": "1747688912133451776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070042967168209264",
+        "created_at": "2026-06-25T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070042967168209264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4rfe8GUQY",
+              "end": 41,
+              "expanded_url": "https://x.com/AkimuraRogan/status/2070042967168209264/photo/1",
+              "media_key": "3_2070042515458396161",
+              "start": 18,
+              "url": "https://t.co/F4rfe8GUQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070042967168209264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "→→→→→→→→\n( ；д；)ﾉｼ https://t.co/F4rfe8GUQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 248,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-17T18:34:50.000Z",
+        "description": "メイン鳴潮＋雑多垢/推し：ザンニー・MS：ナイチンゲール\nゲーム・アニメ・小説何でも好きな陰ヲタク。\n※好きなモノ語る時だけ早口になります。\n時々内容におっさんが宿ります。紳士である事を心がけてますが、苦手な方はご注意下さい。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@akimura_mayson",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@akimura_mayson",
+                "start": 0,
+                "url": "https://t.co/nrLuCA1mEJ"
+              }
+            ]
+          }
+        },
+        "id": "1747688912133451776",
+        "name": "明村",
+        "pinned_tweet_id": "2018092133920690236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041321724013359104/cpAKPUUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 386,
+          "like_count": 7620,
+          "listed_count": 1,
+          "media_count": 691,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/nrLuCA1mEJ",
+        "username": "AkimuraRogan",
+        "verified": false
+      }
+    ]
+  }
+}

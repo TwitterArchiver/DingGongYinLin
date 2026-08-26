@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2088516726107390110",
+    "created_at": "2026-08-15T06:47:27.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088517912743002590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088517912743002590",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088517673370181744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 是的喵，现在想再玩一遍喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2088516726107390110",
+        "created_at": "2026-08-15T06:47:27.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088517912743002590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088517912743002590",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088517673370181744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 是的喵，现在想再玩一遍喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684489356931629059",
+        "conversation_id": "2088516726107390110",
+        "created_at": "2026-08-15T06:46:30.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088517673370181744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088517673370181744",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088516726107390110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 超级好玩的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088517912743002590",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 313,
+          "like_count": 16054,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3945
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jom123ab",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jom123ab",
+                "start": 0,
+                "url": "https://t.co/vPpRVW5i49"
+              }
+            ]
+          }
+        },
+        "id": "1684489356931629059",
+        "is_identity_verified": false,
+        "location": "一本回忆录里",
+        "most_recent_tweet_id": "2088517673370181744",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684489356931629059/1785494168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 2620,
+          "like_count": 15768,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/vPpRVW5i49",
+        "username": "jom123ab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065028995566141440"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064711866644091267",
+    "created_at": "2026-06-11T11:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065028999009681571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918610181174571008",
+          "start": 0,
+          "username": "ly231223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTUVP53wZj",
+          "end": 33,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2065028999009681571/photo/1",
+          "media_key": "3_2065028995566141440",
+          "start": 10,
+          "url": "https://t.co/eTUVP53wZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065028999009681571",
+    "in_reply_to_user_id": "1918610181174571008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064711866644091267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ly231223 https://t.co/eTUVP53wZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2065028995566141440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh07jOaAAAWEmt.jpg",
+        "width": 605
+      },
+      {
+        "height": 987,
+        "media_key": "3_2064711862126833664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdUf9Ga8AAP-wh.jpg",
+        "width": 1737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065028995566141440"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064711866644091267",
+        "created_at": "2026-06-11T11:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065028999009681571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918610181174571008",
+              "start": 0,
+              "username": "ly231223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTUVP53wZj",
+              "end": 33,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2065028999009681571/photo/1",
+              "media_key": "3_2065028995566141440",
+              "start": 10,
+              "url": "https://t.co/eTUVP53wZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065028999009681571",
+        "in_reply_to_user_id": "1918610181174571008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064711866644091267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ly231223 https://t.co/eTUVP53wZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064711862126833664"
+          ]
+        },
+        "author_id": "1918610181174571008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064711866644091267",
+        "created_at": "2026-06-10T14:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064711866644091267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV1UsE36…",
+              "end": 57,
+              "expanded_url": "https://www.bilibili.com/video/BV1UsE368E7H/?share_source=copy_web&vd_source=0785c9c11842a379a40c0766debd39ad",
+              "start": 34,
+              "unwound_url": "https://www.bilibili.com/video/BV1UsE368E7H/?share_source=copy_web&vd_source=0785c9c11842a379a40c0766debd39ad",
+              "url": "https://t.co/JGqrlYDvjr"
+            },
+            {
+              "display_url": "pic.x.com/KRAgxIYUDJ",
+              "end": 81,
+              "expanded_url": "https://x.com/ly231223/status/2064711866644091267/photo/1",
+              "media_key": "3_2064711862126833664",
+              "start": 58,
+              "url": "https://t.co/KRAgxIYUDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064711866644091267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【《长路归航》百人合唱 | 我们踏上的，从一开始就是一条归航长路】 https://t.co/JGqrlYDvjr https://t.co/KRAgxIYUDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 232,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 221
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T10:14:57.000Z",
+        "description": "22 ♂ 🇨🇳 coser 日本留学中 \n鳴潮 / アークナイツ中心◎\nパニグレ / スタレ / グラブル etc…他ゲーもゆるく遊んでます🎮。気軽に仲良くしてください🙏無言フォロー失礼します！",
+        "id": "1918610181174571008",
+        "name": "凌雲ryouun",
+        "pinned_tweet_id": "1920028446555840586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053656684988669952/I3oto6ZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 161,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 163
+        },
+        "username": "ly231223",
+        "verified": true
+      }
+    ]
+  }
+}

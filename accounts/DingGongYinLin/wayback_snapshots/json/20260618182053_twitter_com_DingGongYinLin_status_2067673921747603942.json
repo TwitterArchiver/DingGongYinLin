@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067673913799380992"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "conversation_id": "2067673921747603942",
+    "created_at": "2026-06-18T18:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067673921747603942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UKbw4oN7XT",
+          "end": 43,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2067673921747603942/photo/1",
+          "media_key": "3_2067673913799380992",
+          "start": 20,
+          "url": "https://t.co/UKbw4oN7XT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067673921747603942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实测使用中国大陆身份证可以进行身份验证 https://t.co/UKbw4oN7XT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2067673913799380992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHaeDdakAAv4_z.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067673913799380992"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2067673921747603942",
+        "created_at": "2026-06-18T18:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067673921747603942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UKbw4oN7XT",
+              "end": 43,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2067673921747603942/photo/1",
+              "media_key": "3_2067673913799380992",
+              "start": 20,
+              "url": "https://t.co/UKbw4oN7XT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067673921747603942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实测使用中国大陆身份证可以进行身份验证 https://t.co/UKbw4oN7XT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 246,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 428
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2060711677901889681",
+    "created_at": "2026-05-30T20:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060818316718117218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1283672799777886208",
+          "start": 0,
+          "username": "isaacrrr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060818316718117218",
+    "in_reply_to_user_id": "1283672799777886208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060711677901889681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaacrrr7 Death penalty"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2060711677901889681",
+        "created_at": "2026-05-30T20:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060818316718117218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1283672799777886208",
+              "start": 0,
+              "username": "isaacrrr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060818316718117218",
+        "in_reply_to_user_id": "1283672799777886208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060711677901889681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaacrrr7 Death penalty"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283672799777886208",
+        "conversation_id": "2060711677901889681",
+        "created_at": "2026-05-30T13:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060711677901889681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060711677901889681",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 490841,
+          "like_count": 1568,
+          "quote_count": 91,
+          "reply_count": 765,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "¿Estás de acuerdo en que los hombres que violan a niños deben ir a prisión de por vida?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 217,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-16T08:00:38.000Z",
+        "description": "Judío Argentino en Israel, 30 años.\nSígueme también en @isaacrrrr7.\nSiempre defendiendo a Israel y a Occidente.\nNo a Hamás. No a la invasión islámica.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "isaacrrrr7"
+              }
+            ]
+          }
+        },
+        "id": "1283672799777886208",
+        "location": "Israel",
+        "name": "Isaac",
+        "pinned_tweet_id": "2030605506356629834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776698744366305281/hicpNVAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213732,
+          "following_count": 3789,
+          "like_count": 232809,
+          "listed_count": 533,
+          "media_count": 70945,
+          "tweet_count": 131347
+        },
+        "username": "isaacrrr7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2072673160101773410",
+    "created_at": "2026-07-02T15:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072700425904455809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942081492508905473",
+          "start": 0,
+          "username": "ABC20111222szx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072700425904455809",
+    "in_reply_to_user_id": "1942081492508905473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072673160101773410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC20111222szx 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2072673131681259520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOdO1VboAAuN0W.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2072673160101773410",
+        "created_at": "2026-07-02T15:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072700425904455809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942081492508905473",
+              "start": 0,
+              "username": "ABC20111222szx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072700425904455809",
+        "in_reply_to_user_id": "1942081492508905473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072673160101773410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC20111222szx 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072673131681259520"
+          ]
+        },
+        "author_id": "1942081492508905473",
+        "conversation_id": "2072673160101773410",
+        "created_at": "2026-07-02T13:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072673160101773410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgK4SmOFu2",
+              "end": 32,
+              "expanded_url": "https://x.com/ABC20111222szx/status/2072673160101773410/photo/1",
+              "media_key": "3_2072673131681259520",
+              "start": 9,
+              "url": "https://t.co/OgK4SmOFu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072673160101773410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还可以吧，求抱抱 https://t.co/OgK4SmOFu2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 255,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T04:41:35.000Z",
+        "description": "16岁 初三喵 男生 身高163 / 55kg \n二次元+玩游戏+会点电脑+会发生活\n支持🏳️‍⚧️ 很友好\n不吃糖 不割手)\n求抱抱💕\n邮箱地址ABC20111222@outlook.com",
+        "id": "1942081492508905473",
+        "location": "冰岛",
+        "name": "𝕬𝖎𝖒𝖊𝖗¹☭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071166294414524416/wJ-BJ88a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 442,
+          "like_count": 668,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "ABC20111222szx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2071210601003790844",
+    "created_at": "2026-06-29T01:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071405826376655133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042566491607105536",
+          "start": 0,
+          "username": "roosyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071405826376655133",
+    "in_reply_to_user_id": "2042566491607105536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071210601003790844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roosyyyyyy 太辛苦了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2071210601003790844",
+        "created_at": "2026-06-29T01:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071405826376655133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042566491607105536",
+              "start": 0,
+              "username": "roosyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071405826376655133",
+        "in_reply_to_user_id": "2042566491607105536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071210601003790844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roosyyyyyy 太辛苦了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042566491607105536",
+        "conversation_id": "2071210601003790844",
+        "created_at": "2026-06-28T12:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071210601003790844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071210601003790844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就期末考试\n现在给学生复习讲题嗓子都快喊冒烟了\n底下一点反应也没有\n就这样命苦吧🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 252,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T11:34:49.000Z",
+        "description": "碎碎念~\n（骂我的全家死了😋）",
+        "id": "2042566491607105536",
+        "name": "哦关我什么事啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068160247978700800/qwXV7bls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 56,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "roosyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

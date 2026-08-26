@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068389951126073344"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "conversation_id": "2068389966548480334",
+    "created_at": "2026-06-20T17:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068389966548480334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjavqmTaOh",
+          "end": 32,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2068389966548480334/photo/1",
+          "media_key": "16_2068389951126073344",
+          "start": 9,
+          "url": "https://t.co/QjavqmTaOh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068389966548480334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好新奇的点赞特效 https://t.co/QjavqmTaOh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 116,
+        "media_key": "16_2068389951126073344",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLRls6XbcAAU9VK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLRls6XbcAAU9VK.mp4"
+          }
+        ],
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068389951126073344"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2068389966548480334",
+        "created_at": "2026-06-20T17:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068389966548480334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjavqmTaOh",
+              "end": 32,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2068389966548480334/photo/1",
+              "media_key": "16_2068389951126073344",
+              "start": 9,
+              "url": "https://t.co/QjavqmTaOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068389966548480334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好新奇的点赞特效 https://t.co/QjavqmTaOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 246,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

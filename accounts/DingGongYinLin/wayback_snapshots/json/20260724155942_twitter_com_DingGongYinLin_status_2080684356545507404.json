@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2080628620192809345",
+    "created_at": "2026-07-24T15:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080684356545507404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072913223511339008",
+          "start": 0,
+          "username": "shixiaomonune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080684356545507404",
+    "in_reply_to_user_id": "2072913223511339008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080628620192809345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaomonune 我一个现实朋友都没有喵，全在网上喵😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2080628620192809345",
+        "created_at": "2026-07-24T15:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080684356545507404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072913223511339008",
+              "start": 0,
+              "username": "shixiaomonune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080684356545507404",
+        "in_reply_to_user_id": "2072913223511339008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080628620192809345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaomonune 我一个现实朋友都没有喵，全在网上喵😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072913223511339008",
+        "conversation_id": "2080628620192809345",
+        "created_at": "2026-07-24T12:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080628620192809345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080628620192809345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都能和別人（正常）的交流\n大家都能交到朋友……\n都……就我……\n從小到大現下見過面的朋友……這輩子……沒超過……三個……\n我還是買鹽算了吧……好痛苦……人類……\n吃鹽就可以逃離人類這種幾乎無法計算的東西了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 296,
+          "like_count": 7444,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2491
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-03T05:21:07.000Z",
+        "description": "可愛的小貓一隻・chushengriqi20101130 優點：会点魔 术~~~比赛拿过两年亚军,魔术爱好者内中 低水平 （毕竟我还小）缺點：缺愛・沒安全感\n二號（出生日期）2026 6 1\n（以及你能想到的任何可能存在的缺點）\n加wechat52（同類除外）\n喵//les//",
+        "id": "2072913223511339008",
+        "name": "山茶花",
+        "pinned_tweet_id": "2079407749562339579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072914983218978816/JtIvL988_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 81,
+          "like_count": 367,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "shixiaomonune",
+        "verified": false
+      }
+    ]
+  }
+}

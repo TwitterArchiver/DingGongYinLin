@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088582152573308928"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "conversation_id": "2088581286911000977",
+    "created_at": "2026-08-15T11:02:45.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088582161431765138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WWh7fWGa24",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2088582161431765138/photo/1",
+          "media_key": "3_2088582152573308928",
+          "start": 0,
+          "url": "https://t.co/WWh7fWGa24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088582161431765138",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088582152573308928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088581286911000977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/WWh7fWGa24"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088582152573308928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwiZuhaUAA8J4c.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2088581279067623424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwhm4dbUAAyKtD.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088582152573308928"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2088581286911000977",
+        "created_at": "2026-08-15T11:02:45.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088582161431765138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWh7fWGa24",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2088582161431765138/photo/1",
+              "media_key": "3_2088582152573308928",
+              "start": 0,
+              "url": "https://t.co/WWh7fWGa24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088582161431765138",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088582152573308928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088581286911000977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WWh7fWGa24"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088581279067623424"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2088581286911000977",
+        "created_at": "2026-08-15T10:59:17.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088581286911000977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nL0swzxfEp",
+              "end": 31,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2088581286911000977/photo/1",
+              "media_key": "3_2088581279067623424",
+              "start": 8,
+              "url": "https://t.co/nL0swzxfEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088581286911000977",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088581279067623424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会要下雨吧喵 https://t.co/nL0swzxfEp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088582161431765138",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 316,
+          "like_count": 16080,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3953
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

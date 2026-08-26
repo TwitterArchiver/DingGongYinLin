@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2071981171131453496",
+    "created_at": "2026-06-30T19:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072043020686639232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072043020686639232",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071981171131453496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 强制使用几次后，感受到便利后，应该就会接受喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2071981171131453496",
+        "created_at": "2026-06-30T19:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072043020686639232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072043020686639232",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071981171131453496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 强制使用几次后，感受到便利后，应该就会接受喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2071981171131453496",
+        "created_at": "2026-06-30T15:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071981171131453496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liujiayi1111/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/liujiayi1111/status/2071979032304894440",
+              "start": 139,
+              "url": "https://t.co/i39z1Lkrev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071981171131453496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我给家里买了扫地机器人又不用，非要坚持扫地，扫完再拖地，然后抱怨腰酸背痛。\n我买了洗衣机，洗碗机又不用，又说每天好像什么事都没做，一整天都在忙家务，我妈又抱怨我爸不帮忙一起做家务。\n我买了空调又不用，又说吹自然风好，外面温度那么热，吹的都是热风，结果都热得中暑，就是不开空调。\n买了新鲜的水果又不舍得吃，放着干了，快坏了又怕丢掉浪费了才吃，我都说了我们不差这几个钱，想要再买新鲜的就好了，非要吃不新鲜的水果\n🙄🙄🙄 老年人就是固执，完全听不进去"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1139,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071979032304894440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我给家里买了扫地机器人又不用，非要坚持扫地，扫完再拖地，然后抱怨腰酸背痛。\n我买了洗衣机，洗碗机又不用，又说每天好像什么事都没做，一整天都在忙家务，我妈又抱怨我爸不帮忙一起做家务。\n我买了空调又不用，又说吹自然风好，外面温度那么热，吹的都是热风，结果都热得中暑，就是不开空调。 https://t.co/i39z1Lkrev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 258,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9168,
+          "following_count": 93,
+          "like_count": 10992,
+          "listed_count": 27,
+          "media_count": 262,
+          "tweet_count": 2482
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

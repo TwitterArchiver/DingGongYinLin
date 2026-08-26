@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066155314236583936"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "conversation_id": "2066155316929253652",
+    "created_at": "2026-06-14T13:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066155316929253652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/90pa5uP2dj",
+          "end": 29,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2066155316929253652/photo/1",
+          "media_key": "3_2066155314236583936",
+          "start": 6,
+          "url": "https://t.co/90pa5uP2dj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066155316929253652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完蛋了喵😱 https://t.co/90pa5uP2dj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2224,
+        "media_key": "3_2066155314236583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx1T7PbcAAexUR.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066155314236583936"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066155316929253652",
+        "created_at": "2026-06-14T13:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066155316929253652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90pa5uP2dj",
+              "end": 29,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2066155316929253652/photo/1",
+              "media_key": "3_2066155314236583936",
+              "start": 6,
+              "url": "https://t.co/90pa5uP2dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066155316929253652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了喵😱 https://t.co/90pa5uP2dj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 242,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 278
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

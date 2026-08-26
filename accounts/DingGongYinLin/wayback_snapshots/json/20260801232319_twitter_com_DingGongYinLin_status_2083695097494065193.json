@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2083391904444739958",
+    "created_at": "2026-08-01T23:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083695097494065193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627233306260680704",
+          "start": 0,
+          "username": "cyzhen666a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083695097494065193",
+    "in_reply_to_user_id": "1627233306260680704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083391904444739958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyzhen666a 不是喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2083391898597957632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmx5LvboAA5xWA.jpg",
+        "width": 1399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2083391904444739958",
+        "created_at": "2026-08-01T23:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083695097494065193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627233306260680704",
+              "start": 0,
+              "username": "cyzhen666a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083695097494065193",
+        "in_reply_to_user_id": "1627233306260680704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083391904444739958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyzhen666a 不是喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083391898597957632"
+          ]
+        },
+        "author_id": "1627233306260680704",
+        "conversation_id": "2083391904444739958",
+        "created_at": "2026-08-01T03:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083391904444739958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfuQ4LKzYt",
+              "end": 37,
+              "expanded_url": "https://x.com/cyzhen666a/status/2083391904444739958/photo/1",
+              "media_key": "3_2083391898597957632",
+              "start": 14,
+              "url": "https://t.co/RfuQ4LKzYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083391904444739958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16321,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提问：这是同一个函数吗？🤔 https://t.co/RfuQ4LKzYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 307,
+          "like_count": 12269,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T09:07:32.000Z",
+        "description": "养成系搭子： @zysunshine0309\n男大体验卡到期\n👩🏻‍🎓清华北大没考上 | English🉑IELTS&CET6\n| 分享日常和碎碎念 欢迎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "zysunshine0309"
+              }
+            ]
+          }
+        },
+        "id": "1627233306260680704",
+        "name": "砚迟🔜北京🔜西安",
+        "pinned_tweet_id": "2065253819198624002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793552023193014274/PBHiOL33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 787,
+          "like_count": 8189,
+          "listed_count": 6,
+          "media_count": 167,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "cyzhen666a",
+        "verified": false
+      }
+    ]
+  }
+}

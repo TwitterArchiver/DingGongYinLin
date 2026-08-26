@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2087017314285703473",
+    "created_at": "2026-08-11T03:52:29.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T04:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087024326449177001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077747796849856513",
+          "start": 0,
+          "username": "Kir4uha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087024326449177001",
+    "in_reply_to_user_id": "2077747796849856513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087017314285703473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uha Okay meow."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2087017309290299392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaTL3BXAAAROiK.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2087017314285703473",
+        "created_at": "2026-08-11T03:52:29.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087024326449177001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077747796849856513",
+              "start": 0,
+              "username": "Kir4uha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087024326449177001",
+        "in_reply_to_user_id": "2077747796849856513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087017314285703473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uha Okay meow."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087017309290299392"
+          ]
+        },
+        "author_id": "2077747796849856513",
+        "conversation_id": "2087017314285703473",
+        "created_at": "2026-08-11T03:24:37.000Z",
+        "display_text_range": [
+          0,
+          243
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087017314285703473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwRoUWu3sd",
+              "end": 267,
+              "expanded_url": "https://x.com/Kir4uha/status/2087017314285703473/photo/1",
+              "media_key": "3_2087017309290299392",
+              "start": 244,
+              "url": "https://t.co/LwRoUWu3sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087017314285703473",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2087017309290299392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "It's been a long time since I've posted, I don't know, most likely I'll be re-creating my account because they haven't lifted my shadow ban yet. I wish you all a good day, good mood and wonderful well-being. May everything be fine with you all https://t.co/LwRoUWu3sd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087024326449177001",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 312,
+          "like_count": 14899,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 3752
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T13:32:03.000Z",
+        "description": "I love everyone in this world, But no one loves me.\nTg:@Kir4ur Discord:@slon_begushih\nstem: https://t.co/HhggEf7EZi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "Kir4ur"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "slon_begushih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/98845/",
+                "end": 115,
+                "expanded_url": "https://steamcommunity.com/id/98845/",
+                "start": 92,
+                "url": "https://t.co/HhggEf7EZi"
+              }
+            ]
+          }
+        },
+        "id": "2077747796849856513",
+        "is_identity_verified": false,
+        "location": "Россия Курск",
+        "most_recent_tweet_id": "2087017314285703473",
+        "name": "Kiruha",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077747796849856513/1785348107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082527021138100224/ZLW0aJZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 247,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "Kir4uha",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

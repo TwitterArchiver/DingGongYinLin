@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2087929013000131020",
+    "created_at": "2026-08-13T15:48:53.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087929392878248262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087929392878248262",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087929013000131020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 😭确实很难受喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2087929013000131020",
+        "created_at": "2026-08-13T15:48:53.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087929392878248262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087929392878248262",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087929013000131020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 😭确实很难受喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2087929013000131020",
+        "created_at": "2026-08-13T15:47:23.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087929013000131020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kir4uh/status/…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/kir4uh/status/2087795503446601778",
+              "start": 115,
+              "url": "https://t.co/Amo7lZA8T0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087929013000131020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087795503446601778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "how hard is it to live when you can't pay for 100 percent of foreign websites and services because I'm Chinese 😭😭😭 https://t.co/Amo7lZA8T0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087929392878248262",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 313,
+          "like_count": 15714,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3878
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "一隻友跨泛性戀小男娘，人稱代詞隨意\n蓝v互fo喵\n發圖專用分身@qian68069 簡中/繁中/EN\n不ban真人 互聯網攻受可切的觸手娘\n姐姐@LianQiNian2\n學習🎹ing，愛魚韻、回春丹，研究各種電子軟硬件\n\n愛所有人，但永遠學不會愛人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "qian68069"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "LianQiNian2"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "is_identity_verified": false,
+        "location": "你的浴缸🛁",
+        "most_recent_tweet_id": "2087929356492644367",
+        "name": "Qian触手娘小千🏳️‍🌈",
+        "pinned_tweet_id": "2087903644041789672",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956958284310818816/1784818334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1408,
+          "like_count": 11057,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 3806
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

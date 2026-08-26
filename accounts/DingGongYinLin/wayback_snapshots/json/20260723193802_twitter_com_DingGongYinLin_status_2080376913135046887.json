@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080376905786863616"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080376913135046887",
+    "created_at": "2026-07-23T19:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080376913135046887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yhq98qEsGh",
+          "end": 80,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2080376913135046887/photo/1",
+          "media_key": "3_2080376905786863616",
+          "start": 57,
+          "url": "https://t.co/Yhq98qEsGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080376913135046887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "n0喵，可以招募没有的干员协助战斗一次喵，每层有步数限制喵，所以很需要规划路线喵，目前感觉比界园和萨卡兹好玩喵。 https://t.co/Yhq98qEsGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2080376905786863616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN77xgRaMAAf8hA.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080376905786863616"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080376913135046887",
+        "created_at": "2026-07-23T19:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080376913135046887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yhq98qEsGh",
+              "end": 80,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2080376913135046887/photo/1",
+              "media_key": "3_2080376905786863616",
+              "start": 57,
+              "url": "https://t.co/Yhq98qEsGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080376913135046887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "n0喵，可以招募没有的干员协助战斗一次喵，每层有步数限制喵，所以很需要规划路线喵，目前感觉比界园和萨卡兹好玩喵。 https://t.co/Yhq98qEsGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 296,
+          "like_count": 7107,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2400
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

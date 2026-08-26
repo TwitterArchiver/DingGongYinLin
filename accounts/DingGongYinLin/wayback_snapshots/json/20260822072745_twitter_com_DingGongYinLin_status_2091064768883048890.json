@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2091062541284004331",
+    "created_at": "2026-08-22T07:27:45.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T08:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091064768883048890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090325165590876160",
+          "start": 0,
+          "username": "hoshino_Fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091064768883048890",
+    "in_reply_to_user_id": "2090325165590876160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091062541284004331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshino_Fuji 可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3560,
+        "media_key": "3_2091062526662635521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTySgDbcAE-iP7.jpg",
+        "width": 3026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2091062541284004331",
+        "created_at": "2026-08-22T07:27:45.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091064768883048890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090325165590876160",
+              "start": 0,
+              "username": "hoshino_Fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091064768883048890",
+        "in_reply_to_user_id": "2090325165590876160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091062541284004331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshino_Fuji 可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091062526662635521"
+          ]
+        },
+        "author_id": "2090325165590876160",
+        "conversation_id": "2091062541284004331",
+        "created_at": "2026-08-22T07:18:54.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091062541284004331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogOAbW7eN1",
+              "end": 34,
+              "expanded_url": "https://x.com/hoshino_Fuji/status/2091062541284004331/photo/1",
+              "media_key": "3_2091062526662635521",
+              "start": 11,
+              "url": "https://t.co/ogOAbW7eN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091062541284004331",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091062526662635521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门购物\n懒得换衣服 https://t.co/ogOAbW7eN1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091064768883048890",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 314,
+          "like_count": 18313,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 4351
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:30:41.000Z",
+        "description": "|星穹阑珊，草野风动，斯人舞萤，其名为藤|叫我小藤就行|My beloved @nationalpurevf4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2090325165590876160",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2091062750957154696",
+        "name": "星野藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090325165590876160/1787207701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090738941590929408/IdtRzvyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 162,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "hoshino_Fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2084171430070251991",
+    "created_at": "2026-08-03T07:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084183115329597924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004456046295973888",
+          "start": 0,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084183115329597924",
+    "in_reply_to_user_id": "2004456046295973888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084171430070251991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshitsumu 不会离开的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2084171430070251991",
+        "created_at": "2026-08-03T07:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084183115329597924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004456046295973888",
+              "start": 0,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183115329597924",
+        "in_reply_to_user_id": "2004456046295973888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084171430070251991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshitsumu 不会离开的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004456046295973888",
+        "conversation_id": "2084171430070251991",
+        "created_at": "2026-08-03T06:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084171430070251991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kohoshitsumu/s…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/kohoshitsumu/status/2083821646465671603",
+              "start": 120,
+              "url": "https://t.co/mnfu0ATFxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084171430070251991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果小星紡失去双腿，你可以带小星紡去看看世界吗\n如果小星紡失去双手，你可以给小星紡递所有东西吗\n如果小星紡失去眼睛，你可以为小星紡描述看见的吗\n如果小星紡失去嘴巴，你可以理解小星紡想表达的吗\n如果小星紡失去耳朵，你可以让小星紡明白你意思吗\n如果小星紡失去生命，你愿意陪小星紡离开这世间吗\n如果小星紡失去了你，你愿意让小星紡陪你一起走吗\n你可以忍受小星紡每天一起床就看着你吗，你可以忍受小星紡像个八爪鱼一样缠着你吗，你可以和小星紡一起洗澡吗，你可以与小星紡形影不离吗，你可以让小星紡趴在你身上睡觉吗，你可以抱着小星紡一起开车吗，你可以答应永远不会离开小星紡吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083821646465671603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果小星紡失去双腿，你可以带小星紡去看看世界吗\n如果小星紡失去双手，你可以给小星紡递所有东西吗\n如果小星紡失去眼睛，你可以为小星紡描述看见的吗\n如果小星紡失去嘴巴，你可以理解小星紡想表达的吗\n如果小星紡失去耳朵，你可以让小星紡明白你意思吗 https://t.co/mnfu0ATFxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 308,
+          "like_count": 12743,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜陪我玩回𝚏𝚘｜\n\n小星紡是百亿光年外早已逝去的双星，虽散发着光芒，但已然成为了尸体",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/Qk6Y5IYAxK"
+              }
+            ]
+          }
+        },
+        "id": "2004456046295973888",
+        "location": "只想永居于梦",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2082824480762872031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 394,
+          "like_count": 15456,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/Qk6Y5IYAxK",
+        "username": "kohoshitsumu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061271804631814144"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061271807643308453",
+    "created_at": "2026-06-01T02:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061271807643308453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gELiJTg4A6",
+          "end": 51,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2061271807643308453/photo/1",
+          "media_key": "3_2061271804631814144",
+          "start": 28,
+          "url": "https://t.co/gELiJTg4A6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061271807643308453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到了儿童节礼物，开心喵(,,&gt;᎑&lt;,,) https://t.co/gELiJTg4A6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061271804631814144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsbyQSbkAAWjSa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061271804631814144"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061271807643308453",
+        "created_at": "2026-06-01T02:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061271807643308453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gELiJTg4A6",
+              "end": 51,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2061271807643308453/photo/1",
+              "media_key": "3_2061271804631814144",
+              "start": 28,
+              "url": "https://t.co/gELiJTg4A6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061271807643308453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了儿童节礼物，开心喵(,,&gt;᎑&lt;,,) https://t.co/gELiJTg4A6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 218,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 119
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

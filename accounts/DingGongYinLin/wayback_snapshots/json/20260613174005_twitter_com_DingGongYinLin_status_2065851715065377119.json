@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2065851715065377119",
+    "created_at": "2026-06-13T17:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065851715065377119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065851715065377119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我的开始\n听家里的长辈说我是在家里出生的，没有来的及去医院。户口也是后面普查才上的。能佐证这一说法的是我没有出生证明但我的哥哥有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2065851715065377119",
+        "created_at": "2026-06-13T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065851715065377119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065851715065377119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的开始\n听家里的长辈说我是在家里出生的，没有来的及去医院。户口也是后面普查才上的。能佐证这一说法的是我没有出生证明但我的哥哥有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 240,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 255
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

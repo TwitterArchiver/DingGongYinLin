@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2080088726273917197",
+    "created_at": "2026-07-23T08:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080210567739146331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954472206639288320",
+          "start": 0,
+          "username": "violetta2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080210567739146331",
+    "in_reply_to_user_id": "1954472206639288320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080088726273917197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@violetta2333 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080088716396367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN31qrIakAAbXpY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2080088726273917197",
+        "created_at": "2026-07-23T08:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080210567739146331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954472206639288320",
+              "start": 0,
+              "username": "violetta2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080210567739146331",
+        "in_reply_to_user_id": "1954472206639288320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080088726273917197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@violetta2333 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080088716396367872"
+          ]
+        },
+        "author_id": "1954472206639288320",
+        "conversation_id": "2080088726273917197",
+        "created_at": "2026-07-23T00:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080088726273917197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbt8TzvMvO",
+              "end": 44,
+              "expanded_url": "https://x.com/violetta2333/status/2080088726273917197/photo/1",
+              "media_key": "3_2080088716396367872",
+              "start": 21,
+              "url": "https://t.co/gbt8TzvMvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080088726273917197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲报\n我的账号被封禁了\n关注这个号谢谢喵 https://t.co/gbt8TzvMvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 293,
+          "like_count": 6796,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2348
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T09:17:57.000Z",
+        "description": "这是@ye_and_yae的另一个人格哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "ye_and_yae"
+              }
+            ]
+          }
+        },
+        "id": "1954472206639288320",
+        "location": "Mars",
+        "name": "🏳️‍⚧️ 爱可丝（爱晔二代目寻回互fo中）🍥",
+        "pinned_tweet_id": "2080113155091632337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052844588378042368/dGzjf6rD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 49,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "violetta2333",
+        "verified": false
+      }
+    ]
+  }
+}

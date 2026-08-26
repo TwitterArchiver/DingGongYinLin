@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2081444737090007529",
+    "created_at": "2026-07-26T18:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081448794475188530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077747796849856513",
+          "start": 0,
+          "username": "Kir4uha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081448794475188530",
+    "in_reply_to_user_id": "2077747796849856513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081447926526529915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uha A lot of expenses, Meow. Life is too difficult, Meow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2081444737090007529",
+        "created_at": "2026-07-26T18:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081448794475188530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077747796849856513",
+              "start": 0,
+              "username": "Kir4uha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081448794475188530",
+        "in_reply_to_user_id": "2077747796849856513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081447926526529915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uha A lot of expenses, Meow. Life is too difficult, Meow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077747796849856513",
+        "conversation_id": "2081444737090007529",
+        "created_at": "2026-07-26T18:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081447926526529915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081447926526529915",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081447619516309628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin expenses, rent, utilities, food, cigarettes, small things, clothes, VPN, Internet, all Bang bang and no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 300,
+          "like_count": 8660,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2678
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T13:32:03.000Z",
+        "description": "I love everyone in this world, But no one loves me.\nTg:@Kir4ur Discord:@slon_begushih\nstem: https://t.co/HhggEf7EZi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "Kir4ur"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "slon_begushih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/98845/",
+                "end": 115,
+                "expanded_url": "https://steamcommunity.com/id/98845/",
+                "start": 92,
+                "url": "https://t.co/HhggEf7EZi"
+              }
+            ]
+          }
+        },
+        "id": "2077747796849856513",
+        "location": "Россия Курск",
+        "name": "Kiruha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081441181267890177/2dP20ohY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 234,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "Kir4uha",
+        "verified": false
+      }
+    ]
+  }
+}

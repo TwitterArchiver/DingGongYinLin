@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2064666453333127175",
+    "created_at": "2026-06-10T13:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064705888490000404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4376351837",
+          "start": 0,
+          "username": "CarefreeYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064705888490000404",
+    "in_reply_to_user_id": "4376351837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064666453333127175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarefreeYu 居然不是坏女人，感觉有点怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2064666046091411456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcq1HEWwAALJvR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1173,
+        "media_key": "3_2064666047047729152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcq1KoXAAA9wf6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1157,
+        "media_key": "3_2064666046078779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcq1HBWAAAeQtP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2064666453333127175",
+        "created_at": "2026-06-10T13:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064705888490000404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4376351837",
+              "start": 0,
+              "username": "CarefreeYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064705888490000404",
+        "in_reply_to_user_id": "4376351837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064666453333127175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarefreeYu 居然不是坏女人，感觉有点怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064666046091411456",
+            "3_2064666047047729152",
+            "3_2064666046078779392"
+          ]
+        },
+        "author_id": "4376351837",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064666453333127175",
+        "created_at": "2026-06-10T11:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064666453333127175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfmAu7hE9m",
+              "end": 82,
+              "expanded_url": "https://x.com/CarefreeYu/status/2064666453333127175/photo/1",
+              "media_key": "3_2064666046091411456",
+              "start": 59,
+              "url": "https://t.co/EfmAu7hE9m"
+            },
+            {
+              "display_url": "pic.x.com/EfmAu7hE9m",
+              "end": 82,
+              "expanded_url": "https://x.com/CarefreeYu/status/2064666453333127175/photo/1",
+              "media_key": "3_2064666047047729152",
+              "start": 59,
+              "url": "https://t.co/EfmAu7hE9m"
+            },
+            {
+              "display_url": "pic.x.com/EfmAu7hE9m",
+              "end": 82,
+              "expanded_url": "https://x.com/CarefreeYu/status/2064666453333127175/photo/1",
+              "media_key": "3_2064666046078779392",
+              "start": 59,
+              "url": "https://t.co/EfmAu7hE9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064666453333127175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 82,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，e7光泰妮对峙e9火泰妮么？？真就是不同时空的自己，e9类似e7月光剧场的存在？\n\n那看起来e9泰妮是好女人了 https://t.co/EfmAu7hE9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 231,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 214
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-04T21:58:00.000Z",
+        "description": "游戏名：裂空之宇Fish\nLove Game Love Animeヾ(ﾟ∀ﾟゞ)\n中文&English no problem～=w=\nEpic7 宝隆真爱🐱🐰（克劳乌x凯隆）^_−☆\n星铁厄敌☀️🍷(˶‾᷄ ⁻̫ ‾᷅˵)\n爱画画和弄些小玩意什么的，就是很容易犯懒∠( ᐛ 」∠)＿",
+        "id": "4376351837",
+        "name": "裂空之宇Fish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892030795646148609/KitvhYfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 52,
+          "like_count": 2291,
+          "listed_count": 4,
+          "media_count": 1441,
+          "tweet_count": 2791
+        },
+        "username": "CarefreeYu",
+        "verified": false
+      }
+    ]
+  }
+}

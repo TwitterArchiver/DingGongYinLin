@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078612814508498947",
+        "3_2078612821181693952"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "conversation_id": "2078612828949545186",
+    "created_at": "2026-07-18T22:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T23:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078612828949545186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GYLOejoH2v",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2078612828949545186/photo/1",
+          "media_key": "3_2078612814508498947",
+          "start": 0,
+          "url": "https://t.co/GYLOejoH2v"
+        },
+        {
+          "display_url": "pic.x.com/GYLOejoH2v",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2078612828949545186/photo/1",
+          "media_key": "3_2078612821181693952",
+          "start": 0,
+          "url": "https://t.co/GYLOejoH2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078612828949545186",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GYLOejoH2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2078612814508498947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi3V4JaoAMVoB2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 921,
+        "media_key": "3_2078612821181693952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi3WRAbgAA5XwK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078612814508498947",
+            "3_2078612821181693952"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2078612828949545186",
+        "created_at": "2026-07-18T22:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078612828949545186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYLOejoH2v",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2078612828949545186/photo/1",
+              "media_key": "3_2078612814508498947",
+              "start": 0,
+              "url": "https://t.co/GYLOejoH2v"
+            },
+            {
+              "display_url": "pic.x.com/GYLOejoH2v",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2078612828949545186/photo/1",
+              "media_key": "3_2078612821181693952",
+              "start": 0,
+              "url": "https://t.co/GYLOejoH2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078612828949545186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GYLOejoH2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 283,
+          "like_count": 5152,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1997
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

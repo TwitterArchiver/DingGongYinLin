@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2070286766343324045",
+    "created_at": "2026-06-26T23:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070653339810083186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3426669297",
+          "start": 0,
+          "username": "iDogmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070653339810083186",
+    "in_reply_to_user_id": "3426669297",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070286766343324045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iDogmy 🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1793,
+        "media_key": "3_2070286708659179521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsiyuzX0AENjNY.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2070286766343324045",
+        "created_at": "2026-06-26T23:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070653339810083186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3426669297",
+              "start": 0,
+              "username": "iDogmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070653339810083186",
+        "in_reply_to_user_id": "3426669297",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070286766343324045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iDogmy 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070286708659179521"
+          ]
+        },
+        "author_id": "3426669297",
+        "conversation_id": "2070286766343324045",
+        "created_at": "2026-06-25T23:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070286766343324045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIscWMdJ2s",
+              "end": 70,
+              "expanded_url": "https://x.com/iDogmy/status/2070286766343324045/photo/1",
+              "media_key": "3_2070286708659179521",
+              "start": 47,
+              "url": "https://t.co/FIscWMdJ2s"
+            },
+            {
+              "display_url": "x.com/iDogmy/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/iDogmy/status/2070278434429763653",
+              "start": 71,
+              "url": "https://t.co/mvEW6liOPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070286766343324045",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1101,
+          "impression_count": 533227,
+          "like_count": 29116,
+          "quote_count": 24,
+          "reply_count": 79,
+          "retweet_count": 1756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070278434429763653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf bro, mitad de mi vida borrada en 1 segundo https://t.co/FIscWMdJ2s https://t.co/mvEW6liOPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 250,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-16T21:06:03.000Z",
+        "description": "Dogmyliano de corazón 🇻🇪Mis eventos de Minecraft: @EventsCrafts HOST OP: @HolyHosting 🥵🫶 JUGADOR 200 SQUIDCRAFT3 (cumpli mi sueño)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "EventsCrafts"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "HolyHosting"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kick.com/Dogmy",
+                "end": 23,
+                "expanded_url": "http://kick.com/Dogmy",
+                "start": 0,
+                "url": "https://t.co/zjyeuLUBfW"
+              }
+            ]
+          }
+        },
+        "id": "3426669297",
+        "location": "Florida, USA",
+        "name": "Dogmy",
+        "pinned_tweet_id": "1855370729002258519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948143908958928898/aywBi0gj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3061,
+          "following_count": 519,
+          "like_count": 10547,
+          "listed_count": 2,
+          "media_count": 820,
+          "tweet_count": 11013
+        },
+        "url": "https://t.co/zjyeuLUBfW",
+        "username": "iDogmy",
+        "verified": true
+      }
+    ]
+  }
+}

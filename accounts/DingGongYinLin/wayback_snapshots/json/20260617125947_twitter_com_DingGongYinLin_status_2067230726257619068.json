@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2067228973466304753",
+    "created_at": "2026-06-17T12:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067230726257619068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066487415678918657",
+          "start": 0,
+          "username": "haiyueshuimuxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067230726257619068",
+    "in_reply_to_user_id": "2066487415678918657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067228973466304753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiyueshuimuxia 摸摸你喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2067228973466304753",
+        "created_at": "2026-06-17T12:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067230726257619068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066487415678918657",
+              "start": 0,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067230726257619068",
+        "in_reply_to_user_id": "2066487415678918657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067228973466304753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiyueshuimuxia 摸摸你喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2067228973466304753",
+        "created_at": "2026-06-17T12:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067228973466304753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067228973466304753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就要去前几天还关着你的精卫复诊了...\n\n呜我期盼能晚点的,看来不行\n\n有点ptsd了....一点点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 246,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 380
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜sub｜mtf｜06｜心境情感障碍｜INFP｜💊ODer｜想倾诉或聊天可以找我说话｜聊天(暂不可用,建议私信我)：https://t.co/3JPf2UoHaa｜最爱的小孩@dnshu135734｜经营账号是@17nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 99,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 76,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 52,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

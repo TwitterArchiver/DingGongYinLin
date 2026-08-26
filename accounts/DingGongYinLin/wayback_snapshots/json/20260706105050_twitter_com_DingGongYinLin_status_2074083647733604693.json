@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2074031019590906299",
+    "created_at": "2026-07-06T10:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074083647733604693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041470056832393216",
+          "start": 0,
+          "username": "GongA47339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074083647733604693",
+    "in_reply_to_user_id": "2041470056832393216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074052848690606528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GongA47339 叉烧饭喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2074031019590906299",
+        "created_at": "2026-07-06T10:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074083647733604693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041470056832393216",
+              "start": 0,
+              "username": "GongA47339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074083647733604693",
+        "in_reply_to_user_id": "2041470056832393216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074052848690606528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GongA47339 叉烧饭喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041470056832393216",
+        "conversation_id": "2074031019590906299",
+        "created_at": "2026-07-06T08:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074052848690606528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074052848690606528",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074031019590906299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 什么餐食"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 258,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T10:56:20.000Z",
+        "description": "叫我an安｜我想我是自由的｜isfp｜喜欢俄罗斯澳大利亚日本新西兰｜Escape from Tarkov｜互fo｜旅游者｜寻找一起旅行者｜足球⚽️｜如果你喜欢这样的我 既可闲聊=ᗜωᗜ=",
+        "id": "2041470056832393216",
+        "name": "H1anan🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073679752624517121/pqga8e9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "GongA47339",
+        "verified": false
+      }
+    ]
+  }
+}

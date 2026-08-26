@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2072634841850622018",
+    "created_at": "2026-07-02T11:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072636463595102556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072636463595102556",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072634841850622018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 好看喵，很有乡土气息喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072634823647399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN6ZAybkAAb5oS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072634823886376960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN6ZBraEAAPCTf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2072634824100319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN6ZCeakAAkBM-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2072634841850622018",
+        "created_at": "2026-07-02T11:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072636463595102556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072636463595102556",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072634841850622018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 好看喵，很有乡土气息喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072634823647399936",
+            "3_2072634823886376960",
+            "3_2072634824100319232"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2072634841850622018",
+        "created_at": "2026-07-02T10:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072634841850622018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVO2Nub6lN",
+              "end": 27,
+              "expanded_url": "https://x.com/OuO02213882/status/2072634841850622018/photo/1",
+              "media_key": "3_2072634823647399936",
+              "start": 4,
+              "url": "https://t.co/bVO2Nub6lN"
+            },
+            {
+              "display_url": "pic.x.com/bVO2Nub6lN",
+              "end": 27,
+              "expanded_url": "https://x.com/OuO02213882/status/2072634841850622018/photo/1",
+              "media_key": "3_2072634823886376960",
+              "start": 4,
+              "url": "https://t.co/bVO2Nub6lN"
+            },
+            {
+              "display_url": "pic.x.com/bVO2Nub6lN",
+              "end": 27,
+              "expanded_url": "https://x.com/OuO02213882/status/2072634841850622018/photo/1",
+              "media_key": "3_2072634824100319232",
+              "start": 4,
+              "url": "https://t.co/bVO2Nub6lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072634841850622018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其他喵 https://t.co/bVO2Nub6lN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 256,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1367,
+          "like_count": 26551,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": false
+      }
+    ]
+  }
+}

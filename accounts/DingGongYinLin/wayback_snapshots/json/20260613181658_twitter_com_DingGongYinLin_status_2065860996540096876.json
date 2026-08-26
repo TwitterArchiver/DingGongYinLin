@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2065860569262071895",
+    "created_at": "2026-06-13T18:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065860996540096876"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065860996540096876",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065860569262071895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只能在旁边一同观看。再到后面五年级转学，我就再也没有怎么看过电视了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2065860569262071895",
+        "created_at": "2026-06-13T18:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065860996540096876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065860996540096876",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065860569262071895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只能在旁边一同观看。再到后面五年级转学，我就再也没有怎么看过电视了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2065860569262071895",
+        "created_at": "2026-06-13T18:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065860569262071895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065860569262071895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于物品一：电视📺\n在我的记忆中家里的电视机一开始是老式电视机，只有CCTV和地方台，像金鹰卡通之类的完全没有，所以那些火影之类的完全没有看过。再到长大一点，就变成了有线数字电视，需要智能卡的那种。频道变得丰富多彩起来。但要观看什么节目，并不由我控制，而是由我的哥哥或长辈来决定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 241,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 258
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2090123284402913777",
+    "created_at": "2026-08-19T17:10:21.000Z",
+    "display_text_range": [
+      8,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090124221313933580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087152708696346624",
+          "start": 0,
+          "username": "Kir4uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090124221313933580",
+    "in_reply_to_user_id": "2087152708696346624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090123284402913777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uh Good night, meow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2090123278320803840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGcDDUWIAAriYQ.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2090123284402913777",
+        "created_at": "2026-08-19T17:10:21.000Z",
+        "display_text_range": [
+          8,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090124221313933580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087152708696346624",
+              "start": 0,
+              "username": "Kir4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090124221313933580",
+        "in_reply_to_user_id": "2087152708696346624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090123284402913777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uh Good night, meow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090123278320803840"
+          ]
+        },
+        "author_id": "2087152708696346624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090123284402913777",
+        "created_at": "2026-08-19T17:06:38.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090123284402913777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgODqiSx4X",
+              "end": 298,
+              "expanded_url": "https://x.com/Kir4uh/status/2090123284402913777/photo/1",
+              "media_key": "3_2090123278320803840",
+              "start": 275,
+              "url": "https://t.co/zgODqiSx4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090123284402913777",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090123278320803840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "good night and sweet dreams to all, may your night be filled with peace and tranquility, and your sleep will fill you with strength for the next day, and to those who get up ,  a good morning and a great mood, may everything be well with you and you will fulfill your dreams https://t.co/zgODqiSx4X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090124221313933580",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 311,
+          "like_count": 17302,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 4172
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T12:23:42.000Z",
+        "description": "I am BI and always open to any communication.I love everyone in this world, But no one loves me.",
+        "id": "2087152708696346624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090123284402913777",
+        "name": "Kiruha 2.0",
+        "pinned_tweet_id": "2087909228623118717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087152708696346624/1786521320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088572981031190528/dDskr6-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 307,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "Kir4uh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

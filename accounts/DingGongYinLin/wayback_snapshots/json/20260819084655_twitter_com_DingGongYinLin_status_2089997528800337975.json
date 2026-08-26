@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2089982261051716079",
+    "created_at": "2026-08-19T08:46:55.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089997528800337975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948364171160227840",
+          "start": 0,
+          "username": "Mak1287267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089997528800337975",
+    "in_reply_to_user_id": "1948364171160227840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089982261051716079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mak1287267 啊，到底是什么破规则喵😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_2089982250486296576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEbyJsbcAAGXZM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2089982261051716079",
+        "created_at": "2026-08-19T08:46:55.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089997528800337975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948364171160227840",
+              "start": 0,
+              "username": "Mak1287267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089997528800337975",
+        "in_reply_to_user_id": "1948364171160227840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089982261051716079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mak1287267 啊，到底是什么破规则喵😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089982250486296576"
+          ]
+        },
+        "author_id": "1948364171160227840",
+        "conversation_id": "2089982261051716079",
+        "created_at": "2026-08-19T07:46:15.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089982261051716079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzGUwFzEsR",
+              "end": 36,
+              "expanded_url": "https://x.com/Mak1287267/status/2089982261051716079/photo/1",
+              "media_key": "3_2089982250486296576",
+              "start": 13,
+              "url": "https://t.co/ZzGUwFzEsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089982261051716079",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089982250486296576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 166,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "锁我弟弟号🐜🐲你老牧师了 https://t.co/ZzGUwFzEsR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089997528800337975",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 308,
+          "like_count": 17102,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 4146
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-24T12:46:46.000Z",
+        "description": "🇨🇳10高二\n大号@mmrnadna2\n🔑号@lhnjanwoainimen\n希望和大家能多多聊天🥺\nDM什么的请随意不用拘谨\n无言关注真是抱歉了\n永远最好最可爱的弟弟🥰永远爱你@Mark67358226\n永远最好最可爱的妹妹🥰永远爱你@XiyangMinzhiXiy\n最香草的入@YaoieLoop😻😍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "mmrnadna2"
+              },
+              {
+                "end": 38,
+                "start": 22,
+                "username": "lhnjanwoainimen"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Mark67358226"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "XiyangMinzhiXiy"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "YaoieLoop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=ebf878…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=ebf87838-64ac-4aeb-86ec-fcfe7518097e",
+                "start": 0,
+                "url": "https://t.co/lsiXEDgSC7"
+              }
+            ]
+          }
+        },
+        "id": "1948364171160227840",
+        "is_identity_verified": false,
+        "location": "Utopia😽",
+        "most_recent_tweet_id": "2089993523873599505",
+        "name": "断桥边看雨",
+        "pinned_tweet_id": "2089993523873599505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948364171160227840/1784988765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079164753587712000/PiX4152k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 480,
+          "like_count": 7696,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/lsiXEDgSC7",
+        "username": "Mak1287267",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

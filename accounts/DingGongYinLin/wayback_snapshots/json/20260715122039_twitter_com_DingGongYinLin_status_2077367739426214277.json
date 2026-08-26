@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2077333514220167539",
+    "created_at": "2026-07-15T12:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077367739426214277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964335711521558531",
+          "start": 0,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077367739426214277",
+    "in_reply_to_user_id": "1964335711521558531",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077333514220167539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbkk23333 😨😨😨🔞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2077333514220167539",
+        "created_at": "2026-07-15T12:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077367739426214277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077367739426214277",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077333514220167539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 😨😨😨🔞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "conversation_id": "2077333514220167539",
+        "created_at": "2026-07-15T10:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077333514220167539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077333514220167539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人和蟑螂真的没有可能吗?一开始我对他无感，即使他有着油光水滑的脊背，矫健有力并体长达55mm的身体，但是，我逐渐被他的热情所感动，我们经常在夜晚相见，他很有趣，喜欢恶作剧，每次都出现在天花板上，突然出来吓唬我，如果我真的被吓到了，他就会拍拍翅膀，飞到我脸上来哄我，其实我每次我都没有真的生气，有的时候她也会害羞，上次我起夜看到他在餐桌上啃着一块儿饼干,见我来了，他立刻躲进阴影处，我知道他一定是想和我分享美食，只是不好意思罢了，我原本以为，这种细水长流的日子会一直过下去，直到我在洗脸的时候，发现柜子的缝隙伸出了两根触角，一打开，一只小蟑螂迅速躲进了柜子深处，熟悉的颜色，同样害羞的习性，我一眼便知，这就是他的孩子，原来他已经有孩子了，我恍若大梦初醒，从我们的甜蜜生活中醒悟过来"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 717,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人和蟑螂真的没有可能吗?一开始我对他无感，即使他有着油光水滑的脊背，矫健有力并体长达55mm的身体，但是，我逐渐被他的热情所感动，我们经常在夜晚相见，他很有趣，喜欢恶作剧，每次都出现在天花板上，突然出来吓唬我，如果我真的被吓到了，他就会拍拍翅膀，飞到我脸上来哄我，其实我每次我都没有真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 278,
+          "like_count": 4134,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小吋低强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 416,
+          "like_count": 4070,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1963
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

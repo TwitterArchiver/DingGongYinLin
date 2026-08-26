@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2045169772653154327",
+    "created_at": "2026-04-17T15:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045169772653154327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1122722202623758336",
+          "start": 3,
+          "username": "mashiro_kqnon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045169772653154327",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045096710238814665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mashiro_kqnon: 【大切なお知らせ】\n\nいつも応援してくださる皆様へ。\n私、眞白かのんは2026年4月30日をもちまして、全ての活動を終了させていただきます。\n\nこれまでの活動を支えてくださった全ての方々、ファンの皆様、本当にありがとうございました。\n残り僅…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2045169772653154327",
+        "created_at": "2026-04-17T15:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045169772653154327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1122722202623758336",
+              "start": 3,
+              "username": "mashiro_kqnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045169772653154327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045096710238814665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mashiro_kqnon: 【大切なお知らせ】\n\nいつも応援してくださる皆様へ。\n私、眞白かのんは2026年4月30日をもちまして、全ての活動を終了させていただきます。\n\nこれまでの活動を支えてくださった全ての方々、ファンの皆様、本当にありがとうございました。\n残り僅…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122722202623758336",
+        "conversation_id": "2045096710238814665",
+        "created_at": "2026-04-17T11:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045096710238814665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045096710238814665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 443210,
+          "like_count": 1479,
+          "quote_count": 18,
+          "reply_count": 119,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "【大切なお知らせ】\n\nいつも応援してくださる皆様へ。\n私、眞白かのんは2026年4月30日をもちまして、全ての活動を終了させていただきます。\n\nこれまでの活動を支えてくださった全ての方々、ファンの皆様、本当にありがとうございました。\n残り僅かですが、最後までよろしくお願いします！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 189,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-29T04:40:07.000Z",
+        "description": "天才アイドルvtuber眞白かのん(MashiroKanon)🗝🤍 \n新ビジュアルママ ꒰ @ana_ame0 ꒱ tag ꒰ #眞白かのん ꒱ \nタグの付いた作品は活動で使わせて頂く事があります！ \nお仕事･規約はこちら ▸ https://t.co/J9Isms4pAc .*·",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "眞白かのん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "ana_ame0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/mashirokanon",
+                "end": 137,
+                "expanded_url": "http://lit.link/mashirokanon",
+                "start": 114,
+                "url": "https://t.co/J9Isms4pAc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/401480763",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/401480763",
+                "start": 0,
+                "url": "https://t.co/K7oPdGeXM1"
+              }
+            ]
+          }
+        },
+        "id": "1122722202623758336",
+        "location": "bilibiliで活動してます！登録者200万人⚡️",
+        "name": "眞白かのん🗝",
+        "pinned_tweet_id": "1965368407211344277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729191398371688448/pyBa1YEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52298,
+          "following_count": 96,
+          "like_count": 9196,
+          "listed_count": 301,
+          "media_count": 151,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/K7oPdGeXM1",
+        "username": "mashiro_kqnon",
+        "verified": false
+      }
+    ]
+  }
+}

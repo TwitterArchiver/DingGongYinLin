@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2068060861651140694",
+    "created_at": "2026-06-19T19:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068060861651140694"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068060861651140694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于属于自己的空间\n一直以来真正属于自己的空间是没有的。小学是和家人住一起；初一是住宿舍，初二、初三是走读，但还是和我哥哥共享一个房间。到了高中，不在和他住一个房间了，因为我睡在客厅。到了大学住宿。一直到现在我才真正有一间自己的房间，但还是会担心被父母随时闯入。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2068060861651140694",
+        "created_at": "2026-06-19T19:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068060861651140694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068060861651140694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于属于自己的空间\n一直以来真正属于自己的空间是没有的。小学是和家人住一起；初一是住宿舍，初二、初三是走读，但还是和我哥哥共享一个房间。到了高中，不在和他住一个房间了，因为我睡在客厅。到了大学住宿。一直到现在我才真正有一间自己的房间，但还是会担心被父母随时闯入。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 245,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

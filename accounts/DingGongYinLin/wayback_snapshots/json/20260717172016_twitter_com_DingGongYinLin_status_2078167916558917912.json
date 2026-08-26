@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2078166953295061365",
+    "created_at": "2026-07-17T17:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T18:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078167916558917912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837843674283294720",
+          "start": 0,
+          "username": "TeamRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078167916558917912",
+    "in_reply_to_user_id": "1837843674283294720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078166953295061365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain2024 unk罪大恶极喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2078166953295061365",
+        "created_at": "2026-07-17T17:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078167916558917912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "TeamRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078167916558917912",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078166953295061365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain2024 unk罪大恶极喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2078166953295061365",
+        "created_at": "2026-07-17T17:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078166953295061365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/1gdsb/status/2078156376266961372",
+              "start": 20,
+              "url": "https://t.co/GYmL2Jap3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078166953295061365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078156376266961372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在4月份的时候，unk教会我od了（。 https://t.co/GYmL2Jap3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 283,
+          "like_count": 4806,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 167,
+          "like_count": 903,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "TeamRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

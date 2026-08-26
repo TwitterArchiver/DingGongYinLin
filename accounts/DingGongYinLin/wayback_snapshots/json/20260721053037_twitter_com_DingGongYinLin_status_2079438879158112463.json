@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2079438332866556020",
+    "created_at": "2026-07-21T05:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079438879158112463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013150521272516609",
+          "start": 0,
+          "username": "Timely_Mya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079438879158112463",
+    "in_reply_to_user_id": "2013150521272516609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079438332866556020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timely_Mya Good idea"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2079438332866556020",
+        "created_at": "2026-07-21T05:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079438879158112463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013150521272516609",
+              "start": 0,
+              "username": "Timely_Mya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079438879158112463",
+        "in_reply_to_user_id": "2013150521272516609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079438332866556020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timely_Mya Good idea"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013150521272516609",
+        "conversation_id": "2079438332866556020",
+        "created_at": "2026-07-21T05:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079438332866556020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lupa_Daily/sta…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Lupa_Daily/status/2079222789307805892",
+              "start": 87,
+              "url": "https://t.co/Xk6BCtSkEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079438332866556020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079222789307805892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'll give you a better idea\n\nA Mya plush for Lupa just like the one that Denia has 💙⚔️ https://t.co/Xk6BCtSkEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 287,
+          "like_count": 5991,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2162
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T07:24:33.000Z",
+        "description": "I just love Mya and Wuthering Waves",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "timelymya.straw.page",
+                "end": 23,
+                "expanded_url": "https://timelymya.straw.page",
+                "start": 0,
+                "url": "https://t.co/cnDNAqybIQ"
+              }
+            ]
+          }
+        },
+        "id": "2013150521272516609",
+        "location": "Septimont, Rinascita",
+        "name": "Timely Contender Mya",
+        "pinned_tweet_id": "2061535926724043131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054575014121193472/V0LDWN1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1160,
+          "like_count": 38642,
+          "listed_count": 2,
+          "media_count": 1335,
+          "tweet_count": 4627
+        },
+        "url": "https://t.co/cnDNAqybIQ",
+        "username": "Timely_Mya",
+        "verified": false
+      }
+    ]
+  }
+}

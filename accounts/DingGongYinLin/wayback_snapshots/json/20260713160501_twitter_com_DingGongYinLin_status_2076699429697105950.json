@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2076696325467648366",
+    "created_at": "2026-07-13T16:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076699429697105950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076699429697105950",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076696325467648366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 还是太善良了喵，超级大好人喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15633,
+        "height": 1920,
+        "media_key": "13_2076696207028830208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076696207028830208/img/Vx5A0WbhfaRS-Oua.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696207028830208/vid/avc1/320x692/gaJ9cMQ8UkmWpxcX.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696207028830208/vid/avc1/886x1920/hUqg2IvsFKIYfalT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696207028830208/vid/avc1/480x1040/V011s4IUs9LyUWq1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076696207028830208/vid/avc1/720x1560/uEzp1fmQlPzsK0jf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076696207028830208/pl/MhRShnNx_7-i_vuh.m3u8"
+          }
+        ],
+        "width": 886
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076696206949113857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHoMomaYAEPBUM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076696207007817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHoMo0aIAAxhLm.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076696206944972800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHoMolbMAA2J03.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2076696325467648366",
+        "created_at": "2026-07-13T16:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076699429697105950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076699429697105950",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076696325467648366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 还是太善良了喵，超级大好人喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076696207028830208",
+            "3_2076696206949113857",
+            "3_2076696207007817728",
+            "3_2076696206944972800"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "conversation_id": "2076696325467648366",
+        "created_at": "2026-07-13T15:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076696325467648366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKfv0gIxCs",
+              "end": 163,
+              "expanded_url": "https://x.com/Konizaza/status/2076696325467648366/video/1",
+              "media_key": "13_2076696207028830208",
+              "start": 140,
+              "url": "https://t.co/cKfv0gIxCs"
+            },
+            {
+              "display_url": "pic.x.com/cKfv0gIxCs",
+              "end": 163,
+              "expanded_url": "https://x.com/Konizaza/status/2076696325467648366/video/1",
+              "media_key": "3_2076696206949113857",
+              "start": 140,
+              "url": "https://t.co/cKfv0gIxCs"
+            },
+            {
+              "display_url": "pic.x.com/cKfv0gIxCs",
+              "end": 163,
+              "expanded_url": "https://x.com/Konizaza/status/2076696325467648366/video/1",
+              "media_key": "3_2076696207007817728",
+              "start": 140,
+              "url": "https://t.co/cKfv0gIxCs"
+            },
+            {
+              "display_url": "pic.x.com/cKfv0gIxCs",
+              "end": 163,
+              "expanded_url": "https://x.com/Konizaza/status/2076696325467648366/video/1",
+              "media_key": "3_2076696206944972800",
+              "start": 140,
+              "url": "https://t.co/cKfv0gIxCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076696325467648366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我遇到了盗号骗子？！\n具体情况就是这个人要窝帮他注册x账号\n窝的确有点怀疑\n但是窝的确也想乐于助人\n于是就试探了一下\n1.疑点重重：\n私信请求被屏蔽了\n提出在tg上和窝说\n以及最后让我断定他图谋不轨的证据——\n他发了一段很长的话，就在一瞬间\n明显是复制粘贴过来的\n终于露出了马脚\n正常人要求帮忙，会事先把要说的话准备好，说的时候再复制粘贴吗？\n2.我对此的判断与看法：\n这个人可能是来盗我号的\n幸亏我有小号\n知道如果一个号登录的话\n再去注册另一个账号\n这两个账号如果在同一个设备上的话\n好像可以直接切换\n（这也是窝说买新手机注册的原因，就是在试探）\n不知道他是不是依靠这个盗号的\n（这也只是我的猜测，不一定正确。但是根据他上面的行为，反正就是图谋不轨，不怀好意）\n3.事后总结：\n他甚至把聊天内容都给删了？\nx上倒是没来得及删\n不过我都及时截图了\n别想再欺骗更多人\n窝其实是一个仁慈的人，想要帮助别人\n但是啊，遇到这种事情，窝真的是很难受\n也提醒大家\n在帮助别人做个好人的时候\n也要擦亮眼睛，明辨是非\n不确定时…也就还是袖手旁观吧\n这种诈骗，究竟什么时候才能少一些呢？\n究竟到什么时候，我们帮助别人，可以不会被害怕欺骗的心态而困扰呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我遇到了盗号骗子？！\n具体情况就是这个人要窝帮他注册x账号\n窝的确有点怀疑\n但是窝的确也想乐于助人\n于是就试探了一下\n1.疑点重重：\n私信请求被屏蔽了\n提出在tg上和窝说\n以及最后让我断定他图谋不轨的证据——\n他发了一段很长的话，就在一瞬间\n明显是复制粘贴过来的\n终于露出了马脚 https://t.co/cKfv0gIxCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 273,
+          "like_count": 3604,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜\n｜小号@konizazadesu免得找不到请灌注一下喵～｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2076696325467648366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 1179,
+          "like_count": 3730,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2082947551796634071",
+    "created_at": "2026-07-30T21:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082947551796634071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "1720665183188922368",
+          "start": 55,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YaoieLoop/stat…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/YaoieLoop/status/2082791429529833964",
+          "start": 144,
+          "url": "https://t.co/WVOazADb0f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082947551796634071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082791429529833964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "よく絡んでるフォロワーさんの中から当てはまる人を教えて\nよく考えてやれよ\nメンションはせずに表示名でおねがい\n@grok\n \n父: \n母: \n兄: \n弟: \n姉: \n妹: \n親友: \n友達: \n先輩: \n後輩: \n彼氏: \n彼女: \n近所のお兄さん: \n近所のお姉さん: \nストーカー: https://t.co/WVOazADb0f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2082947551796634071",
+        "created_at": "2026-07-30T21:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082947551796634071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YaoieLoop/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/YaoieLoop/status/2082791429529833964",
+              "start": 144,
+              "url": "https://t.co/WVOazADb0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082947551796634071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082791429529833964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "よく絡んでるフォロワーさんの中から当てはまる人を教えて\nよく考えてやれよ\nメンションはせずに表示名でおねがい\n@grok\n \n父: \n母: \n兄: \n弟: \n姉: \n妹: \n親友: \n友達: \n先輩: \n後輩: \n彼氏: \n彼女: \n近所のお兄さん: \n近所のお姉さん: \nストーカー: https://t.co/WVOazADb0f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865811054892347392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2082791429529833964",
+        "created_at": "2026-07-30T11:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082791429529833964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1720665183188922368",
+              "start": 55,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/unitedly_37400…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/unitedly_37400/status/2082779381005758961",
+              "start": 144,
+              "url": "https://t.co/CL36WsfnTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082791429529833964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082779381005758961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "よく絡んでるフォロワーさんの中から当てはまる人を教えて\nよく考えてやれよ\nメンションはせずに表示名でおねがい\n@grok\n \n父: \n母: \n兄: \n弟: \n姉: \n妹: \n親友: \n友達: \n先輩: \n後輩: \n彼氏: \n彼女: \n近所のお兄さん: \n近所のお姉さん: \nストーカー: https://t.co/CL36WsfnTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 303,
+          "like_count": 11305,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3046
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8888581,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7243,
+          "media_count": 9202176,
+          "tweet_count": 132931682
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-08T17:30:10.000Z",
+        "description": "耀夜 | 环路耀夜 | 社恐🥲 | 友跨 |\n洛天依 @hn_luotianyi712 | 每一个 fo ❤️ |\nMinecraft | Left 4 Dead 2 | EPL (MU) | NFL (Bengals) |\nK-On! | School-Live!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "hn_luotianyi712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoieloop",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoieloop",
+                "start": 0,
+                "url": "https://t.co/a2gEtlY4Jy"
+              }
+            ]
+          }
+        },
+        "id": "1865811054892347392",
+        "location": "瓦纳海姆",
+        "name": "yaoie",
+        "pinned_tweet_id": "2081411600695939224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915292111462400/uZfJlWJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 233,
+          "like_count": 9185,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/a2gEtlY4Jy",
+        "username": "YaoieLoop",
+        "verified": true
+      }
+    ]
+  }
+}

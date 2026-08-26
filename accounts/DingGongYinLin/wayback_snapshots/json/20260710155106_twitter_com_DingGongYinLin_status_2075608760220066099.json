@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2075543127289659683",
+    "created_at": "2026-07-10T15:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075608760220066099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074313344916578304",
+          "start": 0,
+          "username": "Konizazadesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075608760220066099",
+    "in_reply_to_user_id": "2074313344916578304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075543127289659683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizazadesu 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19315,
+        "height": 1280,
+        "media_key": "13_2075543030107635712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075543030107635712/img/Ms2NDoCu5a_6NPXA.jpg",
+        "public_metrics": {
+          "view_count": 62
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075543030107635712/vid/avc1/320x694/g1X6Uhb_4qfw4bdR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075543030107635712/vid/avc1/480x1040/SvLa3CCnBL7gfCld.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075543030107635712/vid/avc1/590x1280/4s96NfmAPUkU10Y0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075543030107635712/pl/G1S_Ur267nEyGdE-.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "height": 546,
+        "media_key": "3_2075543030061465601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3PY57aAAE8deq.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2075543127289659683",
+        "created_at": "2026-07-10T15:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075608760220066099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074313344916578304",
+              "start": 0,
+              "username": "Konizazadesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075608760220066099",
+        "in_reply_to_user_id": "2074313344916578304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075543127289659683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizazadesu 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075543030107635712",
+            "3_2075543030061465601"
+          ]
+        },
+        "author_id": "2074313344916578304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2075543127289659683",
+        "created_at": "2026-07-10T11:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075543127289659683"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "习近平"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ql2vcHSxsd",
+              "end": 97,
+              "expanded_url": "https://x.com/Konizazadesu/status/2075543127289659683/video/1",
+              "media_key": "13_2075543030107635712",
+              "start": 74,
+              "url": "https://t.co/Ql2vcHSxsd"
+            },
+            {
+              "display_url": "pic.x.com/Ql2vcHSxsd",
+              "end": 97,
+              "expanded_url": "https://x.com/Konizazadesu/status/2075543127289659683/video/1",
+              "media_key": "3_2075543030061465601",
+              "start": 74,
+              "url": "https://t.co/Ql2vcHSxsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075543127289659683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😡没人觉得把习近平叫成刁酱很亲切吗😋\n为什么x上简中区都没有多少叫刁酱的😡\n（除了我之外）\n😋我总有一天要让所有人接受刁酱这个爱称的喵😋\n#习近平 https://t.co/Ql2vcHSxsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 264,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1374
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T02:04:47.000Z",
+        "description": "大号@konizaza\n小号会发一些和大号风格非常不同的内容\n是zaza酱的另一面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "konizaza"
+              }
+            ]
+          }
+        },
+        "id": "2074313344916578304",
+        "location": "中南海",
+        "name": "Konizaza",
+        "pinned_tweet_id": "2074314396772585973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074313761079623680/qkTTR6YD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 33,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Konizazadesu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2091069166702956582",
+    "created_at": "2026-08-22T07:48:07.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T08:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091069895370789169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088902246268620800",
+          "start": 0,
+          "username": "GGQER_1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091069895370789169",
+    "in_reply_to_user_id": "2088902246268620800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091069532110745799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGQER_1102 喵～（&lt;(。_。)&gt;）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2091069166702956582",
+        "created_at": "2026-08-22T07:48:07.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091069895370789169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088902246268620800",
+              "start": 0,
+              "username": "GGQER_1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091069895370789169",
+        "in_reply_to_user_id": "2088902246268620800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091069532110745799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGQER_1102 喵～（&lt;(。_。)&gt;）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088902246268620800",
+        "conversation_id": "2091069166702956582",
+        "created_at": "2026-08-22T07:46:41.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091069532110745799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091069532110745799",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091069166702956582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 哈（超大声）要吃饭的喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091069895370789169",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 314,
+          "like_count": 18324,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 4353
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T08:15:42.000Z",
+        "description": "05/男/社恐/死人微活/有对象中/恋爱ing/性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/g%E2%80%86q",
+                "end": 23,
+                "expanded_url": "https://ngl.link/g%E2%80%86q",
+                "start": 0,
+                "url": "https://t.co/vfWhf7GXA3"
+              }
+            ]
+          }
+        },
+        "id": "2088902246268620800",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2091069532110745799",
+        "name": "GQ",
+        "pinned_tweet_id": "2090685338725536112",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088902629850247168/sM0edc7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/vfWhf7GXA3",
+        "username": "GGQER_1102",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

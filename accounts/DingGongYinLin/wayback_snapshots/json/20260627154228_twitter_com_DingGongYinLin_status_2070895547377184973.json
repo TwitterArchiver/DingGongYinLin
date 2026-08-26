@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2070604487816052972",
+    "created_at": "2026-06-27T15:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070895547377184973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025951595020845056",
+          "start": 0,
+          "username": "fhv932189957574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070895547377184973",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070604487816052972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhv932189957574 关注塔菲谢谢喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "16_2070604432338038784",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLxDwrvbsAAF7OE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLxDwrvbsAAF7OE.mp4"
+          }
+        ],
+        "width": 320
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2070604432342151168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxDwrwacAApWkV.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2070604487816052972",
+        "created_at": "2026-06-27T15:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070895547377184973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070895547377184973",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070604487816052972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 关注塔菲谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2070604432338038784",
+            "3_2070604432342151168"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070604487816052972",
+        "created_at": "2026-06-26T20:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070604487816052972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAP51ZER46",
+              "end": 134,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070604487816052972/photo/1",
+              "media_key": "16_2070604432338038784",
+              "start": 111,
+              "url": "https://t.co/jAP51ZER46"
+            },
+            {
+              "display_url": "pic.x.com/jAP51ZER46",
+              "end": 134,
+              "expanded_url": "https://x.com/fhv932189957574/status/2070604487816052972/photo/1",
+              "media_key": "3_2070604432342151168",
+              "start": 111,
+              "url": "https://t.co/jAP51ZER46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070604487816052972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关注塔菲谢谢喵\n\n不是鬼畜的角度来讲，塔菲好像是一个好虚拟偶像，和路人互动，并且乐于玩梗，并且塔菲这种甜美风声音加Q版加大塔菲形象还是很多人都喜欢的，很多只听过梗的人也挺友善的，\n并且我还说永雉塔菲推动了经济发展怎么说😋 https://t.co/jAP51ZER46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 249,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜我是啥子｜希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱｜爱好纯随机｜爱搬屎｜个人自由主义｜应该无性恋｜有做饭教程｜哈哈哈哈哈哈哈｜https://t.co/LfSVdErXNk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 132,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 109,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "哈哈哈哈哈哈哈",
+        "name": "f hv",
+        "pinned_tweet_id": "2069784104888041598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 289,
+          "like_count": 8528,
+          "listed_count": 0,
+          "media_count": 815,
+          "tweet_count": 2118
+        },
+        "url": "",
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

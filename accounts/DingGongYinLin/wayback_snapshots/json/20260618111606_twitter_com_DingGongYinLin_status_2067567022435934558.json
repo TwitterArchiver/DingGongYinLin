@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2067505326665142650",
+    "created_at": "2026-06-18T11:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067567022435934558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066487415678918657",
+          "start": 0,
+          "username": "haiyueshuimuxia"
+        },
+        {
+          "end": 24,
+          "id": "2063266311254552576",
+          "start": 17,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067567022435934558",
+    "in_reply_to_user_id": "2066487415678918657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067505326665142650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiyueshuimuxia @17nuun 摸摸你喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2067505234994495489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFBDp8bgAEvMWw.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2067505326665142650",
+        "created_at": "2026-06-18T11:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067567022435934558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066487415678918657",
+              "start": 0,
+              "username": "haiyueshuimuxia"
+            },
+            {
+              "end": 24,
+              "id": "2063266311254552576",
+              "start": 17,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067567022435934558",
+        "in_reply_to_user_id": "2066487415678918657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067505326665142650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiyueshuimuxia @17nuun 摸摸你喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067505234994495489"
+          ]
+        },
+        "author_id": "2066487415678918657",
+        "conversation_id": "2067505326665142650",
+        "created_at": "2026-06-18T07:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067505326665142650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2063266311254552576",
+              "start": 22,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45pmEf2RVR",
+              "end": 122,
+              "expanded_url": "https://x.com/haiyueshuimuxia/status/2067505326665142650/photo/1",
+              "media_key": "3_2067505234994495489",
+              "start": 99,
+              "url": "https://t.co/45pmEf2RVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067505326665142650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封禁了,但是17已经回来了!!! \n\n@17nuun 这个账号真的是17本人!(也是大号) 未来可能会拿这个账号发梗图赚生活费和糖钱!\n 最近17真的一点生活费和资金都没有了🥺\n求打赏(悲) https://t.co/45pmEf2RVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 246,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 417
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜sub｜mtf｜06｜心境情感障碍｜INFP｜💊ODer｜想倾诉或聊天可以找我说话｜聊天(暂不可用,建议私信我)：https://t.co/3JPf2UoHaa｜最爱的小孩@dnshu135734｜经营账号是@17nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 99,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 76,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "pinned_tweet_id": "2067505326665142650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 55,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "haiyueshuimuxia",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067504461292179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 615,
+          "like_count": 359,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 665
+        },
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

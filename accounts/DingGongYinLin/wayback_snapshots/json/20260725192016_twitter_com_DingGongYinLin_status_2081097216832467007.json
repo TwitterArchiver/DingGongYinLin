@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2081095763044778315",
+    "created_at": "2026-07-25T19:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081097216832467007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081097216832467007",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081095763044778315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 😳😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2081095763044778315",
+        "created_at": "2026-07-25T19:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081097216832467007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081097216832467007",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081095763044778315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 😳😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287313244693000193",
+        "conversation_id": "2081095763044778315",
+        "created_at": "2026-07-25T19:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081095763044778315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081095763044778315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦说到痒了就剁掉我想起小时候q群流传的一张动图，是切掉了，还有传的一个视频，是用剪刀把蛋蛋剪掉了，还戳爆了，不存在的幻痛出现了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 299,
+          "like_count": 7837,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2579
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "Blood,Semen,and Death‖紫薇圣徒@gsdwnff‖匿名信箱https://t.co/UQQWQB3ylm‖互fo欢迎‖招募随时通话有意私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "gsdwnff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 39,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "🚪1145.14",
+        "name": "死海@肉浪狂熱★DarkRed",
+        "pinned_tweet_id": "2076444136085868708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078279893423685632/Ku7FAhep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 2331,
+          "like_count": 22291,
+          "listed_count": 2,
+          "media_count": 590,
+          "tweet_count": 15635
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

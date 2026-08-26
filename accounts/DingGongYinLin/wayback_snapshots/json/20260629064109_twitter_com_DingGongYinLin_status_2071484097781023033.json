@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2071484097781023033",
+    "created_at": "2026-06-29T06:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071484097781023033"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071484097781023033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "L小姐今天收到了快递信息，买的笔记本电脑已经寄到菜鸟驿站了，L小姐对这个地方很陌生，因为之前从来没有收发过快递。L小姐对自己加油道：“我自己一个人可以的”。L小姐鼓足勇气离开了寝室。L小姐靠着导航找到了快递站的位置，原来在食堂旁边。L小姐好奇的进入快递站，里面摆了好几个货架，快递按顺序放在货架上，出口的同学们正在拿着快递排队等待机器扫码出库。L小姐看着手机上的取件码，在里面绕了一大圈都没有找到自己的快递。L小姐只好向快递站的工作人员寻求帮助，被告知这种快递有专门的地方放置。终于L小姐拿到了自己的快递，然后直接离开了。L小姐回到寝室才想起来没有给快递扫码出库，其实没什么大不了的，但L小姐认为这是一件很不好的事。思来想去L小姐将箱子上有二维码的部分裁剪下来，然后等到快递站快下班人变少的时候拿去扫码出库。L小姐感觉太丢人了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "L小姐今天收到了快递信息，买的笔记本电脑已经寄到菜鸟驿站了，L小姐对这个地方很陌生，因为之前从来没有收发过快递。L小姐对自己加油道：“我自己一个人可以的”。L小姐鼓足勇气离开了寝室。L小姐靠着导航找到了快递站的位置，原来在食堂旁边。L小姐好奇的进入快递站，里面摆了好几个货架，快递按顺序放"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2071484097781023033",
+        "created_at": "2026-06-29T06:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071484097781023033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071484097781023033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "L小姐今天收到了快递信息，买的笔记本电脑已经寄到菜鸟驿站了，L小姐对这个地方很陌生，因为之前从来没有收发过快递。L小姐对自己加油道：“我自己一个人可以的”。L小姐鼓足勇气离开了寝室。L小姐靠着导航找到了快递站的位置，原来在食堂旁边。L小姐好奇的进入快递站，里面摆了好几个货架，快递按顺序放在货架上，出口的同学们正在拿着快递排队等待机器扫码出库。L小姐看着手机上的取件码，在里面绕了一大圈都没有找到自己的快递。L小姐只好向快递站的工作人员寻求帮助，被告知这种快递有专门的地方放置。终于L小姐拿到了自己的快递，然后直接离开了。L小姐回到寝室才想起来没有给快递扫码出库，其实没什么大不了的，但L小姐认为这是一件很不好的事。思来想去L小姐将箱子上有二维码的部分裁剪下来，然后等到快递站快下班人变少的时候拿去扫码出库。L小姐感觉太丢人了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "L小姐今天收到了快递信息，买的笔记本电脑已经寄到菜鸟驿站了，L小姐对这个地方很陌生，因为之前从来没有收发过快递。L小姐对自己加油道：“我自己一个人可以的”。L小姐鼓足勇气离开了寝室。L小姐靠着导航找到了快递站的位置，原来在食堂旁边。L小姐好奇的进入快递站，里面摆了好几个货架，快递按顺序放"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 252,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

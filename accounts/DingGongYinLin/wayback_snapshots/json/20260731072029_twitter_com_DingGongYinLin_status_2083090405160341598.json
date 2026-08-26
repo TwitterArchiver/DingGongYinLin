@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2083073473740697863",
+    "created_at": "2026-07-31T07:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083090405160341598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "hoshinofuji___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083090405160341598",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083073473740697863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofuji___ 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2083073456233684992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiQRZfaoAAyTvs.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2083073473740697863",
+        "created_at": "2026-07-31T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083090405160341598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "hoshinofuji___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083090405160341598",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083073473740697863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofuji___ 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083073456233684992"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2083073473740697863",
+        "created_at": "2026-07-31T06:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083073473740697863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM5ee31Lul",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2083073473740697863/photo/1",
+              "media_key": "3_2083073456233684992",
+              "start": 0,
+              "url": "https://t.co/kM5ee31Lul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083073473740697863",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kM5ee31Lul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 305,
+          "like_count": 11491,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3083
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜pixiv illustrator | AIart | 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 526,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

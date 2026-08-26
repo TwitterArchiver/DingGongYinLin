@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2090038216586141733",
+    "created_at": "2026-08-19T11:28:36.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090038216586141733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DingGongYinLin…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/DingGongYinLin/status/2090020459526107522",
+          "start": 7,
+          "url": "https://t.co/MPCdJfUbQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090038216586141733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090020459526107522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "悲伤的基调喵 https://t.co/MPCdJfUbQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2090020450231590912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE-hq1bIAAVPGr.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2090038216586141733",
+        "created_at": "2026-08-19T11:28:36.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090038216586141733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DingGongYinLin…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/DingGongYinLin/status/2090020459526107522",
+              "start": 7,
+              "url": "https://t.co/MPCdJfUbQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090038216586141733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090020459526107522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "悲伤的基调喵 https://t.co/MPCdJfUbQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090020450231590912"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090020459526107522",
+        "created_at": "2026-08-19T10:18:02.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090020459526107522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0r89mVSvI",
+              "end": 32,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2090020459526107522/photo/1",
+              "media_key": "3_2090020450231590912",
+              "start": 9,
+              "url": "https://t.co/F0r89mVSvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090020459526107522",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090020450231590912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看战双新剧情喵 https://t.co/F0r89mVSvI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090038216586141733",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 309,
+          "like_count": 17139,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 4151
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2076116809250447448",
+    "created_at": "2026-07-12T02:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076132511634325965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1287313244693000193",
+          "start": 0,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076132511634325965",
+    "in_reply_to_user_id": "1287313244693000193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076131450240348523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsknzb 👁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076131441445056512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_mi9JaMAASm52.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2076116809250447448",
+        "created_at": "2026-07-12T02:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076132511634325965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1287313244693000193",
+              "start": 0,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076132511634325965",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076131450240348523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsknzb 👁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076131441445056512"
+          ]
+        },
+        "author_id": "1287313244693000193",
+        "conversation_id": "2076116809250447448",
+        "created_at": "2026-07-12T02:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076131450240348523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoMLWYQjsM",
+              "end": 32,
+              "expanded_url": "https://x.com/dsknzb/status/2076131450240348523/photo/1",
+              "media_key": "3_2076131441445056512",
+              "start": 9,
+              "url": "https://t.co/RoMLWYQjsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076131450240348523",
+        "in_reply_to_user_id": "1287313244693000193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076116809250447448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看我的暗黑丸山彩 https://t.co/RoMLWYQjsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 265,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1478
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "病み裏垢🚫  🐈\nhttps://t.co/UQQWQB3ylm ‖长期招募固有意向请私信，无工资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 9,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "宇宙空間🚪520",
+        "name": "南极磷虾",
+        "pinned_tweet_id": "2073811853789245791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074428878953553920/HoNWW0G8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 2301,
+          "like_count": 20111,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 14564
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

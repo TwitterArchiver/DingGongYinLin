@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2062692050680840682",
+    "created_at": "2026-06-05T03:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062744479464120506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043048243760648192",
+          "start": 0,
+          "username": "Duanmu1Megumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062744479464120506",
+    "in_reply_to_user_id": "2043048243760648192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062692050680840682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duanmu1Megumi 早上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2062692050680840682",
+        "created_at": "2026-06-05T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062744479464120506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043048243760648192",
+              "start": 0,
+              "username": "Duanmu1Megumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062744479464120506",
+        "in_reply_to_user_id": "2043048243760648192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062692050680840682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duanmu1Megumi 早上好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043048243760648192",
+        "conversation_id": "2062692050680840682",
+        "created_at": "2026-06-05T00:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062692050680840682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062692050680840682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよう\n早上好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 219,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 136
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T19:27:24.000Z",
+        "description": "第一次使用推\n日常垢/痛み垢（？）\n（算是日常号，偶尔发癫）\n| 中国人 | 05 | ♂ 男|\n| 友達が欲しい | 交友|\n| うつ/略带抑郁 |\n|DM大歓迎|欢迎私信 |\n|政治❌|\n\n|授業があるから、毎日不定期オンライン|\n|因为有课，所以不定时上线|\n孩子们快来跟我交友\nお友達お願い！！",
+        "id": "2043048243760648192",
+        "name": "端木Megumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059933442616463360/gUG76Qas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 111,
+          "like_count": 1434,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1004
+        },
+        "username": "Duanmu1Megumi",
+        "verified": false
+      }
+    ]
+  }
+}

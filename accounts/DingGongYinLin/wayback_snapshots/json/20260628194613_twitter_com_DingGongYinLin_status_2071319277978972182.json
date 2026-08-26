@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2071319277978972182",
+    "created_at": "2026-06-28T19:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071319277978972182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DingGongYinLin…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/DingGongYinLin/status/2063584212482195693",
+          "start": 16,
+          "url": "https://t.co/nRcYDjas4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071319277978972182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063584212482195693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起来买了还没玩喵，应该捏谁喵 https://t.co/nRcYDjas4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063584209802059776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNS581bYAAbhIO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2071319277978972182",
+        "created_at": "2026-06-28T19:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071319277978972182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DingGongYinLin…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/DingGongYinLin/status/2063584212482195693",
+              "start": 16,
+              "url": "https://t.co/nRcYDjas4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071319277978972182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063584212482195693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来买了还没玩喵，应该捏谁喵 https://t.co/nRcYDjas4G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063584209802059776"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063584212482195693",
+        "created_at": "2026-06-07T11:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063584212482195693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hre4hZ0qUj",
+              "end": 30,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2063584212482195693/photo/1",
+              "media_key": "3_2063584209802059776",
+              "start": 7,
+              "url": "https://t.co/Hre4hZ0qUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063584212482195693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新买的游戏喵 https://t.co/Hre4hZ0qUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 252,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

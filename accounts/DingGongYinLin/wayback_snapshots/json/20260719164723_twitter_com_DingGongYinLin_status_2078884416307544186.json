@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2078883180929843206",
+    "created_at": "2026-07-19T16:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078884416307544186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078884416307544186",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078883180929843206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama 晚安喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078883173287825408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmtO1FbkAA8jV4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2078883180929843206",
+        "created_at": "2026-07-19T16:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078884416307544186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078884416307544186",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078883180929843206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078883173287825408"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078883180929843206",
+        "created_at": "2026-07-19T16:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078883180929843206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U39GXImkkM",
+              "end": 166,
+              "expanded_url": "https://x.com/hasaki_sama/status/2078883180929843206/photo/1",
+              "media_key": "3_2078883173287825408",
+              "start": 143,
+              "url": "https://t.co/U39GXImkkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078883180929843206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "晚安安～💙🌙\n\n如果今天过得有些累的话\n那就早点钻进被窝吧 (っ˘ω˘ς )\n\n先把小烦恼放在枕头旁边\n等明天醒来再慢慢解决也不迟喵～\n\n至于Neko酱嘛……\n\n咳咳……\n趁现在先把晚安送给大家 (｡•̀ᴗ-)✧\n\n这样就算等会偷偷跑去看世界杯……\n也不算没有乖乖和大家说晚安了喵⚽🤍\n\n祝大家今晚都有一个甜甜的好梦喵～\n爱妳们呀 ～ฅ(^>ω<^)ฅ 💙🦈"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安安～💙🌙\n\n如果今天过得有些累的话\n那就早点钻进被窝吧 (っ˘ω˘ς )\n\n先把小烦恼放在枕头旁边\n等明天醒来再慢慢解决也不迟喵～\n\n至于Neko酱嘛……\n\n咳咳……\n趁现在先把晚安送给大家 (｡•̀ᴗ-)✧\n\n这样就算等会偷偷跑去看世界杯……\n也不算没有乖乖和大家说晚安了喵⚽🤍 https://t.co/U39GXImkkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 286,
+          "like_count": 5387,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+🏳️‍🌈/友跨🍥/键政🆖\n目前正励志成为一名合格的Developer！\nhttps://t.co/VDLGVdRk4Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hasaki_0612",
+                "end": 138,
+                "expanded_url": "http://t.me/hasaki_0612",
+                "start": 115,
+                "url": "https://t.co/VDLGVdRk4Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUSsi"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 618,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/8Ei14tUSsi",
+        "username": "hasaki_sama",
+        "verified": true
+      }
+    ]
+  }
+}

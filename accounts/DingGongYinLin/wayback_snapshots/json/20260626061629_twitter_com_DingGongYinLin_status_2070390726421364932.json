@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2070390361915330807",
+    "created_at": "2026-06-26T06:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070390726421364932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043048243760648192",
+          "start": 0,
+          "username": "Duanmu1Megumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070390726421364932",
+    "in_reply_to_user_id": "2043048243760648192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070390361915330807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duanmu1Megumi 80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2070390353300217856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuBDpLa4AAN5y1.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2070390361915330807",
+        "created_at": "2026-06-26T06:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070390726421364932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043048243760648192",
+              "start": 0,
+              "username": "Duanmu1Megumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070390726421364932",
+        "in_reply_to_user_id": "2043048243760648192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070390361915330807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duanmu1Megumi 80"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070390353300217856"
+          ]
+        },
+        "author_id": "2043048243760648192",
+        "conversation_id": "2070390361915330807",
+        "created_at": "2026-06-26T06:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070390361915330807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jviPwB7jkX",
+              "end": 36,
+              "expanded_url": "https://x.com/Duanmu1Megumi/status/2070390361915330807/photo/1",
+              "media_key": "3_2070390353300217856",
+              "start": 13,
+              "url": "https://t.co/jviPwB7jkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070390361915330807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测测互关对我的好感ᗜⰙᗜ https://t.co/jviPwB7jkX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 249,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T19:27:24.000Z",
+        "description": "|请看置顶|\n第一次使用推\n日常垢（？）\n（算是日常号，偶尔发癫）\n| 交友 |\n| 略带抑郁|\n| 欢迎私信 |\n| 政治❌|\n|因为有课，所以不定时上线|\n孩子们快来跟我交友",
+        "id": "2043048243760648192",
+        "name": "端木Megumi",
+        "pinned_tweet_id": "2066847326342447398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059933442616463360/gUG76Qas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 220,
+          "like_count": 2604,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1514
+        },
+        "url": "",
+        "username": "Duanmu1Megumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2066465740216054068",
+    "created_at": "2026-06-15T14:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066534388867981557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2708220024",
+          "start": 0,
+          "username": "Sandy_K_Connor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066534388867981557",
+    "in_reply_to_user_id": "2708220024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066465740216054068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sandy_K_Connor ❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3232,
+        "media_key": "3_2066103255881719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxF9uwboAAFo5v.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2066103309866598400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxGA33bgAAN24W.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2066103356771508224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxGDmmboAAGZAj.jpg",
+        "width": 1764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066465740216054068",
+        "created_at": "2026-06-15T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066534388867981557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2708220024",
+              "start": 0,
+              "username": "Sandy_K_Connor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066534388867981557",
+        "in_reply_to_user_id": "2708220024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066465740216054068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sandy_K_Connor ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066103255881719808",
+            "3_2066103309866598400",
+            "3_2066103356771508224"
+          ]
+        },
+        "author_id": "2708220024",
+        "conversation_id": "2066465740216054068",
+        "created_at": "2026-06-15T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066465740216054068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2s1SOASJyw",
+              "end": 34,
+              "expanded_url": "https://x.com/Sandy_K_Connor/status/2066465740216054068/photo/1",
+              "media_key": "3_2066103255881719808",
+              "start": 11,
+              "url": "https://t.co/2s1SOASJyw"
+            },
+            {
+              "display_url": "pic.x.com/2s1SOASJyw",
+              "end": 34,
+              "expanded_url": "https://x.com/Sandy_K_Connor/status/2066465740216054068/photo/1",
+              "media_key": "3_2066103309866598400",
+              "start": 11,
+              "url": "https://t.co/2s1SOASJyw"
+            },
+            {
+              "display_url": "pic.x.com/2s1SOASJyw",
+              "end": 34,
+              "expanded_url": "https://x.com/Sandy_K_Connor/status/2066465740216054068/photo/1",
+              "media_key": "3_2066103356771508224",
+              "start": 11,
+              "url": "https://t.co/2s1SOASJyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066465740216054068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1799,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "ルシアも割と描いてた https://t.co/2s1SOASJyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 244,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 321
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-05T04:03:48.000Z",
+        "description": "よみかた：サンディー・ケイ・コナー\n\n20↑\n主にパニグレ\n稀に鳴潮（※2.7直前にFA専）\n普段は口数少ないものの趣味や推しが絡むと饒舌になる系統のオタク\n\n⚠️ネタに妄想・怪文書⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7361109",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/7361109",
+                "start": 0,
+                "url": "https://t.co/N5DO8Ay7Uj"
+              }
+            ]
+          }
+        },
+        "id": "2708220024",
+        "location": "空中移動要塞ユートピア：跡",
+        "name": "DDD6357",
+        "pinned_tweet_id": "2060673009451675732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731651494993354752/osMAuR0i_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 135,
+          "like_count": 23091,
+          "listed_count": 4,
+          "media_count": 538,
+          "tweet_count": 5389
+        },
+        "url": "https://t.co/N5DO8Ay7Uj",
+        "username": "Sandy_K_Connor",
+        "verified": false
+      }
+    ]
+  }
+}

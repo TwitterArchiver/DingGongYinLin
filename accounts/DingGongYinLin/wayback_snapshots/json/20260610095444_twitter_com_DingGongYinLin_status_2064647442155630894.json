@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2064584944081674351",
+    "created_at": "2026-06-10T09:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064647442155630894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987561311438610432",
+          "start": 0,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064647442155630894",
+    "in_reply_to_user_id": "1987561311438610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064584944081674351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrwi238646 也是发上30元SC了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2064584918605385728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbhC3oaUAA9wK0.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2064584944081674351",
+        "created_at": "2026-06-10T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064647442155630894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987561311438610432",
+              "start": 0,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064647442155630894",
+        "in_reply_to_user_id": "1987561311438610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064584944081674351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrwi238646 也是发上30元SC了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064584918605385728"
+          ]
+        },
+        "author_id": "1987561311438610432",
+        "conversation_id": "2064584944081674351",
+        "created_at": "2026-06-10T05:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064584944081674351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJnKNyg4YU",
+              "end": 29,
+              "expanded_url": "https://x.com/xrwi238646/status/2064584944081674351/photo/1",
+              "media_key": "3_2064584918605385728",
+              "start": 6,
+              "url": "https://t.co/aJnKNyg4YU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064584944081674351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔菲牛逼。 https://t.co/aJnKNyg4YU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 230,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 207
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo（请私信）｜互fo会查主页成分。｜很多废话吵到你们报意丝。｜不是男同😡\n176 目前64.7kg，健身中……（仅拍照记录）\n低精力小猪。 小小猪：@yzovoc7（小号不回fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "yzovoc7"
+              }
+            ]
+          }
+        },
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2061397921841791468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 233,
+          "like_count": 5924,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 2479
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

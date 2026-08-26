@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2085147323148210536",
+    "created_at": "2026-08-06T05:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085233219755213201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085233219755213201",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085147323148210536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 早安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2085147323148210536",
+        "created_at": "2026-08-06T05:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085233219755213201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085233219755213201",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085147323148210536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 早安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885529810942009344",
+        "conversation_id": "2085147323148210536",
+        "created_at": "2026-08-05T23:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T00:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085147323148210536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085147323148210536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好呀~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 309,
+          "like_count": 13611,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3516
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 | 夜間出沒 | 日常小號@NEO_Lris45 | ❤️ @Lingfor0620\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "NEO_Lris45"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Lingfor0620"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2085038305230655832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 675,
+          "like_count": 5335,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true
+      }
+    ]
+  }
+}

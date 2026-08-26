@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2073076949854064744",
+    "created_at": "2026-07-03T21:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073154851383751156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2072621821745307648",
+          "start": 0,
+          "username": "Summeryn754"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073154851383751156",
+    "in_reply_to_user_id": "2072621821745307648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073076949854064744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Summeryn754 😲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2073076949854064744",
+        "created_at": "2026-07-03T21:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073154851383751156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2072621821745307648",
+              "start": 0,
+              "username": "Summeryn754"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073154851383751156",
+        "in_reply_to_user_id": "2072621821745307648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073076949854064744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Summeryn754 😲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072621821745307648",
+        "conversation_id": "2073076949854064744",
+        "created_at": "2026-07-03T16:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073076949854064744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/danshuishuimu/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/danshuishuimu/status/2072417549938311275",
+              "start": 17,
+              "url": "https://t.co/Tg8IJtTP3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073076949854064744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072417549938311275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水母的淫叫声，估计会有很多人想听 https://t.co/Tg8IJtTP3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 256,
+          "like_count": 1129,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1031
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-02T10:04:46.000Z",
+        "description": "来自中国大陆的普通工程师，mtx，含糖，最喜欢的两个笨蛋@tngxngxng13171@danshuishuimu",
+        "id": "2072621821745307648",
+        "location": "冰岛",
+        "name": "夏霖雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072645281821360128/XvqkdYIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "Summeryn754",
+        "verified": false
+      }
+    ]
+  }
+}

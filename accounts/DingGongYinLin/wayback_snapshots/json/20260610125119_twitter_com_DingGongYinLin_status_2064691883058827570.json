@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2064675108799816070",
+    "created_at": "2026-06-10T12:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064691883058827570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813135445360058369",
+          "start": 0,
+          "username": "mikoto_gr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064691883058827570",
+    "in_reply_to_user_id": "1813135445360058369",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064675108799816070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikoto_gr 🫪🫪🫪🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2064675108799816070",
+        "created_at": "2026-06-10T12:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064691883058827570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813135445360058369",
+              "start": 0,
+              "username": "mikoto_gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064691883058827570",
+        "in_reply_to_user_id": "1813135445360058369",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064675108799816070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikoto_gr 🫪🫪🫪🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813135445360058369",
+        "conversation_id": "2064675108799816070",
+        "created_at": "2026-06-10T11:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064675108799816070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064675108799816070",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3105,
+          "like_count": 235,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "🫪🫪🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 230,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 212
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T08:56:41.000Z",
+        "description": "美古途(みこと)です。うたいます。ひとみしりです。 罪十罰 from 少女革命計画 @girls_rev_pj ✦全体タグ : #美古途 / FA : #美古途美術部 / #拝啓美古途さん✦ https://t.co/Z2AUWeRQcP\n二次創作は活動で使用させていただく場合があります。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "美古途"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "美古途美術部"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "拝啓美古途さん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "girls_rev_pj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@mikoto_grp",
+                "end": 119,
+                "expanded_url": "https://www.youtube.com/@mikoto_grp",
+                "start": 96,
+                "url": "https://t.co/Z2AUWeRQcP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girlsrevolutionproject.jp",
+                "end": 23,
+                "expanded_url": "https://girlsrevolutionproject.jp/",
+                "start": 0,
+                "url": "https://t.co/UfqhCXsUFv"
+              }
+            ]
+          }
+        },
+        "id": "1813135445360058369",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "美古途 -MIKOTO-",
+        "pinned_tweet_id": "2050928567131984056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821405545586368513/P3w_9Nee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12782,
+          "following_count": 54,
+          "like_count": 33739,
+          "listed_count": 185,
+          "media_count": 366,
+          "tweet_count": 2892
+        },
+        "url": "https://t.co/UfqhCXsUFv",
+        "username": "mikoto_gr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2082452429962981791",
+    "created_at": "2026-07-29T13:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082458533933817982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        },
+        {
+          "end": 23,
+          "id": "1664601148098224128",
+          "start": 13,
+          "username": "kami__519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082458533933817982",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082458317629108541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin @kami__519 连我也要被打吗喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2082452429962981791",
+        "created_at": "2026-07-29T13:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082458533933817982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            },
+            {
+              "end": 23,
+              "id": "1664601148098224128",
+              "start": 13,
+              "username": "kami__519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082458533933817982",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082458317629108541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin @kami__519 连我也要被打吗喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870313420807163904",
+        "conversation_id": "2082452429962981791",
+        "created_at": "2026-07-29T13:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082458317629108541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            },
+            {
+              "end": 26,
+              "id": "1664601148098224128",
+              "start": 16,
+              "username": "kami__519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082458317629108541",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082457858847969328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin @kami__519 看谁都不爽😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 304,
+          "like_count": 10681,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2944
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高三纯女🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  251： @umodamo | 互fo评论区留言 | 碎碎念 |  恋爱脑｜厌蠢症｜JPOPアニメ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 59,
+                "username": "aoim33"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "umodamo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん（我的妈别掉fo了）",
+        "pinned_tweet_id": "2082161450836013512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574568773197824/WCbkByx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 2043,
+          "like_count": 50883,
+          "listed_count": 8,
+          "media_count": 2688,
+          "tweet_count": 23603
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-02T11:53:57.000Z",
+        "description": "16歳｜サブ@axa8r｜鍵@tz5k8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "axa8r"
+              },
+              {
+                "end": 20,
+                "start": 14,
+                "username": "tz5k8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/kami__519",
+                "end": 23,
+                "expanded_url": "https://mond.how/kami__519",
+                "start": 0,
+                "url": "https://t.co/vJQvK3RhqZ"
+              }
+            ]
+          }
+        },
+        "id": "1664601148098224128",
+        "name": "紙",
+        "pinned_tweet_id": "2076643441107493110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082155595898191872/xmzmX0et_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19295,
+          "following_count": 1439,
+          "like_count": 142583,
+          "listed_count": 45,
+          "media_count": 728,
+          "tweet_count": 30914
+        },
+        "url": "https://t.co/vJQvK3RhqZ",
+        "username": "kami__519",
+        "verified": false
+      }
+    ]
+  }
+}

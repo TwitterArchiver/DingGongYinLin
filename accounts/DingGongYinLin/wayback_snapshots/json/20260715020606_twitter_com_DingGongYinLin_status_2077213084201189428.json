@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2077196107298591155",
+    "created_at": "2026-07-15T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077213084201189428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077213084201189428",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077196107298591155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama 早安喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_2077196100805824512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNOu2SVbkAA7YaN.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2077196107298591155",
+        "created_at": "2026-07-15T02:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077213084201189428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077213084201189428",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077196107298591155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama 早安喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077196100805824512"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2077196107298591155",
+        "created_at": "2026-07-15T00:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077196107298591155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEzX8KxJbs",
+              "end": 107,
+              "expanded_url": "https://x.com/hasaki_sama/status/2077196107298591155/photo/1",
+              "media_key": "3_2077196100805824512",
+              "start": 84,
+              "url": "https://t.co/bEzX8KxJbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077196107298591155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "www今天Neko酱起晚了喵……\n咱昨晚又想起了些不太好的事情💦\n心情点小低落喵😣\n不过已经没关系啦～\n早安安 今天也要开开心心的喵 (๑´&gt;᎑&lt;)~ 💙 https://t.co/bEzX8KxJbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 278,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1721
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+/友跨🍥/键政🆖\n目前正励志成为一名合格的Developer！\nhttps://t.co/tDFZ3Dhch6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/hasaki_0612",
+                "end": 134,
+                "expanded_url": "http://telegram.me/hasaki_0612",
+                "start": 111,
+                "url": "https://t.co/tDFZ3Dhch6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUSsi"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 507,
+          "like_count": 2435,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/8Ei14tUSsi",
+        "username": "hasaki_sama",
+        "verified": true
+      }
+    ]
+  }
+}

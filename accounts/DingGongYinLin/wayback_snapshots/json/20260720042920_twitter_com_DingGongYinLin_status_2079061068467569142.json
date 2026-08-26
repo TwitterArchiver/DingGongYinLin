@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2079057892398022791",
+    "created_at": "2026-07-20T04:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079061068467569142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299233902066692097",
+          "start": 0,
+          "username": "NekoSukiXoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079061068467569142",
+    "in_reply_to_user_id": "1299233902066692097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079057892398022791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoSukiXoX 逆天了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2079057892398022791",
+        "created_at": "2026-07-20T04:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079061068467569142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299233902066692097",
+              "start": 0,
+              "username": "NekoSukiXoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079061068467569142",
+        "in_reply_to_user_id": "1299233902066692097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079057892398022791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoSukiXoX 逆天了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299233902066692097",
+        "conversation_id": "2079057892398022791",
+        "created_at": "2026-07-20T04:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079057892398022791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NekoSukiXoX/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/NekoSukiXoX/status/2079056900436713824",
+              "start": 47,
+              "url": "https://t.co/UhYwUeb7HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079057892398022791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079056900436713824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妹来我房间偷东西被我发现了，我说了她几句又，完事我家长又来骂我，我干脆出去挂壁得了(  ) https://t.co/UhYwUeb7HG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 286,
+          "like_count": 5536,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-28T06:34:47.000Z",
+        "description": "キモいの雑魚変態バカ一只/中英日はOK/喜欢碎碎念/2010.11出厂/初三在读/想要变成可爱的女孩子/水仙/深柜/MTF/酒蒙子/偶尔自残(确信)/不太敢鉴证/已累似/希望25岁前似掉/可互fo喔/匿名提问箱https://t.co/bEwcPWTArv\n恋人@Muchun_offical @NekoSukiXoX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Muchun_offical"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "NekoSukiXoX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 128,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 105,
+                "url": "https://t.co/bEwcPWTArv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naizinaizinai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naizinaizinai",
+                "start": 0,
+                "url": "https://t.co/bEwcPWU8h3"
+              }
+            ]
+          }
+        },
+        "id": "1299233902066692097",
+        "location": "NightCity",
+        "name": "𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲𝔃𝓲𝓝𝓪𝓲🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999535716544513/0EsfSBv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 388,
+          "like_count": 388,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/bEwcPWU8h3",
+        "username": "NekoSukiXoX",
+        "verified": true
+      }
+    ]
+  }
+}

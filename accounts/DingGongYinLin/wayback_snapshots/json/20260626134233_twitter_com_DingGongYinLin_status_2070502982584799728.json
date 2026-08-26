@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2070496331660214660",
+    "created_at": "2026-06-26T13:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070502982584799728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045025548401823744",
+          "start": 0,
+          "username": "ShiXiaomeiMoYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070502982584799728",
+    "in_reply_to_user_id": "2045025548401823744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070496331660214660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiXiaomeiMoYa 不可以吃喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2070496331660214660",
+        "created_at": "2026-06-26T13:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070502982584799728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045025548401823744",
+              "start": 0,
+              "username": "ShiXiaomeiMoYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070502982584799728",
+        "in_reply_to_user_id": "2045025548401823744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070496331660214660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiXiaomeiMoYa 不可以吃喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2070496331660214660",
+        "created_at": "2026-06-26T13:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070496331660214660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2070489718580527131",
+              "start": 5,
+              "url": "https://t.co/f5qqIXlFPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070496331660214660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070489718580527131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要吃 https://t.co/f5qqIXlFPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 250,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat\n愛～～～你～～～們～～～//🩷🩷🩷//\n是女生是女生是女生！！！\n（生日）\n30/11/2010\nand\n1/6/2026",
+        "id": "2045025548401823744",
+        "name": "camellia",
+        "pinned_tweet_id": "2067929787440750967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 77,
+          "like_count": 505,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

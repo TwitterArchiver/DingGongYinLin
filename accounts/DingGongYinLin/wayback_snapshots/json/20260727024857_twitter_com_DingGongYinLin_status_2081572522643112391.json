@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2081567936184262972",
+    "created_at": "2026-07-27T02:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081572522643112391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684489356931629059",
+          "start": 0,
+          "username": "jom123ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081572522643112391",
+    "in_reply_to_user_id": "1684489356931629059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081567936184262972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jom123ab 摸摸喵，慢慢进步喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2081567936184262972",
+        "created_at": "2026-07-27T02:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081572522643112391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684489356931629059",
+              "start": 0,
+              "username": "jom123ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081572522643112391",
+        "in_reply_to_user_id": "1684489356931629059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081567936184262972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jom123ab 摸摸喵，慢慢进步喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684489356931629059",
+        "conversation_id": "2081567936184262972",
+        "created_at": "2026-07-27T02:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081567936184262972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081567936184262972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我情商比较低，也不会聊天\n但是我真的想和大家成为好朋友\n很多人都觉得我很健谈、很开朗，但那更多是在网络上。私下的我反而会想很多，总会担心突然发消息会不会打扰到你，会不会让你觉得我很奇怪\n谢谢每一个愿意回复我、愿意陪我聊天的人。你们可能觉得只是很普通的一次聊天，但对我来说，真的很开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 301,
+          "like_count": 8893,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2692
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "id": "1684489356931629059",
+        "location": "一本回忆录里",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 2532,
+          "like_count": 11385,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "jom123ab",
+        "verified": false
+      }
+    ]
+  }
+}

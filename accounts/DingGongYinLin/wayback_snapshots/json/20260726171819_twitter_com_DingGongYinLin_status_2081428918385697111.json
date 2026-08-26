@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2081427911437848768",
+    "created_at": "2026-07-26T17:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081428918385697111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077747796849856513",
+          "start": 0,
+          "username": "Kir4uha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081428918385697111",
+    "in_reply_to_user_id": "2077747796849856513",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081427911437848768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uha good night"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 479,
+        "media_key": "3_2081427903489654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK3pn0WQAANKo2.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2081427911437848768",
+        "created_at": "2026-07-26T17:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081428918385697111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077747796849856513",
+              "start": 0,
+              "username": "Kir4uha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081428918385697111",
+        "in_reply_to_user_id": "2077747796849856513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081427911437848768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uha good night"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081427903489654784"
+          ]
+        },
+        "author_id": "2077747796849856513",
+        "conversation_id": "2081427911437848768",
+        "created_at": "2026-07-26T17:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081427911437848768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LkVWlQoiP",
+              "end": 284,
+              "expanded_url": "https://x.com/Kir4uha/status/2081427911437848768/photo/1",
+              "media_key": "3_2081427903489654784",
+              "start": 261,
+              "url": "https://t.co/8LkVWlQoiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081427911437848768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "good night, sweet dreams and a great rest to all, good night and sweet dreams to all of you, may you all be well and I will go on spitting at the ceiling, I wish those who have woken up a good day and a great mood, may your day be filled with joy and happiness https://t.co/8LkVWlQoiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 300,
+          "like_count": 8592,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2663
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T13:32:03.000Z",
+        "description": "I love everyone in this world, But no one loves me.\nTg:@Kir4ur Discord:@slon_begushih\nstem: https://t.co/HhggEf7EZi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "Kir4ur"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "slon_begushih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/98845/",
+                "end": 115,
+                "expanded_url": "https://steamcommunity.com/id/98845/",
+                "start": 92,
+                "url": "https://t.co/HhggEf7EZi"
+              }
+            ]
+          }
+        },
+        "id": "2077747796849856513",
+        "location": "Россия Курск",
+        "name": "Kiruha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080704363723419648/xIjggg-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 234,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "Kir4uha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2076393859547103330",
+    "created_at": "2026-07-12T19:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T20:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076393859547103330"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076393859547103330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "L小姐最近发现自己的眼睛好像出现了问题，坐在大教室的后面会看不清投影上的内容。其实高中的时候就已经有这个问题了，但当时咪一下眼还是可以看清楚的，所有就没有跟家里说。找了一个没有课的下午，L小姐决定去校医院看看，因为打听到校医院二楼可以配眼镜。来到二楼，冷冷清清的，只有一名工作人员在。先帮我测试了视力，做完检查。发现近视200多度还有散光。到了选择镜片和镜框的环节，L小姐实在是搞不懂这些东西的区别，只能根据价格判断，最后选择了一副1000块钱左右的。L小姐没有跟家里提这件事，所有只能省吃俭用再用点自己小金库的钱来支付。过了一天，L小姐拿到了眼镜，戴上后感觉整个世界都清楚了，颜色也鲜艳了许多，能够看清远处的东西了，感觉进入了一个全新的世界。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "L小姐最近发现自己的眼睛好像出现了问题，坐在大教室的后面会看不清投影上的内容。其实高中的时候就已经有这个问题了，但当时咪一下眼还是可以看清楚的，所有就没有跟家里说。找了一个没有课的下午，L小姐决定去校医院看看，因为打听到校医院二楼可以配眼镜。来到二楼，冷冷清清的，只有一名工作人员在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2076393859547103330",
+        "created_at": "2026-07-12T19:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076393859547103330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076393859547103330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "L小姐最近发现自己的眼睛好像出现了问题，坐在大教室的后面会看不清投影上的内容。其实高中的时候就已经有这个问题了，但当时咪一下眼还是可以看清楚的，所有就没有跟家里说。找了一个没有课的下午，L小姐决定去校医院看看，因为打听到校医院二楼可以配眼镜。来到二楼，冷冷清清的，只有一名工作人员在。先帮我测试了视力，做完检查。发现近视200多度还有散光。到了选择镜片和镜框的环节，L小姐实在是搞不懂这些东西的区别，只能根据价格判断，最后选择了一副1000块钱左右的。L小姐没有跟家里提这件事，所有只能省吃俭用再用点自己小金库的钱来支付。过了一天，L小姐拿到了眼镜，戴上后感觉整个世界都清楚了，颜色也鲜艳了许多，能够看清远处的东西了，感觉进入了一个全新的世界。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "L小姐最近发现自己的眼睛好像出现了问题，坐在大教室的后面会看不清投影上的内容。其实高中的时候就已经有这个问题了，但当时咪一下眼还是可以看清楚的，所有就没有跟家里说。找了一个没有课的下午，L小姐决定去校医院看看，因为打听到校医院二楼可以配眼镜。来到二楼，冷冷清清的，只有一名工作人员在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 270,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

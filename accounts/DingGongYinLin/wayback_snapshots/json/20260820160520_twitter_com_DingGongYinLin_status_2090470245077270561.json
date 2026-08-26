@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2090454710348333091",
+    "created_at": "2026-08-20T16:05:20.000Z",
+    "display_text_range": [
+      18,
+      298
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090470245077270561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087152708696346624",
+          "start": 0,
+          "username": "Kir4uh"
+        },
+        {
+          "end": 17,
+          "id": "985466659929501696",
+          "start": 8,
+          "username": "Dolliso5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090470245077270561",
+    "in_reply_to_user_id": "2087152708696346624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Military training for Chinese students is something that all incoming junior high (7th grade), senior high (10th grade), and university freshmen are required to undergo, meow. Leave can be requested in special circumstances, meow. It is completely different from military service, meow."
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090468610128904630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uh @Dolliso5 Military training for Chinese students is something that all incoming junior high (7th grade), senior high (10th grade), and university freshmen are required to undergo, meow. Leave can be requested in special circumstances, meow. It is completely different from military service,"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2090454710348333091",
+        "created_at": "2026-08-20T16:05:20.000Z",
+        "display_text_range": [
+          18,
+          298
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090470245077270561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087152708696346624",
+              "start": 0,
+              "username": "Kir4uh"
+            },
+            {
+              "end": 17,
+              "id": "985466659929501696",
+              "start": 8,
+              "username": "Dolliso5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090470245077270561",
+        "in_reply_to_user_id": "2087152708696346624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Military training for Chinese students is something that all incoming junior high (7th grade), senior high (10th grade), and university freshmen are required to undergo, meow. Leave can be requested in special circumstances, meow. It is completely different from military service, meow."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090468610128904630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uh @Dolliso5 Military training for Chinese students is something that all incoming junior high (7th grade), senior high (10th grade), and university freshmen are required to undergo, meow. Leave can be requested in special circumstances, meow. It is completely different from military service,"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087152708696346624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2090454710348333091",
+        "created_at": "2026-08-20T15:58:50.000Z",
+        "display_text_range": [
+          26,
+          305
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090468610128904630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            },
+            {
+              "end": 25,
+              "id": "985466659929501696",
+              "start": 16,
+              "username": "Dolliso5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090468610128904630",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090468165704982862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin @Dolliso5 well, we just have Compulsory conscription after the age of 18, if you study somewhere you are given a postponement until graduation, If you study for a very long time until the age of 25, then you no longer go to the army because compulsory conscription goes from 18 to 25 years"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090470245077270561",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 310,
+          "like_count": 17820,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 4243
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T12:23:42.000Z",
+        "description": "I am BI and always open to any communication.I love everyone in this world, But no one loves me.",
+        "id": "2087152708696346624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090470250458313203",
+        "name": "Kiruha 2.0",
+        "pinned_tweet_id": "2087909228623118717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087152708696346624/1786521320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088572981031190528/dDskr6-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 312,
+          "like_count": 1878,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "Kir4uh",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-15T10:35:35.000Z",
+        "description": "解放神学✝️ 民国99年生人 中性或无性 he/they/them I'm communist! English 🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🇮🇪 is OK!",
+        "id": "985466659929501696",
+        "is_identity_verified": false,
+        "location": "Peking",
+        "most_recent_tweet_id": "2090455903913021547",
+        "name": "🏳️‍⚧弹瑞希🚩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985466659929501696/1785247545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082105229794009088/TyQ5BBAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 185,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "Dolliso5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

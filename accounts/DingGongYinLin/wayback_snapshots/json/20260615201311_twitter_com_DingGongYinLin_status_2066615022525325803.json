@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2066614978535453041",
+    "created_at": "2026-06-15T20:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066615022525325803"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066615022525325803",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066614978535453041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而同时期奶奶用的是淘汰下来翻盖手机。她的第一台智能手机是我母亲不用的小米手机。而我的第一台手机是在高考后才拥有的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066614978535453041",
+        "created_at": "2026-06-15T20:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066615022525325803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066615022525325803",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066614978535453041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而同时期奶奶用的是淘汰下来翻盖手机。她的第一台智能手机是我母亲不用的小米手机。而我的第一台手机是在高考后才拥有的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066614978535453041",
+        "created_at": "2026-06-15T20:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066614978535453041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066614978535453041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "物品回忆（二）-通讯设备\n在我的记忆中家里一开始用于打电话的是一台红色的座机电话，对那时的记忆已经模糊了，只记得它安放在一间昏暗的房间里。再到后面是父母用的iPhone4。爷爷的第一台智能手机是天翼3G手机，是当时六年级开家长会需要在一个线上教育平台录入信息才买的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 244,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 332
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

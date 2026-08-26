@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2088868219180482822",
+    "created_at": "2026-08-16T06:51:48.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088881393174720917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087070635503882241",
+          "start": 0,
+          "username": "orangetquh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088881393174720917",
+    "in_reply_to_user_id": "2087070635503882241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088868219180482822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangetquh 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3152,
+        "media_key": "3_2088868212687704064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0mknfbEAA6m1h.jpg",
+        "width": 1277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2088868219180482822",
+        "created_at": "2026-08-16T06:51:48.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088881393174720917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087070635503882241",
+              "start": 0,
+              "username": "orangetquh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088881393174720917",
+        "in_reply_to_user_id": "2087070635503882241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088868219180482822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangetquh 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088868212687704064"
+          ]
+        },
+        "author_id": "2087070635503882241",
+        "conversation_id": "2088868219180482822",
+        "created_at": "2026-08-16T05:59:27.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088868219180482822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRbBjCHkzb",
+              "end": 36,
+              "expanded_url": "https://x.com/orangetquh/status/2088868219180482822/photo/1",
+              "media_key": "3_2088868212687704064",
+              "start": 13,
+              "url": "https://t.co/bRbBjCHkzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088868219180482822",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088868212687704064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么会有这样的想法😨 https://t.co/bRbBjCHkzb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088881393174720917",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 313,
+          "like_count": 16239,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 4005
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T06:58:45.000Z",
+        "description": "",
+        "id": "2087070635503882241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088880694025916559",
+        "name": "orange",
+        "pinned_tweet_id": "2087074857372856738",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087071416000942080/kZseMbSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 91,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "orangetquh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

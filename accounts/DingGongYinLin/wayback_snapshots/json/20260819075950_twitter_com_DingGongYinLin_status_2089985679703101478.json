@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2089983731444625410",
+    "created_at": "2026-08-19T07:59:50.000Z",
+    "display_text_range": [
+      8,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089985679703101478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087152708696346624",
+          "start": 0,
+          "username": "Kir4uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089985679703101478",
+    "in_reply_to_user_id": "2087152708696346624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089984878716543113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uh Many people's accounts have been frozen in the Chinese section of Twitter today。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2089984308815572993",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQEdp9kXsAED6Gc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQEdp9kXsAED6Gc.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2089983731444625410",
+        "created_at": "2026-08-19T07:59:50.000Z",
+        "display_text_range": [
+          8,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089985679703101478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087152708696346624",
+              "start": 0,
+              "username": "Kir4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089985679703101478",
+        "in_reply_to_user_id": "2087152708696346624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089984878716543113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uh Many people's accounts have been frozen in the Chinese section of Twitter today。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089984308815572993"
+          ]
+        },
+        "author_id": "2087152708696346624",
+        "conversation_id": "2089983731444625410",
+        "created_at": "2026-08-19T07:56:39.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089984878716543113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VN3SqHuk6",
+              "end": 39,
+              "expanded_url": "https://x.com/Kir4uh/status/2089984878716543113/photo/1",
+              "media_key": "16_2089984308815572993",
+              "start": 16,
+              "url": "https://t.co/3VN3SqHuk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089984878716543113",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2089984308815572993"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089983731444625410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin https://t.co/3VN3SqHuk6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089985679703101478",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 308,
+          "like_count": 17069,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 4142
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T12:23:42.000Z",
+        "description": "I am BI and always open to any communication.I love everyone in this world, But no one loves me.",
+        "id": "2087152708696346624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089984878716543113",
+        "name": "Kiruha 2.0",
+        "pinned_tweet_id": "2087909228623118717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087152708696346624/1786521320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088572981031190528/dDskr6-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 304,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "Kir4uh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

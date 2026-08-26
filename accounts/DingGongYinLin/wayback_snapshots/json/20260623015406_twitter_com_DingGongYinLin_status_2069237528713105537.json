@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069237519598964737"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069237528713105537",
+    "created_at": "2026-06-23T01:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069237528713105537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5OIOTwTieH",
+          "end": 34,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2069237528713105537/photo/1",
+          "media_key": "3_2069237519598964737",
+          "start": 11,
+          "url": "https://t.co/5OIOTwTieH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069237528713105537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早餐：小笼包+酸奶喵 https://t.co/5OIOTwTieH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2069237519598964737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdoj4-bUAEcW1u.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069237519598964737"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069237528713105537",
+        "created_at": "2026-06-23T01:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069237528713105537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OIOTwTieH",
+              "end": 34,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2069237528713105537/photo/1",
+              "media_key": "3_2069237519598964737",
+              "start": 11,
+              "url": "https://t.co/5OIOTwTieH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069237528713105537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早餐：小笼包+酸奶喵 https://t.co/5OIOTwTieH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 245,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2065016572054520058",
+    "created_at": "2026-06-11T22:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065192762203652305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527280304586514435",
+          "start": 0,
+          "username": "Moyuuue"
+        },
+        {
+          "end": 22,
+          "id": "1948326838125903872",
+          "start": 9,
+          "username": "nekoinekoQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065192762203652305",
+    "in_reply_to_user_id": "1527280304586514435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065188961035899163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moyuuue @nekoinekoQwQ 诶，兔头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2065016572054520058",
+        "created_at": "2026-06-11T22:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065192762203652305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527280304586514435",
+              "start": 0,
+              "username": "Moyuuue"
+            },
+            {
+              "end": 22,
+              "id": "1948326838125903872",
+              "start": 9,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065192762203652305",
+        "in_reply_to_user_id": "1527280304586514435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065188961035899163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moyuuue @nekoinekoQwQ 诶，兔头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527280304586514435",
+        "conversation_id": "2065016572054520058",
+        "created_at": "2026-06-11T21:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065188961035899163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948326838125903872",
+              "start": 0,
+              "username": "nekoinekoQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065188961035899163",
+        "in_reply_to_user_id": "1948326838125903872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065016572054520058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoinekoQwQ 宝宝你好漂亮！ 宝宝你能挂机吗？ dps怎么样？dph怎么样？hps怎么样？总伤怎么样？回转怎么样？生存怎么样？什么模板？什么定位？什么杯？泛用性高不高？对策性强不强？模组开不开？技能专哪个？打物伤还是法伤？破甲线多少？法穿多少？攻击范围多大？单走能力如何？团队能力如何？肉鸽抓位排第几？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 233,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 230
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-19T13:29:41.000Z",
+        "description": "我愿相信，诚如往常\n愿时间不再有\n燃尽情愫的灰烬",
+        "id": "1527280304586514435",
+        "name": "Asaxmy饮星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552360294214963200/U2ONuQUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 361,
+          "like_count": 168,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 125
+        },
+        "username": "Moyuuue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T10:18:25.000Z",
+        "description": "文字是贫瘠的 我想你能懂得我的眼泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekomeow34859",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekomeow34859",
+                "start": 0,
+                "url": "https://t.co/USF8SLJm2Z"
+              }
+            ]
+          }
+        },
+        "id": "1948326838125903872",
+        "name": "泪",
+        "pinned_tweet_id": "2064245952983220577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028049373649854464/0l_zZzCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 10,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/USF8SLJm2Z",
+        "username": "nekoinekoQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

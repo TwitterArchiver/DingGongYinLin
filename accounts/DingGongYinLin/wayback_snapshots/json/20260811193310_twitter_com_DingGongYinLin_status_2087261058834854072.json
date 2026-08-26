@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2087261058834854072",
+    "created_at": "2026-08-11T19:33:10.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087261058834854072"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087261058834854072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "父亲的向上之路，在困难中前进\n在辗转几个机械厂后，父亲萌生了自己创业的想法。随后父亲辞职出来创业。一开始是与人合作创业。父亲做对外的工作，而另一个合作伙伴负责内部事务（包括财务之类的）。父亲是公司的法人，一开始是蒸蒸日上的，但不知道什么时候工资开始拖欠，最后工资也发不起。父亲请求查看公司的财务信息，但得到的回答是连整理都没有整理。最后公司破产了。几百万的债务全部都压在父亲头上，另一个合作伙伴携款逃跑了。那一段曰子，父亲每年接我去广东的住处都不一样，有时会被追债的人围在楼下。这个债务有些是私下借的，可以不认，但父亲坚持不管什么也要还完。在这个时期，就连爷爷也不认他这个儿子。（末完待续）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "父亲的向上之路，在困难中前进"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2087261058834854072",
+        "created_at": "2026-08-11T19:33:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087261058834854072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087261058834854072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "父亲的向上之路，在困难中前进\n在辗转几个机械厂后，父亲萌生了自己创业的想法。随后父亲辞职出来创业。一开始是与人合作创业。父亲做对外的工作，而另一个合作伙伴负责内部事务（包括财务之类的）。父亲是公司的法人，一开始是蒸蒸日上的，但不知道什么时候工资开始拖欠，最后工资也发不起。父亲请求查看公司的财务信息，但得到的回答是连整理都没有整理。最后公司破产了。几百万的债务全部都压在父亲头上，另一个合作伙伴携款逃跑了。那一段曰子，父亲每年接我去广东的住处都不一样，有时会被追债的人围在楼下。这个债务有些是私下借的，可以不认，但父亲坚持不管什么也要还完。在这个时期，就连爷爷也不认他这个儿子。（末完待续）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父亲的向上之路，在困难中前进"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087261058834854072",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 313,
+          "like_count": 15122,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3802
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

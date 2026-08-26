@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080983083227172864",
+        "3_2080983097424945152",
+        "3_2080983110687354880",
+        "3_2080983122993356800"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080983135341203737",
+    "created_at": "2026-07-25T11:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080983135341203737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5173WEuBfD",
+          "end": 25,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+          "media_key": "3_2080983083227172864",
+          "start": 2,
+          "url": "https://t.co/5173WEuBfD"
+        },
+        {
+          "display_url": "pic.x.com/5173WEuBfD",
+          "end": 25,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+          "media_key": "3_2080983097424945152",
+          "start": 2,
+          "url": "https://t.co/5173WEuBfD"
+        },
+        {
+          "display_url": "pic.x.com/5173WEuBfD",
+          "end": 25,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+          "media_key": "3_2080983110687354880",
+          "start": 2,
+          "url": "https://t.co/5173WEuBfD"
+        },
+        {
+          "display_url": "pic.x.com/5173WEuBfD",
+          "end": 25,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+          "media_key": "3_2080983122993356800",
+          "start": 2,
+          "url": "https://t.co/5173WEuBfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080983135341203737",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋 https://t.co/5173WEuBfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080983083227172864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEjFrNaUAAXhCE.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080983097424945152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEjGgGbIAA_Zwy.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080983110687354880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEjHRgbcAAQtOW.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2080983122993356800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEjH_WaIAA8og5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080983083227172864",
+            "3_2080983097424945152",
+            "3_2080983110687354880",
+            "3_2080983122993356800"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080983135341203737",
+        "created_at": "2026-07-25T11:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080983135341203737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5173WEuBfD",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+              "media_key": "3_2080983083227172864",
+              "start": 2,
+              "url": "https://t.co/5173WEuBfD"
+            },
+            {
+              "display_url": "pic.x.com/5173WEuBfD",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+              "media_key": "3_2080983097424945152",
+              "start": 2,
+              "url": "https://t.co/5173WEuBfD"
+            },
+            {
+              "display_url": "pic.x.com/5173WEuBfD",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+              "media_key": "3_2080983110687354880",
+              "start": 2,
+              "url": "https://t.co/5173WEuBfD"
+            },
+            {
+              "display_url": "pic.x.com/5173WEuBfD",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2080983135341203737/photo/1",
+              "media_key": "3_2080983122993356800",
+              "start": 2,
+              "url": "https://t.co/5173WEuBfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080983135341203737",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/5173WEuBfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 298,
+          "like_count": 7655,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2545
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

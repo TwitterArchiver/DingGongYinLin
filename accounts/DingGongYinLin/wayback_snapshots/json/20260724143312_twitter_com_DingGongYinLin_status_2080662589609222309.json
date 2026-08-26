@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2080457552895373758",
+    "created_at": "2026-07-24T14:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080662589609222309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072913223511339008",
+          "start": 0,
+          "username": "shixiaomonune"
+        },
+        {
+          "end": 22,
+          "id": "1945331416528539649",
+          "start": 15,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080662589609222309",
+    "in_reply_to_user_id": "2072913223511339008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080622845164707901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaomonune @bpmiea 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2080457552895373758",
+        "created_at": "2026-07-24T14:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080662589609222309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072913223511339008",
+              "start": 0,
+              "username": "shixiaomonune"
+            },
+            {
+              "end": 22,
+              "id": "1945331416528539649",
+              "start": 15,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080662589609222309",
+        "in_reply_to_user_id": "2072913223511339008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080622845164707901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaomonune @bpmiea 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072913223511339008",
+        "conversation_id": "2080457552895373758",
+        "created_at": "2026-07-24T11:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080622845164707901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080622845164707901",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080457552895373758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 妹妹這個年紀和我吞藥被騙住院扎留置針的時候好像差不多……\n我那個時候和我媽媽說疼我媽媽還罵我……\n也沒有朋友……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 296,
+          "like_count": 7401,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2484
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-03T05:21:07.000Z",
+        "description": "可愛的小貓一隻・chushengriqi20101130 優點：会点魔 术~~~比赛拿过两年亚军,魔术爱好者内中 低水平 （毕竟我还小）缺點：缺愛・沒安全感\n二號（出生日期）2026 6 1\n（以及你能想到的任何可能存在的缺點）\n加wechat52（同類除外）\n喵//les//",
+        "id": "2072913223511339008",
+        "name": "山茶花",
+        "pinned_tweet_id": "2079407749562339579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072914983218978816/JtIvL988_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 81,
+          "like_count": 367,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "shixiaomonune",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥 from 2026.1 | 2011出厂 | 自恨党，出走预备中\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid/SV | 会发一些日常和碎碎念，可能会有负面内容…\n欢迎同类互fo！\n另一个人格：@mieaxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "mieaxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2077917279115985096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 657,
+          "like_count": 850,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2072194627487379848",
+    "created_at": "2026-07-01T08:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072233132095598877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1950183880717455360",
+          "start": 0,
+          "username": "huinuo333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072233132095598877",
+    "in_reply_to_user_id": "1950183880717455360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072194627487379848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huinuo333 🥺🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2072194616343056384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHqBkya0AAuSan.jpg",
+        "width": 943
+      },
+      {
+        "height": 1209,
+        "media_key": "3_2072194616338907136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHqBkxbgAAGh6V.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2072194627487379848",
+        "created_at": "2026-07-01T08:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072233132095598877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1950183880717455360",
+              "start": 0,
+              "username": "huinuo333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072233132095598877",
+        "in_reply_to_user_id": "1950183880717455360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072194627487379848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huinuo333 🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072194616343056384",
+            "3_2072194616338907136"
+          ]
+        },
+        "author_id": "1950183880717455360",
+        "conversation_id": "2072194627487379848",
+        "created_at": "2026-07-01T05:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072194627487379848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7AGs4zZTS",
+              "end": 118,
+              "expanded_url": "https://x.com/huinuo333/status/2072194627487379848/photo/1",
+              "media_key": "3_2072194616343056384",
+              "start": 95,
+              "url": "https://t.co/J7AGs4zZTS"
+            },
+            {
+              "display_url": "pic.x.com/J7AGs4zZTS",
+              "end": 118,
+              "expanded_url": "https://x.com/huinuo333/status/2072194627487379848/photo/1",
+              "media_key": "3_2072194616338907136",
+              "start": 95,
+              "url": "https://t.co/J7AGs4zZTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072194627487379848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7174,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们的老爹不会在你们一成年就急头白脸的那你的身份证借钱去赌博\n然后出了车祸急头白脸的过来假装关心你然后把保险费全部要走那去赌博然后一分钱不替你还\n导致你在大学还没读完就要求你还九万债务 https://t.co/J7AGs4zZTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 257,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-29T13:17:39.000Z",
+        "description": "大概是生活推！以后有啥想说的就发这了！本体@Huinuo111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "Huinuo111"
+              }
+            ]
+          }
+        },
+        "id": "1950183880717455360",
+        "name": "诺灰灰诺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981818579667353600/-vAHOfsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "huinuo333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2066437301945954556",
+    "created_at": "2026-06-15T08:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066437831531364679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066437831531364679",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066437301945954556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被雷区炸死一次喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 173,
+        "media_key": "3_2066437299894927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK11xprawAAi31N.jpg",
+        "width": 377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066437301945954556",
+        "created_at": "2026-06-15T08:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066437831531364679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066437831531364679",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066437301945954556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被雷区炸死一次喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066437299894927360"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066437301945954556",
+        "created_at": "2026-06-15T08:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066437301945954556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8cvf8aRql",
+              "end": 55,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2066437301945954556/photo/1",
+              "media_key": "3_2066437299894927360",
+              "start": 32,
+              "url": "https://t.co/Z8cvf8aRql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066437301945954556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日三角洲学习成果😫，熟悉了一下长弓溪谷的半个地图（存疑）喵。 https://t.co/Z8cvf8aRql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 244,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 315
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

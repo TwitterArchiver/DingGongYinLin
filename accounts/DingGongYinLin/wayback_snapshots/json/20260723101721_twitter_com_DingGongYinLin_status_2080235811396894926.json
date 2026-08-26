@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2080235811396894926",
+    "created_at": "2026-07-23T10:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080235811396894926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DingGongYinLin…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/DingGongYinLin/status/2080224713100652887",
+          "start": 18,
+          "url": "https://t.co/nWe8CHiIEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080235811396894926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080224713100652887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剩下一份薯条，两份鸡翅，一杯可乐喵 https://t.co/nWe8CHiIEX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080224701675421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5xWDxbQAA7Ypy.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2080235811396894926",
+        "created_at": "2026-07-23T10:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080235811396894926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DingGongYinLin…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/DingGongYinLin/status/2080224713100652887",
+              "start": 18,
+              "url": "https://t.co/nWe8CHiIEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080235811396894926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080224713100652887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剩下一份薯条，两份鸡翅，一杯可乐喵 https://t.co/nWe8CHiIEX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080224701675421696"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080224713100652887",
+        "created_at": "2026-07-23T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080224713100652887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9ar29CKiX",
+              "end": 28,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2080224713100652887/photo/1",
+              "media_key": "3_2080224701675421696",
+              "start": 5,
+              "url": "https://t.co/s9ar29CKiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080224713100652887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃麦麦喵 https://t.co/s9ar29CKiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 294,
+          "like_count": 6863,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2367
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

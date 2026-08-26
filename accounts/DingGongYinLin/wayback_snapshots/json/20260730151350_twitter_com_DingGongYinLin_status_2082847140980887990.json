@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2082764448834764984",
+    "created_at": "2026-07-30T15:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082847140980887990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489495309138862084",
+          "start": 0,
+          "username": "xueyingcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082847140980887990",
+    "in_reply_to_user_id": "1489495309138862084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082843596886278618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueyingcr 贫困生应该是什么样的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2082764448834764984",
+        "created_at": "2026-07-30T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082847140980887990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489495309138862084",
+              "start": 0,
+              "username": "xueyingcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082847140980887990",
+        "in_reply_to_user_id": "1489495309138862084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082843596886278618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueyingcr 贫困生应该是什么样的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489495309138862084",
+        "conversation_id": "2082764448834764984",
+        "created_at": "2026-07-30T14:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082843596886278618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082843596886278618",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082764448834764984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 一天一杯一年3600,贫困生一年补助也就这点，那岂不是不给他也就是每天少一杯咖啡的事，贫困在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 303,
+          "like_count": 11220,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 3033
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T07:07:27.000Z",
+        "description": "江苏苏州人\n順大hds26届\n啥暖二次元(｡･ω･｡)\nvrchat大好き!！！！！！！！\n带着立场说话的人属实脑子和嘴只有一个",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pighub.top",
+                "end": 23,
+                "expanded_url": "https://pighub.top/",
+                "start": 0,
+                "url": "https://t.co/DAfJ8XvTUV"
+              }
+            ]
+          }
+        },
+        "id": "1489495309138862084",
+        "location": "千葉 浦安市",
+        "name": "雪影cr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982852748648329216/nIKTqG1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1279,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/DAfJ8XvTUV",
+        "username": "xueyingcr",
+        "verified": false
+      }
+    ]
+  }
+}

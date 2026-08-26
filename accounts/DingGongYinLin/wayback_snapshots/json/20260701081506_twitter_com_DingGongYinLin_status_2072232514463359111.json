@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2072201550236184968",
+    "created_at": "2026-07-01T08:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072232514463359111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970981813448560640",
+          "start": 0,
+          "username": "NewHpttxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072232514463359111",
+    "in_reply_to_user_id": "1970981813448560640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072201550236184968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewHpttxg 伤害到我了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2072201550236184968",
+        "created_at": "2026-07-01T08:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072232514463359111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970981813448560640",
+              "start": 0,
+              "username": "NewHpttxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072232514463359111",
+        "in_reply_to_user_id": "1970981813448560640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072201550236184968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewHpttxg 伤害到我了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970981813448560640",
+        "conversation_id": "2072201550236184968",
+        "created_at": "2026-07-01T06:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072201550236184968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072201550236184968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2679,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个推特上还有05年之前出生之人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 257,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 906
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T22:41:08.000Z",
+        "description": "Isn't it pretty to think so?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newhpttxg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/newhpttxg",
+                "start": 0,
+                "url": "https://t.co/BLbUhJCgRM"
+              }
+            ]
+          }
+        },
+        "id": "1970981813448560640",
+        "name": "卷毛修勾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051274964092043264/Mka4W4K8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 485,
+          "like_count": 13910,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 6152
+        },
+        "url": "https://t.co/BLbUhJCgRM",
+        "username": "NewHpttxg",
+        "verified": false
+      }
+    ]
+  }
+}

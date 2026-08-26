@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2060132173378957821",
+    "created_at": "2026-05-28T23:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060143090778685752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041447325403361280",
+          "start": 0,
+          "username": "yu__amach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060143090778685752",
+    "in_reply_to_user_id": "2041447325403361280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060132173378957821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu__amach おはよ、！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2060132173378957821",
+        "created_at": "2026-05-28T23:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060143090778685752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041447325403361280",
+              "start": 0,
+              "username": "yu__amach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060143090778685752",
+        "in_reply_to_user_id": "2041447325403361280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060132173378957821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu__amach おはよ、！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041447325403361280",
+        "conversation_id": "2060132173378957821",
+        "created_at": "2026-05-28T22:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060132173378957821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060132173378957821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよう〜\n金曜日もお仕事と学校頑張ろうね！\n暇な人はいっぱいのんびりだらだらで過ごそうっ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 207,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:26:20.000Z",
+        "description": "06 |♀| DM大歓迎 |気分屋 |通話気分次第 |投稿≠返信 |片思い気分|恋愛❌|友達関係のみ|病み垢のみフォロバ|可愛い妹ちゃん💕⇒@su_ui03 |🗝⇒@amai_take",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "su_ui03"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "amai_take"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/yu__amach/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/yu__amach/",
+                "start": 0,
+                "url": "https://t.co/7kzM0WcmWK"
+              }
+            ]
+          }
+        },
+        "id": "2041447325403361280",
+        "location": "君の傍にいたいね",
+        "name": "あま",
+        "pinned_tweet_id": "2057405356188520932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059811989812281344/q9aer1AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 391,
+          "like_count": 9599,
+          "listed_count": 18,
+          "media_count": 10,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/7kzM0WcmWK",
+        "username": "yu__amach",
+        "verified": false
+      }
+    ]
+  }
+}

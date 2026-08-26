@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2066193737911267707",
+    "created_at": "2026-06-14T16:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066202375124308359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974322069807714305",
+          "start": 0,
+          "username": "toskaIceland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066202375124308359",
+    "in_reply_to_user_id": "1974322069807714305",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066193737911267707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toskaIceland 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066193737911267707",
+        "created_at": "2026-06-14T16:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066202375124308359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974322069807714305",
+              "start": 0,
+              "username": "toskaIceland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066202375124308359",
+        "in_reply_to_user_id": "1974322069807714305",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066193737911267707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskaIceland 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974322069807714305",
+        "conversation_id": "2066193737911267707",
+        "created_at": "2026-06-14T16:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066193737911267707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ame_kurokira/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ame_kurokira/status/2066002176485531970",
+              "start": 16,
+              "url": "https://t.co/wkosn6tEZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066193737911267707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066002176485531970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真好呀我妈之前说要往上面撒把盐 https://t.co/wkosn6tEZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 242,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 288
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T03:54:18.000Z",
+        "description": "乐乐",
+        "id": "1974322069807714305",
+        "name": "Toska",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920786865975296/ReB-uSO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 56,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 312
+        },
+        "username": "toskaIceland",
+        "verified": false
+      }
+    ]
+  }
+}

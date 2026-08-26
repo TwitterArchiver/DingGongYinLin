@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2081610085751803976",
+    "created_at": "2026-07-27T13:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081734327269036543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066758908233027584",
+          "start": 0,
+          "username": "a_username_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081734327269036543",
+    "in_reply_to_user_id": "2066758908233027584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081610085751803976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_username_owo 恭喜喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2081610085751803976",
+        "created_at": "2026-07-27T13:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081734327269036543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066758908233027584",
+              "start": 0,
+              "username": "a_username_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081734327269036543",
+        "in_reply_to_user_id": "2066758908233027584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081610085751803976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_username_owo 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066758908233027584",
+        "conversation_id": "2081610085751803976",
+        "created_at": "2026-07-27T05:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081610085751803976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a_username_owo…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/a_username_owo/status/2078368474783768666",
+              "start": 6,
+              "url": "https://t.co/AVuh86kY9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081610085751803976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078368474783768666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出院了喵～ https://t.co/AVuh86kY9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2080583603122282548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 300,
+          "like_count": 9402,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2744
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-16T05:45:35.000Z",
+        "description": "小男孩2.0",
+        "id": "2066758908233027584",
+        "location": "你的心裡",
+        "name": "可愛的小男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066759401760034816/sXQZVEgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 51,
+          "like_count": 11589,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "a_username_owo",
+        "verified": false
+      }
+    ]
+  }
+}

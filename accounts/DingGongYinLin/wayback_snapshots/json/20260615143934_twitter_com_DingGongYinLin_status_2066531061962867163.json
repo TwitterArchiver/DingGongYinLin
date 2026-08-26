@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2066524618584969350",
+    "created_at": "2026-06-15T14:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066531061962867163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043048243760648192",
+          "start": 0,
+          "username": "Duanmu1Megumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066531061962867163",
+    "in_reply_to_user_id": "2043048243760648192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066524618584969350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duanmu1Megumi 😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2066524618584969350",
+        "created_at": "2026-06-15T14:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066531061962867163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043048243760648192",
+              "start": 0,
+              "username": "Duanmu1Megumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066531061962867163",
+        "in_reply_to_user_id": "2043048243760648192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066524618584969350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duanmu1Megumi 😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043048243760648192",
+        "conversation_id": "2066524618584969350",
+        "created_at": "2026-06-15T14:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066524618584969350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066524618584969350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的社交习惯现状:\n哪怕看到个点赞都在考虑要不要马上发个私信感谢一下🥺\n看到评论很想回复然而依旧无法发评论😭\n虽然但是，依旧感谢陪我互动的推友🥺\n（正在筹划高质量帖子中）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 244,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 320
+        },
+        "username": "DingGongYinLin",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T19:27:24.000Z",
+        "description": "|请看置顶|\n第一次使用推\n日常垢（？）\n（算是日常号，偶尔发癫）\n| 友達が欲しい | 交友|\n| うつ/略带抑郁 |\n|DM大歓迎|欢迎私信 |\n|政治❌|\n\n|授業があるから、毎日不定期オンライン|\n|因为有课，所以不定时上线|\n孩子们快来跟我交友\nお友達お願い！！",
+        "id": "2043048243760648192",
+        "name": "端木Megumi",
+        "pinned_tweet_id": "2064514921635975598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059933442616463360/gUG76Qas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 171,
+          "like_count": 1930,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1223
+        },
+        "username": "Duanmu1Megumi",
+        "verified": false
+      }
+    ]
+  }
+}
