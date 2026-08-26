@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T19:52:54",
+  "last_updated": "2026-08-26T19:53:39",
   "html": {
     "https://web.archive.org/web/20260226234013if_/https://twitter.com/DingGongYinLin/status/2027166846429089792": {
       "status": "done",
@@ -28389,9 +28389,9 @@
       "referenced_by": [
         "20260710155106_twitter_com_DingGongYinLin_status_2075608760220066099.json"
       ],
-      "last_updated": "2026-08-26T17:48:53",
+      "last_updated": "2026-08-26T19:53:30",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260710155106/https://video.twimg.com/amplify_video/2075543030107635712/vid/avc1/590x1280/4s96NfmAPUkU10Y0.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2076696207028830208/vid/avc1/886x1920/hUqg2IvsFKIYfalT.mp4": {
       "status": "done",
@@ -28412,9 +28412,9 @@
       "referenced_by": [
         "20260715082010_twitter_com_DingGongYinLin_status_2077307218941329483.json"
       ],
-      "last_updated": "2026-08-26T17:49:01",
+      "last_updated": "2026-08-26T19:53:34",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260715082010/https://video.twimg.com/amplify_video/2077284864592846848/vid/avc1/966x544/iP5cOyXGssI-Y-FM.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2077355627748499456/vid/avc1/720x1280/85I-ZDfs0PYAb4Fn.mp4": {
       "status": "done",
@@ -28582,9 +28582,9 @@
       "referenced_by": [
         "20260824040749_twitter_com_DingGongYinLin_status_2091739230359978260.json"
       ],
-      "last_updated": "2026-08-26T17:48:54",
+      "last_updated": "2026-08-26T19:53:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260824040749/https://video.twimg.com/amplify_video/2091680873892782080/vid/avc1/590x1280/GKdIqnyMk2JatWBA.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
