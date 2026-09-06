@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2092977115859951786",
+    "created_at": "2026-08-28T00:09:45.000Z",
+    "display_text_range": [
+      23,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093128867104141528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "2060481041413124096",
+          "start": 6,
+          "username": "YuehuaSomniorum"
+        },
+        {
+          "end": 28,
+          "id": "1720665183188922368",
+          "start": 23,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093128867104141528",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092977320684310829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @YuehuaSomniorum @grok 认真回答，要有图像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2092977115859951786",
+        "created_at": "2026-08-28T00:09:45.000Z",
+        "display_text_range": [
+          23,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093128867104141528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "2060481041413124096",
+              "start": 6,
+              "username": "YuehuaSomniorum"
+            },
+            {
+              "end": 28,
+              "id": "1720665183188922368",
+              "start": 23,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093128867104141528",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092977320684310829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @YuehuaSomniorum @grok 认真回答，要有图像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2092977115859951786",
+        "created_at": "2026-08-27T14:07:33.000Z",
+        "display_text_range": [
+          17,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092977320684310829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060481041413124096",
+              "start": 0,
+              "username": "YuehuaSomniorum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092977320684310829",
+        "in_reply_to_user_id": "2060481041413124096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092977115859951786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuehuaSomniorum 从敌人视角：阿卡林级低存在感网络寄生虫，高三语文科ACG废宅，整天发丧想被捧、断片心情烂却无人互动的中二病隐形人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093128867104141528",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 317,
+          "like_count": 19544,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 4609
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093128882526343556",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9010520,
+          "following_count": 5,
+          "like_count": 135,
+          "listed_count": 7466,
+          "media_count": 9311468,
+          "tweet_count": 137690745
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T21:59:09.000Z",
+        "description": "毋畏幻梦\n这里是月華（Somniorum），网络寄生虫，阿卡林级别的低存在感\n喜欢ACG和数码\n里人格@kai_somniorum\n高三日语文科生，绝赞念书中\n互fo标准：非机器，在推特上有定期活跃/和月華有联系，非极端思想者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kai_somniorum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuehuasomniorum.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://yuehuasomniorum.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/QceRqfxDKZ"
+              }
+            ]
+          }
+        },
+        "id": "2060481041413124096",
+        "is_identity_verified": false,
+        "location": "临月特别区",
+        "most_recent_tweet_id": "2093063182759924132",
+        "name": "月華冬廿壹",
+        "pinned_tweet_id": "2084974608831365454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060481041413124096/1783919065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092159255889825792/Rqb5hWYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 280,
+          "like_count": 17074,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/QceRqfxDKZ",
+        "username": "YuehuaSomniorum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

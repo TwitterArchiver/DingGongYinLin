@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2094760974838354133",
+    "created_at": "2026-09-01T12:46:13.000Z",
+    "display_text_range": [
+      8,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T13:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094768792547266932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087152708696346624",
+          "start": 0,
+          "username": "Kir4uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094768792547266932",
+    "in_reply_to_user_id": "2087152708696346624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094760974838354133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uh I haven't come home yet, Meow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2094760969255657472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIWAMXWIAALa9a.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2094760974838354133",
+        "created_at": "2026-09-01T12:46:13.000Z",
+        "display_text_range": [
+          8,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094768792547266932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087152708696346624",
+              "start": 0,
+              "username": "Kir4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094768792547266932",
+        "in_reply_to_user_id": "2087152708696346624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094760974838354133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uh I haven't come home yet, Meow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094760969255657472"
+          ]
+        },
+        "author_id": "2087152708696346624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094760974838354133",
+        "created_at": "2026-09-01T12:15:09.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094760974838354133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3tcfBovt8",
+              "end": 64,
+              "expanded_url": "https://x.com/Kir4uh/status/2094760974838354133/photo/1",
+              "media_key": "3_2094760969255657472",
+              "start": 41,
+              "url": "https://t.co/v3tcfBovt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094760974838354133",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094760969255657472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'm finally home. How are you all doing? https://t.co/v3tcfBovt8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094768792547266932",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 321,
+          "like_count": 20363,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 4723
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T12:23:42.000Z",
+        "description": "I am BI and always open to any communication.I love everyone in this world, But no one loves me.",
+        "id": "2087152708696346624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094765676451725396",
+        "name": "Kiruha 2.0",
+        "pinned_tweet_id": "2087909228623118717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087152708696346624/1787283702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090645494443757568/MIhW-fQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 379,
+          "like_count": 3640,
+          "listed_count": 0,
+          "media_count": 802,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "Kir4uh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

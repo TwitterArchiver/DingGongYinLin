@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2094624188103585928",
+    "created_at": "2026-09-01T06:08:17.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094668649848353218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062215721275551744",
+          "start": 0,
+          "username": "jlmmb4562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094668649848353218",
+    "in_reply_to_user_id": "2062215721275551744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094630692164702556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlmmb4562 😭有点困难喵，我也想早点睡喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2094624188103585928",
+        "created_at": "2026-09-01T06:08:17.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094668649848353218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062215721275551744",
+              "start": 0,
+              "username": "jlmmb4562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094668649848353218",
+        "in_reply_to_user_id": "2062215721275551744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094630692164702556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlmmb4562 😭有点困难喵，我也想早点睡喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062215721275551744",
+        "conversation_id": "2094624188103585928",
+        "created_at": "2026-09-01T03:37:28.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094630692164702556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094630692164702556",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094624188103585928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 宝宝先试试少熬夜吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094668649848353218",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 322,
+          "like_count": 20334,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 4716
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T16:52:55.000Z",
+        "description": "无论你是谁，为何点进我主页，我都永远希望你有一个自由的幸福的充满光明的生活与未来，并能满怀信心地为此奋斗\n02毕业打工女，想要成为所有人的朋友\n喜欢罗伯特基利曼/玛恩纳，星熊/阿塔尼斯，阿拉纳克\n明日方舟官服:砖家叫兽#7855\n可能会沾一些敏感分区⚠️头像的梦女(?)\n正在\n苦等\n孤独摇滚\n更新",
+        "id": "2062215721275551744",
+        "is_identity_verified": false,
+        "location": "大炎–姜齐",
+        "most_recent_tweet_id": "2094668017191862575",
+        "name": "基利曼曼波",
+        "pinned_tweet_id": "2082426458300194897",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062215721275551744/1785250184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085668135215259648/t-hElMXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 180,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1033
+        },
+        "url": "",
+        "username": "jlmmb4562",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
