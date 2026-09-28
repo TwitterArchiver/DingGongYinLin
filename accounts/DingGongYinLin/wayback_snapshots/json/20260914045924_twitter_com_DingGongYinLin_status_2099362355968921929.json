@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099362283822755840",
+        "3_2099362310880215040",
+        "3_2099362328676614144",
+        "3_2099362344287797248"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2099357225697653080",
+    "created_at": "2026-09-14T04:59:24.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T05:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099362355968921929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DWAFYiD88v",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+          "media_key": "3_2099362283822755840",
+          "start": 0,
+          "url": "https://t.co/DWAFYiD88v"
+        },
+        {
+          "display_url": "pic.x.com/DWAFYiD88v",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+          "media_key": "3_2099362310880215040",
+          "start": 0,
+          "url": "https://t.co/DWAFYiD88v"
+        },
+        {
+          "display_url": "pic.x.com/DWAFYiD88v",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+          "media_key": "3_2099362328676614144",
+          "start": 0,
+          "url": "https://t.co/DWAFYiD88v"
+        },
+        {
+          "display_url": "pic.x.com/DWAFYiD88v",
+          "end": 23,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+          "media_key": "3_2099362344287797248",
+          "start": 0,
+          "url": "https://t.co/DWAFYiD88v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099362355968921929",
+    "in_reply_to_user_id": "1717388840938135552",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2099362283822755840"
+      },
+      {
+        "media_key": "3_2099362310880215040"
+      },
+      {
+        "media_key": "3_2099362328676614144"
+      },
+      {
+        "media_key": "3_2099362344287797248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099357225697653080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/DWAFYiD88v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2099362283822755840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJu384bsAAtrJg.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099362310880215040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJu5hrbwAAK7aq.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099362328676614144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJu6j-bQAAnVQS.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099362344287797248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJu7eIbAAAUCAo.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099357163303161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJqN5dbUAAtktn.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099357178536898560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJqOyNbsAAle33.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099357192285741056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJqPlbaYAAs0Mx.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2099357209058783232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJqQj6asAA2L-8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099362283822755840",
+            "3_2099362310880215040",
+            "3_2099362328676614144",
+            "3_2099362344287797248"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099357225697653080",
+        "created_at": "2026-09-14T04:59:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099362355968921929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWAFYiD88v",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+              "media_key": "3_2099362283822755840",
+              "start": 0,
+              "url": "https://t.co/DWAFYiD88v"
+            },
+            {
+              "display_url": "pic.x.com/DWAFYiD88v",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+              "media_key": "3_2099362310880215040",
+              "start": 0,
+              "url": "https://t.co/DWAFYiD88v"
+            },
+            {
+              "display_url": "pic.x.com/DWAFYiD88v",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+              "media_key": "3_2099362328676614144",
+              "start": 0,
+              "url": "https://t.co/DWAFYiD88v"
+            },
+            {
+              "display_url": "pic.x.com/DWAFYiD88v",
+              "end": 23,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099362355968921929/photo/1",
+              "media_key": "3_2099362344287797248",
+              "start": 0,
+              "url": "https://t.co/DWAFYiD88v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099362355968921929",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2099362283822755840"
+          },
+          {
+            "media_key": "3_2099362310880215040"
+          },
+          {
+            "media_key": "3_2099362328676614144"
+          },
+          {
+            "media_key": "3_2099362344287797248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099357225697653080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/DWAFYiD88v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099357163303161856",
+            "3_2099357178536898560",
+            "3_2099357192285741056",
+            "3_2099357209058783232"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099357225697653080",
+        "created_at": "2026-09-14T04:39:01.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T05:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099357225697653080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khZjpFiANE",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099357225697653080/photo/1",
+              "media_key": "3_2099357163303161856",
+              "start": 2,
+              "url": "https://t.co/khZjpFiANE"
+            },
+            {
+              "display_url": "pic.x.com/khZjpFiANE",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099357225697653080/photo/1",
+              "media_key": "3_2099357178536898560",
+              "start": 2,
+              "url": "https://t.co/khZjpFiANE"
+            },
+            {
+              "display_url": "pic.x.com/khZjpFiANE",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099357225697653080/photo/1",
+              "media_key": "3_2099357192285741056",
+              "start": 2,
+              "url": "https://t.co/khZjpFiANE"
+            },
+            {
+              "display_url": "pic.x.com/khZjpFiANE",
+              "end": 25,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2099357225697653080/photo/1",
+              "media_key": "3_2099357209058783232",
+              "start": 2,
+              "url": "https://t.co/khZjpFiANE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099357225697653080",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099357163303161856"
+          },
+          {
+            "media_key": "3_2099357178536898560"
+          },
+          {
+            "media_key": "3_2099357192285741056"
+          },
+          {
+            "media_key": "3_2099357209058783232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菜 https://t.co/khZjpFiANE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099362355968921929",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 341,
+          "like_count": 23240,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 5220
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

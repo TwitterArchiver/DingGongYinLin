@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2099841944835035552",
+    "created_at": "2026-09-15T15:08:56.000Z",
+    "display_text_range": [
+      22,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099878136217567379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843350227245510656",
+          "start": 0,
+          "username": "houhuilema"
+        },
+        {
+          "end": 21,
+          "id": "2060004417437659136",
+          "start": 12,
+          "username": "Song77c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099878136217567379",
+    "in_reply_to_user_id": "1843350227245510656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099877839072096412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houhuilema @Song77c1 妈妈也是好孩子喵，所以也不会去喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2099841944835035552",
+        "created_at": "2026-09-15T15:08:56.000Z",
+        "display_text_range": [
+          22,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099878136217567379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843350227245510656",
+              "start": 0,
+              "username": "houhuilema"
+            },
+            {
+              "end": 21,
+              "id": "2060004417437659136",
+              "start": 12,
+              "username": "Song77c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099878136217567379",
+        "in_reply_to_user_id": "1843350227245510656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099877839072096412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houhuilema @Song77c1 妈妈也是好孩子喵，所以也不会去喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843350227245510656",
+        "conversation_id": "2099841944835035552",
+        "created_at": "2026-09-15T15:07:45.000Z",
+        "display_text_range": [
+          26,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099877839072096412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            },
+            {
+              "end": 25,
+              "id": "2060004417437659136",
+              "start": 16,
+              "username": "Song77c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099877839072096412",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099877340159631597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin @Song77c1 嗯，好妈妈也不可以去（乖巧）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099878136217567379",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 343,
+          "like_count": 23616,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 5291
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T17:58:52.000Z",
+        "description": "想去月球",
+        "id": "1843350227245510656",
+        "is_identity_verified": false,
+        "location": "人间",
+        "most_recent_tweet_id": "2099877839072096412",
+        "name": "Player",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843350227245510656/1784584868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079265758195122176/Bf6IKd6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 155,
+          "like_count": 13030,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 4050
+        },
+        "url": "",
+        "username": "houhuilema",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T14:25:19.000Z",
+        "description": "当日记本随便写写，纯记录日常，很高兴认识你。\n小号防丢：@syue1213",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "syue1213"
+              }
+            ]
+          }
+        },
+        "id": "2060004417437659136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2099876045675712522",
+        "name": "松松月月",
+        "pinned_tweet_id": "2093906655000056251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060004417437659136/1783821008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076121807426580480/MndNa5l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 98,
+          "like_count": 6967,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "Song77c1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2092998972067713091",
+    "created_at": "2026-09-17T09:27:05.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100516881891492227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100516881891492227",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092998972067713091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 好喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092998917139169280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvTbQtbgAA0Ciy.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092998934138662912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvTcQCbMAA20lx.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092998947220672512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvTdAxa0AAWBy1.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092998962827730944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvTd66boAAUqGb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2092998972067713091",
+        "created_at": "2026-09-17T09:27:05.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100516881891492227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100516881891492227",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092998972067713091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092998917139169280",
+            "3_2092998934138662912",
+            "3_2092998947220672512",
+            "3_2092998962827730944"
+          ]
+        },
+        "author_id": "1885529810942009344",
+        "conversation_id": "2092998972067713091",
+        "created_at": "2026-08-27T15:33:35.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092998972067713091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSZ8WvkTJt",
+              "end": 29,
+              "expanded_url": "https://x.com/NEO_NA45/status/2092998972067713091/photo/1",
+              "media_key": "3_2092998917139169280",
+              "start": 6,
+              "url": "https://t.co/tSZ8WvkTJt"
+            },
+            {
+              "display_url": "pic.x.com/tSZ8WvkTJt",
+              "end": 29,
+              "expanded_url": "https://x.com/NEO_NA45/status/2092998972067713091/photo/1",
+              "media_key": "3_2092998934138662912",
+              "start": 6,
+              "url": "https://t.co/tSZ8WvkTJt"
+            },
+            {
+              "display_url": "pic.x.com/tSZ8WvkTJt",
+              "end": 29,
+              "expanded_url": "https://x.com/NEO_NA45/status/2092998972067713091/photo/1",
+              "media_key": "3_2092998947220672512",
+              "start": 6,
+              "url": "https://t.co/tSZ8WvkTJt"
+            },
+            {
+              "display_url": "pic.x.com/tSZ8WvkTJt",
+              "end": 29,
+              "expanded_url": "https://x.com/NEO_NA45/status/2092998972067713091/photo/1",
+              "media_key": "3_2092998962827730944",
+              "start": 6,
+              "url": "https://t.co/tSZ8WvkTJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092998972067713091",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092998917139169280"
+          },
+          {
+            "media_key": "3_2092998934138662912"
+          },
+          {
+            "media_key": "3_2092998947220672512"
+          },
+          {
+            "media_key": "3_2092998962827730944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近來很好。 https://t.co/tSZ8WvkTJt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100516881891492227",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 338,
+          "like_count": 24085,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 5402
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "對我好點。",
+        "id": "1885529810942009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099187660724322492",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2099187660724322492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885529810942009344/1786380453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 694,
+          "like_count": 5840,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "NEO_NA45",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

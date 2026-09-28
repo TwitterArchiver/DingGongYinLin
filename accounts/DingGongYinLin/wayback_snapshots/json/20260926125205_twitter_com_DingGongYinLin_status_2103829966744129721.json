@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2103825784712671670",
+    "created_at": "2026-09-26T12:52:05.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T13:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103829966744129721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843350227245510656",
+          "start": 0,
+          "username": "houhuilema"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103829966744129721",
+    "in_reply_to_user_id": "1843350227245510656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103825784712671670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houhuilema 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2103825784712671670",
+        "created_at": "2026-09-26T12:52:05.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103829966744129721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843350227245510656",
+              "start": 0,
+              "username": "houhuilema"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103829966744129721",
+        "in_reply_to_user_id": "1843350227245510656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103825784712671670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houhuilema 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843350227245510656",
+        "conversation_id": "2103825784712671670",
+        "created_at": "2026-09-26T12:35:28.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103825784712671670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103825784712671670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带上耳塞睡大觉\n我新买的耳塞贼牛逼，带上后连屋里空调的声音都会听不见"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103829966744129721",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 347,
+          "like_count": 25952,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 5839
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T17:58:52.000Z",
+        "description": "想去月球",
+        "id": "1843350227245510656",
+        "is_identity_verified": false,
+        "location": "人间",
+        "most_recent_tweet_id": "2103825784712671670",
+        "name": "Player",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843350227245510656/1784584868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079265758195122176/Bf6IKd6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 175,
+          "like_count": 14433,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 4243
+        },
+        "url": "",
+        "username": "houhuilema",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2098209475010400588",
+    "created_at": "2026-09-11T00:44:21.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T01:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098211005772001656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV_e5m2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098211005772001656",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098209475010400588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV_e5m2 摸摸喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2098209475010400588",
+        "created_at": "2026-09-11T00:44:21.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098211005772001656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV_e5m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098211005772001656",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098209475010400588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV_e5m2 摸摸喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "2098209475010400588",
+        "created_at": "2026-09-11T00:38:16.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098209475010400588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CynunVIIV_e5m2…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/CynunVIIV_e5m2/status/2097323764149301313",
+              "start": 45,
+              "url": "https://t.co/RxIzjDRJOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098209475010400588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097323764149301313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜啊 好大的流量...（抱紧\n谢谢大家的关心 rate limit回fo回不过来了... https://t.co/RxIzjDRJOA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098211005772001656",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 339,
+          "like_count": 22349,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 5064
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "鱼 | La Creationa es PurE",
+        "id": "1751235517860196352",
+        "is_identity_verified": false,
+        "location": "鱼网",
+        "most_recent_tweet_id": "2098209475010400588",
+        "name": "Cynun IVI_int8_w8a8",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1421,
+          "like_count": 30542,
+          "listed_count": 12,
+          "media_count": 359,
+          "tweet_count": 6015
+        },
+        "url": "",
+        "username": "CynunVIIV_e5m2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

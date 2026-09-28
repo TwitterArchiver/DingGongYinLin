@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2097531628046504430",
+    "created_at": "2026-09-09T11:39:38.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097651137826742647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089970171100418049",
+          "start": 0,
+          "username": "Aurvsnom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097651137826742647",
+    "in_reply_to_user_id": "2089970171100418049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097531628046504430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurvsnom 入学体检吗喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_2097531617871003649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvt5KxaAAEMtnP.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2097531628046504430",
+        "created_at": "2026-09-09T11:39:38.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097651137826742647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089970171100418049",
+              "start": 0,
+              "username": "Aurvsnom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097651137826742647",
+        "in_reply_to_user_id": "2089970171100418049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097531628046504430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurvsnom 入学体检吗喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097531617871003649"
+          ]
+        },
+        "author_id": "2089970171100418049",
+        "conversation_id": "2097531628046504430",
+        "created_at": "2026-09-09T03:44:45.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097531628046504430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJhHzPNwPn",
+              "end": 29,
+              "expanded_url": "https://x.com/Aurvsnom/status/2097531628046504430/photo/1",
+              "media_key": "3_2097531617871003649",
+              "start": 6,
+              "url": "https://t.co/IJhHzPNwPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097531628046504430",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097531617871003649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中规中矩🫠 https://t.co/IJhHzPNwPn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097651137826742647",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 333,
+          "like_count": 22004,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4961
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:59:27.000Z",
+        "description": "一代@Vyrwen已陨落\n二代@Luminbkrv已陨落\n互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "Vyrwen"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Luminbkrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 0,
+                "url": "https://t.co/cwzsubTgBn"
+              }
+            ]
+          }
+        },
+        "id": "2089970171100418049",
+        "is_identity_verified": false,
+        "location": "沉眠岸",
+        "most_recent_tweet_id": "2097638823094370507",
+        "name": "雪还会落下3.0",
+        "pinned_tweet_id": "2094554199740862939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089970171100418049/1787587889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092928612026695680/g1KNJow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 143,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/cwzsubTgBn",
+        "username": "Aurvsnom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

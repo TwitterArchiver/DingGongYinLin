@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2101877312103006701",
+    "created_at": "2026-09-21T08:09:05.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101946806259093618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2096992990338469889",
+          "start": 0,
+          "username": "Ambient_Isotopy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101946806259093618",
+    "in_reply_to_user_id": "2096992990338469889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101877312103006701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ambient_Isotopy 加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2101877305765421056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSteRfuaYAAMIC4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2101877312103006701",
+        "created_at": "2026-09-21T08:09:05.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101946806259093618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2096992990338469889",
+              "start": 0,
+              "username": "Ambient_Isotopy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101946806259093618",
+        "in_reply_to_user_id": "2096992990338469889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101877312103006701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ambient_Isotopy 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101877305765421056"
+          ]
+        },
+        "author_id": "2096992990338469889",
+        "conversation_id": "2101877312103006701",
+        "created_at": "2026-09-21T03:32:56.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101877312103006701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Q74RBQxky",
+              "end": 43,
+              "expanded_url": "https://x.com/Ambient_Isotopy/status/2101877312103006701/photo/1",
+              "media_key": "3_2101877305765421056",
+              "start": 20,
+              "url": "https://t.co/8Q74RBQxky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101877312103006701",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101877305765421056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "明年2027届高考再重新考个本科，好吗 https://t.co/8Q74RBQxky"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101946806259093618",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 343,
+          "like_count": 25066,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 5609
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T16:05:21.000Z",
+        "description": "さようなら。もう二度と関わらない。\n因双相情感障碍（躁狂抑郁症）被大专退学\n\n我很需要钱，请给我钱：QQ3994542199\n社交媒体只使用Twitter和QQ",
+        "id": "2096992990338469889",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2101916293138088446",
+        "name": "イソトピー（跳楼被退学版）",
+        "pinned_tweet_id": "2101915966670242085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096992990338469889/1789474853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099817069206482944/O6nPRHdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 244,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "Ambient_Isotopy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

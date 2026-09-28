@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2096558958303723876",
+    "created_at": "2026-09-07T04:40:00.000Z",
+    "display_text_range": [
+      22,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096820760228823161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626802370066911232",
+          "start": 0,
+          "username": "Freewing339"
+        },
+        {
+          "end": 21,
+          "id": "2087499639545290752",
+          "start": 13,
+          "username": "uyeenip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096820760228823161",
+    "in_reply_to_user_id": "1626802370066911232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096820238973370805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freewing339 @uyeenip 😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2096558958303723876",
+        "created_at": "2026-09-07T04:40:00.000Z",
+        "display_text_range": [
+          22,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096820760228823161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626802370066911232",
+              "start": 0,
+              "username": "Freewing339"
+            },
+            {
+              "end": 21,
+              "id": "2087499639545290752",
+              "start": 13,
+              "username": "uyeenip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096820760228823161",
+        "in_reply_to_user_id": "1626802370066911232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096820238973370805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freewing339 @uyeenip 😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626802370066911232",
+        "conversation_id": "2096558958303723876",
+        "created_at": "2026-09-07T04:37:56.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096820238973370805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2087499639545290752",
+              "start": 0,
+              "username": "uyeenip"
+            },
+            {
+              "end": 24,
+              "id": "1717388840938135552",
+              "start": 9,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096820238973370805",
+        "in_reply_to_user_id": "2087499639545290752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096766390648873032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uyeenip @DingGongYinLin 🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096820760228823161",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 329,
+          "like_count": 21314,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4879
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-18T04:34:53.000Z",
+        "description": "实事求是｜自由派｜现代自由主义｜宪政民主｜人权\n09｜男｜友跨｜理科生｜高三生备考中｜目标留德🇩🇪（我一定要出去!）\n\"有些鸟儿是关不住的，它们的每一片羽毛都闪耀着自由的光辉\"\n欢迎同类找我聊天喵！一般每天都会上线的\n避难所：@EiderHans38928",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "EiderHans38928"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhoxiojn8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhoxiojn8",
+                "start": 0,
+                "url": "https://t.co/3Xi0uznVeK"
+              }
+            ]
+          }
+        },
+        "id": "1626802370066911232",
+        "is_identity_verified": false,
+        "location": "德国北莱茵-威斯特法伦州",
+        "most_recent_tweet_id": "2096820238973370805",
+        "name": "青羽",
+        "pinned_tweet_id": "2089610560518373623",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626802370066911232/1788682360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088980788511739904/HNxqmoE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 320,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/3Xi0uznVeK",
+        "username": "Freewing339",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T11:25:21.000Z",
+        "description": "",
+        "id": "2087499639545290752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096794922217361727",
+        "name": "uyee",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095476155055050752/jdsgHddS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 75,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "uyeenip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

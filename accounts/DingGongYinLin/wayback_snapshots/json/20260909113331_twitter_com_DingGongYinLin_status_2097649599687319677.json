@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2097632419465900365",
+    "created_at": "2026-09-09T11:33:31.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097649599687319677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094128030973403136",
+          "start": 0,
+          "username": "AmanomiyaSakuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097649599687319677",
+    "in_reply_to_user_id": "2094128030973403136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097632419465900365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanomiyaSakuya 广东还好热喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2097632419465900365",
+        "created_at": "2026-09-09T11:33:31.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097649599687319677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094128030973403136",
+              "start": 0,
+              "username": "AmanomiyaSakuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097649599687319677",
+        "in_reply_to_user_id": "2094128030973403136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097632419465900365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanomiyaSakuya 广东还好热喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094128030973403136",
+        "conversation_id": "2097632419465900365",
+        "created_at": "2026-09-09T10:25:15.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097632419465900365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097632419465900365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“随后秋雨落下”……似乎降温了呢。昨天洗澡的时候都被冻感冒了……大家也要注意身体，该加衣服加衣服，该换被子换被子……\n\n打开衣柜发现我的长袖衣服都好丑啊……真想买件好看的衣服了🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097649599687319677",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 332,
+          "like_count": 21991,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4956
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T18:20:43.000Z",
+        "description": "此前，你见过那只红色的兔子了吗？\n性别女🏳️‍⚧️ || 全性恋 || GAHT：7.10.2026🍥 || 体重63kg 身高180cm(?) || 很粘人🥰 || 爱哭鬼🪻 || 性冷淡🫧 || 神经衰弱🥀 || 尝试重新点燃自己心中的热情❤️‍🔥",
+        "id": "2094128030973403136",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2097646904297599463",
+        "name": "天ノ宮朔夜",
+        "pinned_tweet_id": "2096184015732822507",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094413559027621888/GprArBSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 57,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "AmanomiyaSakuya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

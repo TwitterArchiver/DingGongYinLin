@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2100519430551974032",
+    "created_at": "2026-09-17T09:38:51.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100519843409625370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032861173780267008",
+          "start": 0,
+          "username": "Cang390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100519843409625370",
+    "in_reply_to_user_id": "2032861173780267008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100519430551974032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cang390 可能看太多推了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2100519430551974032",
+        "created_at": "2026-09-17T09:38:51.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100519843409625370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032861173780267008",
+              "start": 0,
+              "username": "Cang390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100519843409625370",
+        "in_reply_to_user_id": "2032861173780267008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100519430551974032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cang390 可能看太多推了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032861173780267008",
+        "conversation_id": "2100519430551974032",
+        "created_at": "2026-09-17T09:37:12.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100519430551974032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100519430551974032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉今天下午大家状态都不大好🥲🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100519843409625370",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 335,
+          "like_count": 24093,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 5405
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T16:47:40.000Z",
+        "description": "你好！\n06，友跨，精神不稳定，社恐（容易灵光一闪，发出抽象言论，请多包涵)\n平等视奸每个人\n不建议靠太近，身上带刺哦🦔\n简介不全，会慢慢补",
+        "id": "2032861173780267008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100519430551974032",
+        "name": "沧弦(笨笨版，回复慢)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032861173780267008/1789008560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098611490010038272/deYH1cJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 150,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Cang390",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

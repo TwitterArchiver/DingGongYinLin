@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2098035800118304849",
+    "created_at": "2026-09-10T14:18:35.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T15:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098053526358483055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796471454839816192",
+          "start": 0,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098053526358483055",
+    "in_reply_to_user_id": "1796471454839816192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098035800118304849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyilingyi 贴贴喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2098035800118304849",
+        "created_at": "2026-09-10T14:18:35.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098053526358483055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796471454839816192",
+              "start": 0,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098053526358483055",
+        "in_reply_to_user_id": "1796471454839816192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098035800118304849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyilingyi 贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2098035800118304849",
+        "created_at": "2026-09-10T13:08:09.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098035800118304849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098035800118304849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你有很多朋友，除了吾辈也有人可以陪着你，而吾辈没有，吾辈只有你一个，吾辈只能等你，就算约定好的时间是错误的，吾辈也只能接受，吾辈的世界就只有你了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098053526358483055",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 337,
+          "like_count": 22226,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 5006
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "永远16岁✨｜含糖｜清水日常推✨｜互fo私信喵，fo会查成分回关｜转生版｜喜欢一切可爱的事物🎉",
+        "id": "1796471454839816192",
+        "is_identity_verified": false,
+        "location": "距离你10米",
+        "most_recent_tweet_id": "2098038312737054993",
+        "name": "纟夌🍀",
+        "pinned_tweet_id": "2076886094776574354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796471454839816192/1783578961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 757,
+          "like_count": 4767,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 1821
+        },
+        "url": "",
+        "username": "yuanyilingyi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

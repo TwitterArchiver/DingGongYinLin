@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2098445110413295674",
+    "created_at": "2026-09-11T16:28:52.000Z",
+    "display_text_range": [
+      8,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098448700624564680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087152708696346624",
+          "start": 0,
+          "username": "Kir4uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098448700624564680",
+    "in_reply_to_user_id": "2087152708696346624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098448095105425520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kir4uh Hope you can find a good used engine, meow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2098448025840431104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HR8vXIfWsAAo8sj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HR8vXIfWsAAo8sj.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2098445110413295674",
+        "created_at": "2026-09-11T16:28:52.000Z",
+        "display_text_range": [
+          8,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098448700624564680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087152708696346624",
+              "start": 0,
+              "username": "Kir4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098448700624564680",
+        "in_reply_to_user_id": "2087152708696346624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098448095105425520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kir4uh Hope you can find a good used engine, meow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098448025840431104"
+          ]
+        },
+        "author_id": "2087152708696346624",
+        "conversation_id": "2098445110413295674",
+        "created_at": "2026-09-11T16:26:27.000Z",
+        "display_text_range": [
+          16,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098448095105425520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rdga0xzozU",
+              "end": 116,
+              "expanded_url": "https://x.com/Kir4uh/status/2098448095105425520/photo/1",
+              "media_key": "16_2098448025840431104",
+              "start": 93,
+              "url": "https://t.co/Rdga0xzozU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098448095105425520",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2098448025840431104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098447472431689918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin Yes, considering that I only have 50 thousand left after my salary. Meooooow https://t.co/Rdga0xzozU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098448700624564680",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 340,
+          "like_count": 22530,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 5106
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T12:23:42.000Z",
+        "description": "I am BI and always open to any communication.I love everyone in this world, But no one loves me.",
+        "id": "2087152708696346624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098448095105425520",
+        "name": "Kiruha 2.0",
+        "pinned_tweet_id": "2087909228623118717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087152708696346624/1789067674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098128014399717381/LoqWvnHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 402,
+          "like_count": 4083,
+          "listed_count": 0,
+          "media_count": 937,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "Kir4uh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

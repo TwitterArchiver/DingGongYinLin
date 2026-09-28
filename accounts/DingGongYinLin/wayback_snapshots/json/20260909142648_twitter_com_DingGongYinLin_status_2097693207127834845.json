@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2097692570482819079",
+    "created_at": "2026-09-09T14:26:48.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097693207127834845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097693207127834845",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097692570482819079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 摸摸喵🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2097692570482819079",
+        "created_at": "2026-09-09T14:26:48.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097693207127834845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097693207127834845",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097692570482819079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 摸摸喵🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2097692570482819079",
+        "created_at": "2026-09-09T14:24:16.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097692570482819079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097692570482819079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要回学校了喵……\n又要忍受折磨😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097693207127834845",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 334,
+          "like_count": 22104,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4979
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "男娘，人稱代詞隨意\n避難所：@qian68069 \n語言：繁中/簡中/EN/日本語\n攻受可切的觸手娘😈\n髒話含量超標注意🤬\n姐姐：@QiNian1604\n女朋友😘：@y30105\n\n不封鎖真人，友好任何非極端團體\n\n愛所有人，但永遠學不會愛人\n人與人永遠無法相互理解，這是每個人的不幸，卻也是人類文明的生命",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "qian68069"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "QiNian1604"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "y30105"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "is_identity_verified": false,
+        "location": "你的浴缸🛁",
+        "most_recent_tweet_id": "2097693036927226294",
+        "name": "Qian觸手娘小千🏳️‍🌈（上學僅週末上線）",
+        "pinned_tweet_id": "2097517149296402891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956958284310818816/1784818334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1484,
+          "like_count": 13339,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 4364
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

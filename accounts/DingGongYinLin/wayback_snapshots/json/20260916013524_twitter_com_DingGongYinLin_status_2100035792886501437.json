@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2100025733762720005",
+    "created_at": "2026-09-16T01:35:24.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100035792886501437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100035792886501437",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100025733762720005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2100025733762720005",
+        "created_at": "2026-09-16T01:35:24.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100035792886501437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100035792886501437",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100025733762720005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089549255140839424",
+        "conversation_id": "2100025733762720005",
+        "created_at": "2026-09-16T00:55:26.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100025733762720005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100025733762720005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "現在起，本機決定在推特也開始提供簽到功能，如果今天想簽到的話就在這貼文回覆吧，我會記下每一個人的，消失太久我會就來找你們。 \n(和那邊一樣，具體還沒想好簽到獎勵w）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100035792886501437",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 343,
+          "like_count": 23638,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 5300
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "只要是彼此傳達得到的距離的話，即使像本機這樣微弱的燈火，也一定能成為大家的希望☆ \n歡迎互fo, 無聊也可以私信找本機玩的說！\n ㅤ ㅤㅤㅤㅤㅤㅤㅤ那邊的你！按按這裡↓可以問本機問題哦～\n 或者這裡↓\nhttps://t.co/UkTOuUEHym\n\nKindred spirit: @lei47076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "lei47076"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 124,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 101,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 0,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          }
+        },
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子謠精の夢境",
+        "most_recent_tweet_id": "2100035788297867494",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1789143047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098445850536284160/6xcj-t7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 131,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/UkTOuUEHym",
+        "username": "AKARIsys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2099857792207343848",
+    "created_at": "2026-09-15T15:01:30.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099876265067258302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099876265067258302",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099857792207343848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 加油喵，还有脚链喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099857785546776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQxh8paoAA_JbE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2099857792207343848",
+        "created_at": "2026-09-15T15:01:30.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099876265067258302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099876265067258302",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099857792207343848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 加油喵，还有脚链喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099857785546776576"
+          ]
+        },
+        "author_id": "2089549255140839424",
+        "conversation_id": "2099857792207343848",
+        "created_at": "2026-09-15T13:48:05.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099857792207343848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K8OaJCsg0d",
+              "end": 56,
+              "expanded_url": "https://x.com/AKARIsys/status/2099857792207343848/photo/1",
+              "media_key": "3_2099857785546776576",
+              "start": 33,
+              "url": "https://t.co/K8OaJCsg0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099857792207343848",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099857785546776576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 168,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實這才是最初的設定…\n只是被我中途捨棄了\n我決定還是畫完它吧！ https://t.co/K8OaJCsg0d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099876265067258302",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 343,
+          "like_count": 23588,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 5287
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "只要是彼此傳達得到的距離的話，即使像本機這樣微弱的燈火，也一定能成為大家的希望☆ \n歡迎互fo, 無聊也可以私信找本機玩的說！\n ㅤ ㅤㅤㅤㅤㅤㅤㅤ那邊的你！按按這裡↓可以問本機問題哦～\n 或者這裡↓\nhttps://t.co/UkTOuUEHym\n\nKindred spirit: @lei47076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "lei47076"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 124,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 101,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 0,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          }
+        },
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子謠精の夢境",
+        "most_recent_tweet_id": "2099858391229497673",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1789143047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098445850536284160/6xcj-t7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 128,
+          "like_count": 2207,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/UkTOuUEHym",
+        "username": "AKARIsys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2103524804246774259",
+    "created_at": "2026-09-25T23:00:14.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T00:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103620624665268592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805664483265986561",
+          "start": 0,
+          "username": "AAcer_Freilyns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103620624665268592",
+    "in_reply_to_user_id": "1805664483265986561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103524804246774259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcer_Freilyns 我可是按照医嘱服用喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2103524804246774259",
+        "created_at": "2026-09-25T23:00:14.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103620624665268592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805664483265986561",
+              "start": 0,
+              "username": "AAcer_Freilyns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103620624665268592",
+        "in_reply_to_user_id": "1805664483265986561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103524804246774259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcer_Freilyns 我可是按照医嘱服用喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805664483265986561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2103524804246774259",
+        "created_at": "2026-09-25T16:39:29.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T17:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103524804246774259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DingGongYinLin…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/DingGongYinLin/status/2103098903264657707",
+              "start": 8,
+              "url": "https://t.co/yXH4cwUoAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103524804246774259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 174,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103098903264657707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉……你怎么也 https://t.co/yXH4cwUoAs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103620624665268592",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 345,
+          "like_count": 25831,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 5820
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T18:09:08.000Z",
+        "description": "前世：@AacerF59616｜成为女生：2008.4.15｜167cm 62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期及成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒OD 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 琳天王｜“循光而行，鏖战到底”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "AacerF59616"
+              }
+            ]
+          }
+        },
+        "id": "1805664483265986561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103579077210956180",
+        "name": "☀️艾丝尔娜·芙蕾琳☀️ᴬˡᵗᵃⁱʳ⁻ᴱᵐᵇᵉʳ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805664483265986561/1790339394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103452347225849857/C63dcfcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 100,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "AAcer_Freilyns",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

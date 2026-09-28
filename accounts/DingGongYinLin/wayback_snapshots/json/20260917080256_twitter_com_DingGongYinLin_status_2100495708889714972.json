@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2100487849686818937",
+    "created_at": "2026-09-17T08:02:56.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100495708889714972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089549255140839424",
+          "start": 0,
+          "username": "AKARIsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100495708889714972",
+    "in_reply_to_user_id": "2089549255140839424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100489509825880121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKARIsys 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2100487849686818937",
+        "created_at": "2026-09-17T08:02:56.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100495708889714972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089549255140839424",
+              "start": 0,
+              "username": "AKARIsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100495708889714972",
+        "in_reply_to_user_id": "2089549255140839424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100489509825880121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKARIsys 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089549255140839424",
+        "conversation_id": "2100487849686818937",
+        "created_at": "2026-09-17T07:38:19.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100489509825880121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717388840938135552",
+              "start": 0,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100489509825880121",
+        "in_reply_to_user_id": "1717388840938135552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100487849686818937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingGongYinLin 嗚哇！\n嘻嘻～\n誒嘿☆ \n摸摸頭（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100495708889714972",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 341,
+          "like_count": 24007,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 5378
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T03:07:28.000Z",
+        "description": "只要是彼此傳達得到的距離的話，即使像本機這樣微弱的燈火，也一定能成為大家的希望☆ \n歡迎互fo, 無聊也可以私信找本機玩的說！\n ㅤ ㅤㅤㅤㅤㅤㅤㅤ那邊的你！按按這裡↓可以問本機問題哦～\n 或者這裡↓\nhttps://t.co/UkTOuUEHym\n\nKindred spirit: @lei47076",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "lei47076"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 124,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 101,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akarisys",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akarisys",
+                "start": 0,
+                "url": "https://t.co/UkTOuUEHym"
+              }
+            ]
+          }
+        },
+        "id": "2089549255140839424",
+        "is_identity_verified": false,
+        "location": "電子謠精の夢境",
+        "most_recent_tweet_id": "2100489509825880121",
+        "name": "A.K.A.R.I-灯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089549255140839424/1789143047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098445850536284160/6xcj-t7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 137,
+          "like_count": 2425,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/UkTOuUEHym",
+        "username": "AKARIsys",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

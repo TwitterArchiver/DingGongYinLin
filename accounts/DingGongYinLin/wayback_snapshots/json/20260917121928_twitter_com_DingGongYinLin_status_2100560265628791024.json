@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100560257164750848"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2100560265628791024",
+    "created_at": "2026-09-17T12:19:28.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100560265628791024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R7EQzvdyVR",
+          "end": 37,
+          "expanded_url": "https://x.com/DingGongYinLin/status/2100560265628791024/photo/1",
+          "media_key": "3_2100560257164750848",
+          "start": 14,
+          "url": "https://t.co/R7EQzvdyVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100560265628791024",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100560257164750848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃到一半想起没拍喵，补上喵 https://t.co/R7EQzvdyVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100560257164750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSawbLWbsAAgdbi.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100560257164750848"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100560265628791024",
+        "created_at": "2026-09-17T12:19:28.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100560265628791024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7EQzvdyVR",
+              "end": 37,
+              "expanded_url": "https://x.com/DingGongYinLin/status/2100560265628791024/photo/1",
+              "media_key": "3_2100560257164750848",
+              "start": 14,
+              "url": "https://t.co/R7EQzvdyVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100560265628791024",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100560257164750848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃到一半想起没拍喵，补上喵 https://t.co/R7EQzvdyVR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100560265628791024",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 336,
+          "like_count": 24169,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 5416
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
