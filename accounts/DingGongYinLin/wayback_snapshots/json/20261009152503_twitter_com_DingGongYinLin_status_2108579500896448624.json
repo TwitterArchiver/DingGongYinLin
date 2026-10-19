@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2108566048698237052",
+    "created_at": "2026-10-09T15:25:03.000Z",
+    "display_text_range": [
+      21,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T16:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108579500896448624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088116033290907649",
+          "start": 0,
+          "username": "kohoshi_tsumu"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108579500896448624",
+    "in_reply_to_user_id": "2088116033290907649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108566479335751868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshi_tsumu @grok 摸摸喵꒰ঌ^•𖥦•^໒꒱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2108566048698237052",
+        "created_at": "2026-10-09T15:25:03.000Z",
+        "display_text_range": [
+          21,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108579500896448624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088116033290907649",
+              "start": 0,
+              "username": "kohoshi_tsumu"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108579500896448624",
+        "in_reply_to_user_id": "2088116033290907649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108566479335751868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshi_tsumu @grok 摸摸喵꒰ঌ^•𖥦•^໒꒱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088116033290907649",
+        "conversation_id": "2108566048698237052",
+        "created_at": "2026-10-09T14:33:18.000Z",
+        "display_text_range": [
+          6,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108566479335751868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108566479335751868",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108566279950917784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 怎麼就這麼點？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2108579500896448624",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 358,
+          "like_count": 27704,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 6253
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T04:12:07.000Z",
+        "description": "✦小星紡-こほしつむ✦\n⟣こんにちは♪ ⟢\nʚ✞( ᯅ ·̫ ᯅ )✟ɞ \n✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧\n@kohoshitsumu\n@kohoshtsumuchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "kohoshitsumu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "kohoshtsumuchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/qohlHsxzbi"
+              }
+            ]
+          }
+        },
+        "id": "2088116033290907649",
+        "is_identity_verified": false,
+        "location": "永恆的夢里",
+        "most_recent_tweet_id": "2108573524382335245",
+        "name": "小星紡-𝐤𝐨𝐡𝐨𝐬𝐡𝐢𝐭𝐬𝐮𝐦𝐮",
+        "pinned_tweet_id": "2100882449740017848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088116033290907649/1786681194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106409714087346176/3VxDAqzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 55,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/qohlHsxzbi",
+        "username": "kohoshi_tsumu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108579516704567390",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9153306,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7780,
+          "media_count": 3995533,
+          "tweet_count": 139882901
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

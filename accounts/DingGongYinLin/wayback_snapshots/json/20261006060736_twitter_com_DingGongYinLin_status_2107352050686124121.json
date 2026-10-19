@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2107336901346951555",
+    "created_at": "2026-10-06T06:07:36.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107352050686124121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088116033290907649",
+          "start": 0,
+          "username": "kohoshi_tsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107352050686124121",
+    "in_reply_to_user_id": "2088116033290907649",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107336901346951555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshi_tsumu 😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1913,
+        "media_key": "3_2107336891855212544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7DvO0bEAAkI4c.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2107336901346951555",
+        "created_at": "2026-10-06T06:07:36.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107352050686124121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088116033290907649",
+              "start": 0,
+              "username": "kohoshi_tsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107352050686124121",
+        "in_reply_to_user_id": "2088116033290907649",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107336901346951555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshi_tsumu 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107336891855212544"
+          ]
+        },
+        "author_id": "2088116033290907649",
+        "conversation_id": "2107336901346951555",
+        "created_at": "2026-10-06T05:07:24.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107336901346951555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1LGZQu574",
+              "end": 29,
+              "expanded_url": "https://x.com/kohoshi_tsumu/status/2107336901346951555/photo/1",
+              "media_key": "3_2107336891855212544",
+              "start": 6,
+              "url": "https://t.co/L1LGZQu574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107336901346951555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107336891855212544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼回事呀 https://t.co/L1LGZQu574"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2107352050686124121",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 349,
+          "like_count": 27071,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 6098
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T04:12:07.000Z",
+        "description": "✦小星紡-こほしつむ✦\n⟣こんにちは♪ ⟢\nʚ✞( ᯅ ·̫ ᯅ )✟ɞ \n✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧ ✧\n@kohoshitsumu\n@kohoshtsumuchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "kohoshitsumu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "kohoshtsumuchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kohoshitsumu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kohoshitsumu",
+                "start": 0,
+                "url": "https://t.co/qohlHsxzbi"
+              }
+            ]
+          }
+        },
+        "id": "2088116033290907649",
+        "is_identity_verified": false,
+        "location": "永恆的夢里",
+        "most_recent_tweet_id": "2107345544926654877",
+        "name": "小星紡-𝐤𝐨𝐡𝐨𝐬𝐡𝐢𝐭𝐬𝐮𝐦𝐮",
+        "pinned_tweet_id": "2100882449740017848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088116033290907649/1786681194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106409714087346176/3VxDAqzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 52,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/qohlHsxzbi",
+        "username": "kohoshi_tsumu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

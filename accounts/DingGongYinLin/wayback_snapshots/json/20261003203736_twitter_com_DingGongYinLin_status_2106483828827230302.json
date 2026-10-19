@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2106471052557877720",
+    "created_at": "2026-10-03T20:37:36.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T21:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106483828827230302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "PinkCatLoveSky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106483828827230302",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106471052557877720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinkCatLoveSky 早安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2106471052557877720",
+        "created_at": "2026-10-03T20:37:36.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T21:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106483828827230302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "PinkCatLoveSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106483828827230302",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106471052557877720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinkCatLoveSky 早安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2106471052557877720",
+        "created_at": "2026-10-03T19:46:49.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T20:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106471052557877720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106471052557877720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安喵 睡了4個半小時 有進步"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106483828827230302",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 350,
+          "like_count": 26805,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 6047
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "跨旗貓主導(藍粉白)  橘貓想死 紅貓喜歡自餐 星滔最終防線 上述皆在系統內 虛白暫時未知\n確診:重度憂鬱\n直播https://t.co/9eCwxZAQNE\n——————————\n面基無傷人紀錄 多數時候是在照顧人 自己偶爾也會到處切換人格、解離 還會失去記憶 不好受😿\n被打過了 好痛 好可怕 我很委屈、害怕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/pinkcatouo",
+                "end": 79,
+                "expanded_url": "https://www.twitch.tv/pinkcatouo",
+                "start": 56,
+                "url": "https://t.co/9eCwxZAQNE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo1",
+                "start": 0,
+                "url": "https://t.co/7K5di5VrJF"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "is_identity_verified": false,
+        "location": "你的附近       在台灣     問喵問題！➡️",
+        "most_recent_tweet_id": "2106471911249306107",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2106207582901911908",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320354023451496450/1785586770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 2696,
+          "like_count": 111968,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 9496
+        },
+        "url": "https://t.co/7K5di5VrJF",
+        "username": "PinkCatLoveSky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

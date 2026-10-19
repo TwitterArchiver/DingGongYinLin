@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105940435579682817"
+      ],
+      "media_source_tweet_id": [
+        "2105940455942930457"
+      ]
+    },
+    "author_id": "1717388840938135552",
+    "conversation_id": "2106034384075956267",
+    "created_at": "2026-10-02T14:51:40.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T15:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106034384075956267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2101253898568966144",
+          "start": 3,
+          "username": "Snowthaw_qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3ARjiAjqJ",
+          "end": 43,
+          "expanded_url": "https://x.com/Snowthaw_qwq/status/2105940455942930457/photo/1",
+          "media_key": "3_2105940435579682817",
+          "start": 20,
+          "url": "https://t.co/O3ARjiAjqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106034384075956267",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2105940435579682817"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105940455942930457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snowthaw_qwq: ？ https://t.co/O3ARjiAjqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2778,
+        "media_key": "3_2105940435579682817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnNqxzbwAEgFqw.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105940435579682817"
+          ],
+          "media_source_tweet_id": [
+            "2105940455942930457"
+          ]
+        },
+        "author_id": "1717388840938135552",
+        "conversation_id": "2106034384075956267",
+        "created_at": "2026-10-02T14:51:40.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T15:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106034384075956267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2101253898568966144",
+              "start": 3,
+              "username": "Snowthaw_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3ARjiAjqJ",
+              "end": 43,
+              "expanded_url": "https://x.com/Snowthaw_qwq/status/2105940455942930457/photo/1",
+              "media_key": "3_2105940435579682817",
+              "start": 20,
+              "url": "https://t.co/O3ARjiAjqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106034384075956267",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105940435579682817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105940455942930457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snowthaw_qwq: ？ https://t.co/O3ARjiAjqJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105940435579682817"
+          ]
+        },
+        "author_id": "2101253898568966144",
+        "conversation_id": "2105940455942930457",
+        "created_at": "2026-10-02T08:38:25.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105940455942930457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3ARjiAjqJ",
+              "end": 25,
+              "expanded_url": "https://x.com/Snowthaw_qwq/status/2105940455942930457/photo/1",
+              "media_key": "3_2105940435579682817",
+              "start": 2,
+              "url": "https://t.co/O3ARjiAjqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105940455942930457",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105940435579682817"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/O3ARjiAjqJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106034384075956267",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 350,
+          "like_count": 26703,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 6030
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-19T10:18:28.000Z",
+        "description": "等待死亡中…….",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 0,
+                "url": "https://t.co/2G0nRQQc5J"
+              }
+            ]
+          }
+        },
+        "id": "2101253898568966144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106004517938700763",
+        "name": "落雪藏绪4.0",
+        "pinned_tweet_id": "2102275311304118521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101253898568966144/1789813302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101255283519733760/4bHmQYNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 154,
+          "like_count": 1178,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/2G0nRQQc5J",
+        "username": "Snowthaw_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

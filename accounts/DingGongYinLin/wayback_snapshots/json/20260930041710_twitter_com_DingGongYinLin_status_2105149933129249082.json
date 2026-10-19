@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2105087251848011915",
+    "created_at": "2026-09-30T04:17:10.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T05:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105149933129249082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105149933129249082",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105087251848011915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 摸摸喵AZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2105087251848011915",
+        "created_at": "2026-09-30T04:17:10.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105149933129249082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105149933129249082",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105087251848011915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 摸摸喵AZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2105087251848011915",
+        "created_at": "2026-09-30T00:08:06.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T01:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105087251848011915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105087251848011915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失眠，彻头彻尾的失眠，一天没吃sns仅仅依靠米安色林和喹硫平就这样子了吗？好难受，为什么？根本睡不着啊，闭上眼睛全是怪物，就算很疲倦了也还是睡不着，到底怎么办才好，AZ也好想成为一个正常人啊，sns拜托救救AZ吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105149933129249082",
+        "name": "钉宫银琳",
+        "pinned_tweet_id": "2104517169547792567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 348,
+          "like_count": 26479,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 5954
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难，1125306051（AZ的q群）",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2105088194375201044",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 700,
+          "like_count": 7430,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 1818
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

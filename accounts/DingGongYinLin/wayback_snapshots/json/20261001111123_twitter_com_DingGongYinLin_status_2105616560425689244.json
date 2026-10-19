@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2105616560425689244",
+    "created_at": "2026-10-01T11:11:23.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105616560425689244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DingGongYinLin…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/DingGongYinLin/status/2105610193551892941",
+          "start": 21,
+          "url": "https://t.co/sGuFNcPTnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105616560425689244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105610193551892941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看完了喵，后面情感起来了喵，不错的电影喵 https://t.co/sGuFNcPTnU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2105616560425689244",
+        "created_at": "2026-10-01T11:11:23.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105616560425689244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DingGongYinLin…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/DingGongYinLin/status/2105610193551892941",
+              "start": 21,
+              "url": "https://t.co/sGuFNcPTnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105616560425689244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105610193551892941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看完了喵，后面情感起来了喵，不错的电影喵 https://t.co/sGuFNcPTnU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2105610193551892941",
+        "created_at": "2026-10-01T10:46:05.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105610193551892941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DingGongYinLin…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DingGongYinLin/status/2105598036714103168",
+              "start": 6,
+              "url": "https://t.co/uuyb2zAPhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105610193551892941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105598036714103168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还在影院喵 https://t.co/uuyb2zAPhb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105616560425689244",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 350,
+          "like_count": 26579,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 5990
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1717388840938135552",
+    "conversation_id": "2107451677620273410",
+    "created_at": "2026-10-06T13:40:05.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107465921204019397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107465921204019397",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107451677620273410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao 好诡异喵，⚡️诡异的她⚡️喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "16_2107451597794185216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT8sD_vaEAAHTkq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT8sD_vaEAAHTkq.mp4"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 240,
+        "media_key": "16_2107451597760626688",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT8sD_naAAAvkMn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT8sD_naAAAvkMn.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2107451677620273410",
+        "created_at": "2026-10-06T13:40:05.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107465921204019397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107465921204019397",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107451677620273410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 好诡异喵，⚡️诡异的她⚡️喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2107451597794185216",
+            "16_2107451597760626688"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "conversation_id": "2107451677620273410",
+        "created_at": "2026-10-06T12:43:29.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107451677620273410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpGfdj4nmb",
+              "end": 166,
+              "expanded_url": "https://x.com/luoshuyao/status/2107451677620273410/photo/1",
+              "media_key": "16_2107451597794185216",
+              "start": 143,
+              "url": "https://t.co/KpGfdj4nmb"
+            },
+            {
+              "display_url": "pic.x.com/KpGfdj4nmb",
+              "end": 166,
+              "expanded_url": "https://x.com/luoshuyao/status/2107451677620273410/photo/1",
+              "media_key": "16_2107451597760626688",
+              "start": 143,
+              "url": "https://t.co/KpGfdj4nmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107451677620273410",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2107451597794185216"
+          },
+          {
+            "media_key": "16_2107451597760626688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "昨日一去不复回～欧耶耶！开心比什么都贵～覆水不能在收回～哦耶耶！桃花🌸谢了有玫瑰🌹～人生💪就像朋友的这杯烈酒🍺🍺烫在我心❤️上温暖我凡事别再放心❤️上🍺🍺～耶✌！往事后不后悔慢慢去体会～此刻朋友👫这杯酒🍺最珍贵！～快把酒🍺满上干了这杯🍺大声歌唱🎤～好朋友好朋友👫今宵多欢畅～理想改变了我们的模样👨也让我懂得了珍惜朋友的肩膀💪～阳光☀总会在风🌪️雨🌧️之后撒向苍茫🍂让我们抬起头🐷学会了坚强💪就像朋友的这杯烈酒🍺🍺烫我心❤️上温暖我凡事别再放@武子弈: 昨日一去不复回～欧耶耶！开心比什么都贵～覆水不能在收回～哦耶耶！桃花🌸谢了有玫瑰🌹～人生💪就像朋友的这杯烈酒🍺🍺烫在我心❤️上温暖我凡事别再放心❤️上🍺🍺～耶✌！往事后不后悔慢慢去体会～此刻朋友👫这杯酒🍺最珍贵！～快把酒🍺满上干了这杯🍺大声歌唱🎤～好朋友好朋友👫今宵多欢畅～理想改变了我们的模样👨也让我懂得了珍惜朋友的肩膀💪～阳光☀总会在风🌪️雨🌧️之后撒向苍茫🍂让我们抬起头🐷学会了坚强💪就像朋友的这杯烈酒🍺🍺烫我心❤️上温暖我凡事别再放"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日一去不复回～欧耶耶！开心比什么都贵～覆水不能在收回～哦耶耶！桃花🌸谢了有玫瑰🌹～人生💪就像朋友的这杯烈酒🍺🍺烫在我心❤️上温暖我凡事别再放心❤️上🍺🍺～耶✌！往事后不后悔慢慢去体会～此刻朋友👫这杯酒🍺最珍贵！～快把酒🍺满上干了这杯🍺大声歌唱🎤～好朋友好朋友👫今宵多欢畅～理想改变了 https://t.co/KpGfdj4nmb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2107465921204019397",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 351,
+          "like_count": 27155,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 6117
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 66,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 43,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107458601669591177",
+        "name": "洛书瑶",
+        "pinned_tweet_id": "2081355076611068334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476546742577504265/1785074775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 276,
+          "like_count": 23719,
+          "listed_count": 3,
+          "media_count": 721,
+          "tweet_count": 6372
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
